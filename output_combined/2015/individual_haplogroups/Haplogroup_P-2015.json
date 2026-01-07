@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2015",
+    "type": "haplogroup",
+    "major_haplogroup": "P",
+    "root_haplogroup": "P",
+    "root_parent": null,
+    "extraction_date": "2026-01-07",
+    "total_subclades": 4
+  },
+  "tree": {
+    "P [K2b2]": {
+      "id": "P [K2b2]",
+      "name": "P [K2b2]",
+      "parent_id": "NO1 [K2a]",
+      "depth": 15,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P295",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5866",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "S8",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "92R7_1",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "92R7_2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F91",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5862",
+            "V231"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpP15.html",
+      "children": [
+        "P1 [K2b2a]"
+      ],
+      "source_version": "2015",
+      "revision_date": "2015-11-26"
+    },
+    "P1 [K2b2a]": {
+      "id": "P1 [K2b2a]",
+      "name": "P1 [K2b2a]",
+      "parent_id": "P [K2b2]",
+      "depth": 16,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "see P tree",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpP15.html",
+      "children": [
+        "Q [K2b2a1]",
+        "R [K2b2a2]"
+      ],
+      "source_version": "2015",
+      "revision_date": "2015-11-26"
+    },
+    "Por K2b2": {
+      "id": "Por K2b2",
+      "name": "Por K2b2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P295",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5866",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "S8",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "etc.",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "92R7_1",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "92R7_2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F91",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5862",
+            "V231"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpP15.html",
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-01-01"
+    },
+    "P1or K2b2a": {
+      "id": "P1or K2b2a",
+      "name": "P1or K2b2a",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M45",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5962",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "F1857",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P337",
+            "Page83",
+            "PF5901"
+          ]
+        },
+        {
+          "name": "M74",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "N12",
+            "PF5963"
+          ]
+        },
+        {
+          "name": "P27.1_1",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P207"
+          ]
+        },
+        {
+          "name": "P27.1_2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P69",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P226",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5879"
+          ]
+        },
+        {
+          "name": "P228",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5927"
+          ]
+        },
+        {
+          "name": "P230",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5925"
+          ]
+        },
+        {
+          "name": "P235",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5946"
+          ]
+        },
+        {
+          "name": "P237",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5873"
+          ]
+        },
+        {
+          "name": "P239",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5930"
+          ]
+        },
+        {
+          "name": "P240",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5897"
+          ]
+        },
+        {
+          "name": "P243",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5874"
+          ]
+        },
+        {
+          "name": "P244",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5896"
+          ]
+        },
+        {
+          "name": "P281",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5941"
+          ]
+        },
+        {
+          "name": "P282",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5932"
+          ]
+        },
+        {
+          "name": "P283",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5966"
+          ]
+        },
+        {
+          "name": "P284",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpK15.html",
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-01-01"
+    }
+  }
+}

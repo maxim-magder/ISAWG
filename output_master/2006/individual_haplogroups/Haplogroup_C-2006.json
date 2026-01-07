@@ -1,0 +1,416 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2006",
+    "type": "haplogroup",
+    "major_haplogroup": "C",
+    "root_haplogroup": "C",
+    "root_parent": "CR",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 18
+  },
+  "tree": {
+    "C": {
+      "id": "C",
+      "name": "C",
+      "parent_id": "CR",
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "RPS4Y (M130)",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M216",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup C appears to have arisen shortly after modern humans left Africa. The haplogroup can be traced across the southern Arabian Peninsula through Pakistan and India into Sri Lanka and Australia, and Southeast Asia.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpC06.html",
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-05-12"
+    },
+    "C*": {
+      "id": "C*",
+      "name": "C*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C1": {
+      "id": "C1",
+      "name": "C1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M8",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M105",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M131",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C2": {
+      "id": "C2",
+      "name": "C2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M38",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C2*": {
+      "id": "C2*",
+      "name": "C2*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C2a": {
+      "id": "C2a",
+      "name": "C2a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P33",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C2b": {
+      "id": "C2b",
+      "name": "C2b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M208",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C3": {
+      "id": "C3",
+      "name": "C3",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M217",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P44",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C3*": {
+      "id": "C3*",
+      "name": "C3*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C3a": {
+      "id": "C3a",
+      "name": "C3a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M93",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C3b": {
+      "id": "C3b",
+      "name": "C3b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P39",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C3c": {
+      "id": "C3c",
+      "name": "C3c",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M48",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M77",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M86",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C3d": {
+      "id": "C3d",
+      "name": "C3d",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M407",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C4": {
+      "id": "C4",
+      "name": "C4",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M347",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C4*": {
+      "id": "C4*",
+      "name": "C4*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C4a": {
+      "id": "C4a",
+      "name": "C4a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "DYS390.1 del",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C4b": {
+      "id": "C4b",
+      "name": "C4b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M210",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "C5": {
+      "id": "C5",
+      "name": "C5",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M356",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    }
+  }
+}

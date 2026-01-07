@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2016",
+    "type": "haplogroup",
+    "major_haplogroup": "K",
+    "root_haplogroup": "K",
+    "root_parent": "IJK",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 8
+  },
+  "tree": {
+    "K": {
+      "id": "K",
+      "name": "K",
+      "parent_id": "IJK",
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M9",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P128",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5504"
+          ]
+        },
+        {
+          "name": "P131",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5493"
+          ]
+        },
+        {
+          "name": "P132",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5480   (See Notes for\nrelationship to remaining haplogroups.)"
+          ]
+        },
+        {
+          "name": "PF5506",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": "Y-DNA haplogroup K is an old lineage established approximately 40,000 thousand years ago whose origins were probably in southwestern Asia. K's structure is interwoven with other haplogroups downstream (refer to the main tree at Y-DNA Haplogroup Tree). The subclades restricted to K itself are found at low frequencies in various parts of Africa, Eurasia, Australia and the South Pacific.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "http://isogg.org/tree/ISOGG_HapgrpK.html",
+      "children": [
+        "[K2]"
+      ],
+      "source_version": "2016",
+      "revision_date": "2016-12-19"
+    },
+    "K~": {
+      "id": "K~",
+      "name": "K~",
+      "parent_id": null,
+      "depth": 0,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2016",
+      "revision_date": "2016-08-31"
+    },
+    "K2": {
+      "id": "K2",
+      "name": "K2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M526",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5979",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "-This was previously classified as K(xLT)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2016",
+      "revision_date": "2016-08-31"
+    },
+    "K2b": {
+      "id": "K2b",
+      "name": "K2b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M1221",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P331",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5911",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2016",
+      "revision_date": "2016-08-31"
+    },
+    "K2b1": {
+      "id": "K2b1",
+      "name": "K2b1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P399",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2016",
+      "revision_date": "2016-08-31"
+    },
+    "K2c": {
+      "id": "K2c",
+      "name": "K2c",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P261",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P263",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2016",
+      "revision_date": "2016-08-31"
+    },
+    "K2d": {
+      "id": "K2d",
+      "name": "K2d",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P402",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P403",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2016",
+      "revision_date": "2016-08-31"
+    },
+    "K2e~": {
+      "id": "K2e~",
+      "name": "K2e~",
+      "parent_id": null,
+      "depth": 0,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2016",
+      "revision_date": "2016-08-31"
+    }
+  }
+}

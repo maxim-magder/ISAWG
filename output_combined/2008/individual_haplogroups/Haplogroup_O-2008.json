@@ -1,0 +1,1695 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2008",
+    "type": "haplogroup",
+    "major_haplogroup": "O",
+    "root_haplogroup": "O",
+    "root_parent": "NO",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 48
+  },
+  "tree": {
+    "O": {
+      "id": "O",
+      "name": "O",
+      "parent_id": "NO",
+      "depth": 8,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M175",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P186",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P191",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P196",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup O probably originated in East Asia and later migrated into the South Pacific. The lineage expanded into Taiwan (high frequency in the aboriginal Taiwanese), Indonesia, Melanesia, Micronesia, and Polynesia.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpO08.html",
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-23"
+    },
+    "O*": {
+      "id": "O*",
+      "name": "O*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1": {
+      "id": "O1",
+      "name": "O1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "MSY2.2",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1*": {
+      "id": "O1*",
+      "name": "O1*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1a": {
+      "id": "O1a",
+      "name": "O1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M119",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1a*": {
+      "id": "O1a*",
+      "name": "O1a*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1a1": {
+      "id": "O1a1",
+      "name": "O1a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P203",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1a1*": {
+      "id": "O1a1*",
+      "name": "O1a1*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1a1a": {
+      "id": "O1a1a",
+      "name": "O1a1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M101   (formerly O1a1)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O1a2": {
+      "id": "O1a2",
+      "name": "O1a2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M50",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M103",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M110",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2": {
+      "id": "O2",
+      "name": "O2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P31",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M268",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2*": {
+      "id": "O2*",
+      "name": "O2*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2a": {
+      "id": "O2a",
+      "name": "O2a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M95",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2a*": {
+      "id": "O2a*",
+      "name": "O2a*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2a1": {
+      "id": "O2a1",
+      "name": "O2a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M88",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M111",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2a1*": {
+      "id": "O2a1*",
+      "name": "O2a1*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2a1a": {
+      "id": "O2a1a",
+      "name": "O2a1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "PK4",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2a2": {
+      "id": "O2a2",
+      "name": "O2a2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M297",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2b": {
+      "id": "O2b",
+      "name": "O2b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M176",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "SRY465"
+          ]
+        },
+        {
+          "name": "P49",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "022454",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2b*": {
+      "id": "O2b*",
+      "name": "O2b*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O2b1": {
+      "id": "O2b1",
+      "name": "O2b1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "47z   (formerly O2b1a)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3": {
+      "id": "O3",
+      "name": "O3",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M122",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P198",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3*": {
+      "id": "O3*",
+      "name": "O3*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a": {
+      "id": "O3a",
+      "name": "O3a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M324",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P93",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P197",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P199",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P200\n\n�      �      \n�      \nO3a*   -\n\n�      �      \n�      \nO3a1   DYS257",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P27.2",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "M121\n\n�      �      \n�      \nO3a2   M164\n\n�      �      \n�      \nO3a3   P201",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "021354\n\n�      �      \n�      �      \nO3a3*   -\n\n�      �      \n�      �      \nO3a3a   M159   (formerly O3a3)\n\n�      �      \n�      �      \nO3a3b   M7   (formerly O3a4)\n\n�      �      \n�      �      \n�      \nO3a3b*   -\n\n�      �      \n�      �      \n�      \nO3a3b1   \nM113",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "M188",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "M209   (formerly O3a4a)\n\n�      �      \n�      �      \n�      �      \nO3a3b1*   -\n\n�      �      \n�      �      \n�      �      \nO3a3b1a   N4   (formerly O3a4a1)\n\n\n�      �      \n�      �      \n�      �      \nO3a3b1b   N5   (formerly O3a4a2)\n\n�      �      \n�      �      \n�      \nO3a3b2   \nP164\n\n�      �      \n�      �      \nO3a3c   M134   (formerly O3a5)\n\n�      �      \n�      �      \n�      \nO3a3c*   -\n\n�      �      \n�      �      \n�      \nO3a3c1   \nM117",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "M133   (formerly O3a5a)\n\n�      �      \n�      �      \n�      �      \nO3a3c1*   -\n\n�      �      \n�      �      \n�      �      \nO3a3c1a   \nM162   (formerly O3a5a1)\n\n�      �      \n�      �      \n�      \nO3a3c2   \nP101   (formerly O3a5b)\n\n�      �      \n�      \nO3a4   002611\n\n�      �      \n�      �      \nO3a4*   -\n\n�      �      \n�      �      \nO3a4a   P103\n\n�      �      \n�      \nO3a5   M300   (formerly O3a6)\n\n�      �      \n�      \nO3a6   M333   (formerly O3a7)\nNOTES:\n\nThe L1 insertion (also known as LINE1) which appeared in previous versions of the tree is associated\n\twith haplogroups O3a3 and O3a4 suggesting a shared ancestry for these two branches.  However",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "L1 has\n\tbeen observed to be absent in these groups due to multiple deletions and so is not included in the\n\tcurrent version of the tree.\nNew",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "private SNPs N6",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "N7",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "N8",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "N9",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "N10",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "N11 were discovered downstream of M175.\nIdentical SNPs that were discovered separately are listed in alphabetical order",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "not necessarily in\n\tthe order of discovery",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "and separated by \"",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "\".  Examples: M176",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "SRY465",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "DYS257",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P27.2",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P201",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "021354\nThe numbered SNPS 022454",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "021354",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "002611are the short-form notation for\nIMS-JST022454",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "IMS-JST021354",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "IMS-JST002611.\n\n\nY-DNA haplogroup O probably originated in East Asia and later migrated into the South Pacific.\nThe lineage expanded into Taiwan (high frequency in the aboriginal Taiwanese)",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Indonesia",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Melanesia",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Micronesia",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "and Polynesia.\nO3 is the predominant sub-group in China. The O1 and O2a lineages are found in Southeast Asian\npopulations of Malaysia",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Vietnam",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Indonesia and southern China. The O2b sub-group is of high\nfrequency in the Japanese and Korean populations.\nReferences:\nCinnioglu et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Excavating Y-chromosome Haplotype Strata in Anatolia. (pdf) Human Genetics. 114:127-148",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2004.\nCox M P & Lahr M M",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Y-Chromosome Diversity Is Inversely Associated with Language Affiliation in Paired\nAustronesian- and Papuan-Speaking Communities from Solomon Islands. (pdf)\nAmerican Journal of Human Biology",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "18:35-50",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006. \nCruciani et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "A Back Migration from Asia to Sub-Saharan Africa Is Supported\nby High-Resolution Analysis of Human Y-Chromosome Haplotypes. (pdf)\nAmerican Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "70:1197-1214",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2002.\nDeng et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Evolution\nand Migration History of the Chinese Population Inferred from the Chinese Y-chromosome Evidence.\n(pdf) Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "49:339-348",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2004.\nHammer et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Dual Origins of the Japanese: Common Ground for Hunter-gatherer and Farmer Y Chromosomes.\n(abstract) Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "51:47-58",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006.\nHudjashov G",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Peopling of Sahul: Evidence from mtDNA and Y-Chromosome.\nThesis (M.SC.) University of Tartu",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Estonia",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006. \nKarafet et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "New Binary Polymorphisms Reshape and Increase Resolution of the Human Y-Chromosomal Haplogroup\nTree. Abstract. Genome Research",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "published online April 2",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2008.\nSupplementary Material.\nKarafet et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Paternal Population History of East Asia: Sources",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Patterns",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "and Microevolutionary Processes. (pdf) American Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "69:615-628",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2001.\nKayser et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Independent Histories of Human Y Chromosomes from Melanesia and Australia.\nAmerican Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "68:173-190",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2001.\nKayser et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Melanesian and Asian Origins of Polynesians: mtDNA and Y-Chromosome Gradients across\nthe Pacific. \tMBE Advance Access published August 21",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006.\nKayser et al. \nReduced Y-Chromosome",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "but Not Mitochondrial DNA",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Diversity in Human Populations from West New\nGuinea. American Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "72:281-302",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2003. \nMohyuddin et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Detection of Novel Y SNPs Provides Further Insights into Y Chromosomal Variation in Pakistan.\nJournal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006.\nMona et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Patterns of Y-chromosome Diversity Intersect with the Trans-New Guinea Hypothesis.\nMol Biol Evol. 2007 Sep 10; [Epub ahead of print]\nNonaka et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Y Chromosomal Binary Haplogroups in the Japanese Population and their Relationship to 16 Y-STR Polymorphisms. (abstract)\nAnnals of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "71:480-495",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2007. \nParacchini et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "A Y Chromosomal Influence on Prostate Cancer Risk: The Multi-ethnic Cohort Study.\nJournal of Medical Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "40:815-819",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2003. \nRegueiro et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Iran: Tricontinental Nexus for Y-Chromosome Driven Migration. (abstract)\nHuman Heredity",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Vol. 61",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "No 3",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "132-143",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006.\nRootsi S",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Human Y Chromosomal Variations in European Populations (dissertation) Council of the\nInstitute of Molecular and Cell Biology",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "University of Tartu",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Oct 2004.\nScheinfeldt et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Unexpected NRY Chromosome Variation in Northern Island Melanesia. (Link and comments from\nDienekes' Anthropological Blog) Society for Molecular Biology",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006.\nSengupta et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Polarity and Temporality of High Resolution Y-chromosome Distributions in India\nIdentify Both Indigenous and Exogenous Expansions and Reveal Minor Genetic Influence\nof Central Asian Pastoralists. (pdf)\nAmerican Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "78:202-221",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006.\nShen et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Reconstruction\nof Patrilineages and Matrilineages of Samaritans and other Israeli Populations from Y-Chromosome\nand Mitochondrial DNA Sequence Variation. (pdf) Human Mutation",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "24:248-260",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2004.\nShi et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Y-Chromosome Evidence of Southern Origin of the East Asian-Specific\nHaplogroup O3-M122. (abstract)\nAmerican Journal of Human Genetics.  77:408-419",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2005.\nSu et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Y-chromosome Evidence for a Northward Migration of Modern Humans into Eastern Asia\nduring the Last Ice Age. (pdf) American Journal of Human Genetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "65:1718-1724",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "1999.\nTan S",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Y-chromosome Polymorphisms Define the Origin of the Mang",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "an Isolated Population in China.\nAnnals of Human Biology",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Sep;34(5):573-581",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2007\nThangaraj et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Genetic Affinities of the Andaman Islanders",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "a Vanishing Human Population. (pdf)\nCurrent Biology",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "13:86-93",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2003.\nXue Y",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "et al",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Male Demography in East Asia: A North-South Contrast in Human Population Expansion Times. (abstract)\nGenetics",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "172:2431-2439",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2006\n\nCorrections",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Additions made since 31 December 2007:\n\nAdded Karafet et al (2008) on 4 May 2008.\nSNPs added on 4 May 2008: 002611",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "021354",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "022454",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P93",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P103",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P164",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P186",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P191",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P196",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P197",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P198",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P199",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P200",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P201",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "P203.\nP49 moved from O2b1 to O2b on 4 May 2008.\nCorrected spelling error on Note for L1 on 5 May 2008.\nCorrected subclade for P198 on 31 December 2008.\n\nContact Person for Haplogroup O:\nGareth Henson\n\n\nBack to Main Page\n\tBack to Y-DNA Tree Trunk\n\tBack to SNP Index\n\tBack to Papers Cited\n\tBack to Glossary\n\tBack to Listing Criteria\nCopyright 2007",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "2008. International Society of Genetic Genealogy.\n\tAll Rights Reserved.",
+          "status": "new",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a*": {
+      "id": "O3a*",
+      "name": "O3a*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a1": {
+      "id": "O3a1",
+      "name": "O3a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "DYS257",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P27.2"
+          ]
+        },
+        {
+          "name": "M121",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a2": {
+      "id": "O3a2",
+      "name": "O3a2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M164",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3": {
+      "id": "O3a3",
+      "name": "O3a3",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P201",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "021354",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3*": {
+      "id": "O3a3*",
+      "name": "O3a3*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3a": {
+      "id": "O3a3a",
+      "name": "O3a3a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M159   (formerly O3a3)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3b": {
+      "id": "O3a3b",
+      "name": "O3a3b",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M7   (formerly O3a4)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3b*": {
+      "id": "O3a3b*",
+      "name": "O3a3b*",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3b1": {
+      "id": "O3a3b1",
+      "name": "O3a3b1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M113",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M188",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M209   (formerly O3a4a)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3b1*": {
+      "id": "O3a3b1*",
+      "name": "O3a3b1*",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3b1a": {
+      "id": "O3a3b1a",
+      "name": "O3a3b1a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "N4",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3b1b": {
+      "id": "O3a3b1b",
+      "name": "O3a3b1b",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "N5   (formerly O3a4a2)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3b2": {
+      "id": "O3a3b2",
+      "name": "O3a3b2",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P164",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3c": {
+      "id": "O3a3c",
+      "name": "O3a3c",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M134   (formerly O3a5)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3c*": {
+      "id": "O3a3c*",
+      "name": "O3a3c*",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3c1": {
+      "id": "O3a3c1",
+      "name": "O3a3c1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M117",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M133   (formerly O3a5a)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3c1*": {
+      "id": "O3a3c1*",
+      "name": "O3a3c1*",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3c1a": {
+      "id": "O3a3c1a",
+      "name": "O3a3c1a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M162   (formerly O3a5a1)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a3c2": {
+      "id": "O3a3c2",
+      "name": "O3a3c2",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P101   (formerly O3a5b)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a4": {
+      "id": "O3a4",
+      "name": "O3a4",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "002611",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a4*": {
+      "id": "O3a4*",
+      "name": "O3a4*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a4a": {
+      "id": "O3a4a",
+      "name": "O3a4a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P103",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a5": {
+      "id": "O3a5",
+      "name": "O3a5",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M300   (formerly O3a6)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    },
+    "O3a6": {
+      "id": "O3a6",
+      "name": "O3a6",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M333   (formerly O3a7)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-31"
+    }
+  }
+}

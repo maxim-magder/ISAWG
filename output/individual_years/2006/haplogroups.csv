@@ -1,0 +1,398 @@
+id,name,parent_id,depth,status,is_paragroup,defining_snps,source_version
+A,A,,1,normal,False,M91,2006
+BR,BR,,1,normal,False,"SRY10831.1 (SRY1532), M42, M94, M139, M299",2006
+B,B,BR,2,normal,False,"M60, M181",2006
+CR,CR,BR,2,normal,False,"M168, M294, P9",2006
+C,C,CR,3,normal,False,"RPS4Y (M130), M216",2006
+DE,DE,CR,3,normal,False,"YAP (M1), M145, M203",2006
+D,D,DE,4,normal,False,M174,2006
+E,E,DE,4,normal,False,"SRY4064 (SRY8299 or M40), M96, P29",2006
+F,F,CR,3,normal,False,"P14, M89, M213",2006
+G,G,F,4,normal,False,M201,2006
+H,H,F,4,normal,False,M69,2006
+IJ,IJ,F,4,normal,False,"S2, S22",2006
+I,I,IJ,5,normal,False,"M170, M258, P19, U179",2006
+J,J,IJ,5,normal,False,"12f2.1, M304, S6, S34, S35, (added)",2006
+K,K,F,4,normal,False,M9,2006
+L,L,K,5,normal,False,"M11, M20, M22, M61, M185, M295",2006
+M,M,K,5,normal,False,"M4, M5, M106, M186, M189, P35, M4 (, M296, )",2006
+NO,NO,K,5,normal,False,M214,2006
+N,N,NO,6,normal,False,"LLY22g, M231",2006
+O,O,NO,6,normal,False,M175,2006
+P,P,K,5,normal,False,"92R7, M45, M74, (N12), P27",2006
+Q,Q,P,6,normal,False,"M242, MEH2, P36",2006
+R,R,P,6,normal,False,"M207 (UTY2), M306, (S1), S4, S8, S9",2006
+A*,A*,,1,normal,True,,2006
+A1,A1,,1,normal,False,M31,2006
+A2,A2,,1,normal,False,"M6, M14, M23, M49, M71, M135, M141, M196, M206, M212, MEH1, P3, P4, P5, PK1",2006
+A2*,A2*,,2,normal,True,,2006
+A2a,A2a,,2,normal,False,M114,2006
+A2b,A2b,,2,normal,False,P28,2006
+A3,A3,,1,normal,False,M32,2006
+A3*,A3*,,2,normal,True,,2006
+A3a,A3a,,2,normal,False,"M28, M59",2006
+A3b,A3b,,2,normal,False,"M144, M190, M220",2006
+A3b*,A3b*,,3,normal,True,,2006
+A3b1,A3b1,,3,normal,False,M51,2006
+A3b2,A3b2,,3,normal,False,"M13, M63, M127, M202, M219, M305",2006
+A3b2*,A3b2*,,4,normal,True,,2006
+A3b2a,A3b2a,,4,normal,False,M171,2006
+A3b2b,A3b2b,,4,normal,False,M118,2006
+B*,B*,,1,normal,True,,2006
+B1,B1,,1,normal,False,"M236, M288",2006
+B1*,B1*,,2,normal,True,,2006
+B1a,B1a,,2,renamed,False,M146 (formerly B1),2006
+B2,B2,,1,normal,False,M182,2006
+B2*,B2*,,2,normal,True,,2006
+B2a,B2a,,2,normal,False,M150,2006
+B2a*,B2a*,,3,normal,True,,2006
+B2a1,B2a1,,3,normal,False,M218,2006
+B2a1*,B2a1*,,4,normal,True,,2006
+B2a1a,B2a1a,,4,new,False,"M109, M152, P32 (formerly in B2a1)",2006
+B2a2,B2a2,,3,normal,False,M108.1,2006
+B2a2*,B2a2*,,4,normal,True,,2006
+B2a2a,B2a2a,,4,normal,False,M43,2006
+B2b,B2b,,2,normal,False,"M112, M192, 50f2",2006
+B2b*,B2b*,,3,normal,True,,2006
+B2b1,B2b1,,3,normal,False,P6,2006
+B2b2,B2b2,,3,normal,False,"M115, M169",2006
+B2b3,B2b3,,3,normal,False,"M30, M129",2006
+B2b3*,B2b3*,,4,normal,True,,2006
+B2b3a,B2b3a,,4,normal,False,M108.2,2006
+B2b4,B2b4,,3,normal,False,P7,2006
+B2b4*,B2b4*,,4,normal,True,,2006
+B2b4a,B2b4a,,4,normal,False,P8,2006
+B2b4b,B2b4b,,4,normal,False,"MSY2.1, M211",2006
+C*,C*,,1,normal,True,,2006
+C1,C1,,1,normal,False,"M8, M105, M131",2006
+C2,C2,,1,normal,False,M38,2006
+C2*,C2*,,2,normal,True,,2006
+C2a,C2a,,2,normal,False,P33,2006
+C2b,C2b,,2,normal,False,M208,2006
+C3,C3,,1,normal,False,"M217, P44",2006
+C3*,C3*,,2,normal,True,,2006
+C3a,C3a,,2,normal,False,M93,2006
+C3b,C3b,,2,normal,False,P39,2006
+C3c,C3c,,2,normal,False,"M48, M77, M86",2006
+C3d,C3d,,2,normal,False,M407,2006
+C4,C4,,1,normal,False,M347,2006
+C4*,C4*,,2,normal,True,,2006
+C4a,C4a,,2,normal,False,DYS390.1 del,2006
+C4b,C4b,,2,normal,False,M210,2006
+C5,C5,,1,normal,False,M356,2006
+D*,D*,,1,normal,True,,2006
+D1,D1,,1,normal,False,M15,2006
+D2,D2,,1,normal,False,"M55, M57, M64.1, M179, P12, P37.1, P41.1, (M359.1), 12f2.2",2006
+D2*,D2*,,2,normal,True,,2006
+D2a,D2a,,2,normal,False,M116.1,2006
+D2a*,D2a*,,3,normal,True,,2006
+D2a1,D2a1,,3,normal,False,M125,2006
+D2a1*,D2a1*,,4,normal,True,,2006
+D2a1a,D2a1a,,4,normal,False,P42,2006
+D2a1b,D2a1b,,4,normal,False,P53.2,2006
+D2a2,D2a2,,3,normal,False,M151,2006
+D3,D3,,1,normal,False,P47,2006
+E*,E*,,1,normal,True,,2006
+E1,E1,,2,normal,False,"M33, M132",2006
+E1*,E1*,,3,normal,True,,2006
+E1a,E1a,,3,normal,False,M44,2006
+E2,E2,,2,normal,False,M75,2006
+E2*,E2*,,3,normal,True,,2006
+E2a,E2a,,3,normal,False,M41,2006
+E2b,E2b,,3,normal,False,"M54, M90, M98",2006
+E2b*,E2b*,,4,normal,True,,2006
+E2b1,E2b1,,4,normal,False,P45,2006
+E2b2,E2b2,,4,new,False,M85 (formerly E2b),2006
+E2b2*,E2b2*,,5,normal,True,,2006
+E2b2a,E2b2a,,5,new,False,M200,2006
+E3,E3,,2,normal,False,"P2, DYS391p",2006
+E3*,E3*,,3,normal,True,,2006
+E3a,E3a,,3,normal,False,"M2 (SY81) (DYS271), M180, P1, P46",2006
+E3a*,E3a*,,4,normal,True,,2006
+E3a1,E3a1,,4,normal,False,M58,2006
+E3a2,E3a2,,4,normal,False,M116.2,2006
+E3a3,E3a3,,4,normal,False,M149,2006
+E3a4,E3a4,,4,normal,False,M154,2006
+E3a5,E3a5,,4,normal,False,M155,2006
+E3a6,E3a6,,4,normal,False,"M10, M66, M156, M195",2006
+E3a7,E3a7,,4,normal,False,"M191, U186, U247",2006
+E3a7*,E3a7*,,5,new,True,,2006
+E3a7a,E3a7a,,5,new,False,U174,2006
+E3a8,E3a8,,4,new,False,"U175, U209",2006
+E3a8*,E3a8*,,5,new,True,,2006
+E3a8a,E3a8a,,5,new,False,U290,2006
+E3a8a*,E3a8a*,,6,new,True,,2006
+E3a8a1,E3a8a1,,6,new,False,U181,2006
+E3b,E3b,,3,normal,False,M215,2006
+E3b*,E3b*,,4,normal,True,,2006
+E3b1,E3b1,,4,renamed,False,M35 (formerly in E3b),2006
+E3b1*,E3b1*,,5,normal,True,,2006
+E3b1a,E3b1a,,5,renamed,False,M78 (formerly E3b1),2006
+E3b1a*,E3b1a*,,6,normal,True,,2006
+E3b1a1,E3b1a1,,6,renamed,False,V12,2006
+E3b1a1*,E3b1a1*,,7,new,True,,2006
+E3b1a1a,E3b1a1a,,7,new,False,"M224, then E3b1a2)",2006
+E3b1a1b,E3b1a1b,,7,new,False,V32,2006
+E3b1a2,E3b1a2,,6,renamed,False,V13,2006
+E3b1a2*,E3b1a2*,,7,new,True,,2006
+E3b1a2a,E3b1a2a,,7,new,False,"V27, (added)",2006
+E3b1a3,E3b1a3,,6,new,False,V22,2006
+E3b1a3*,E3b1a3*,,7,new,True,,2006
+E3b1a3a,E3b1a3a,,7,new,False,"M148, (added), then E3b1a2)",2006
+E3b1a3b,E3b1a3b,,7,new,False,"V19, (added)",2006
+E3b1b,E3b1b,,5,renamed,False,M81 (formerly E3b2),2006
+E3b1b*,E3b1b*,,6,normal,True,,2006
+E3b1b1,E3b1b1,,6,renamed,False,M107,2006
+E3b1b2,E3b1b2,,6,renamed,False,"M183, M165",2006
+E3b1c,E3b1c,,5,renamed,False,M123 (formerly E3b3),2006
+E3b1c*,E3b1c*,,6,normal,True,,2006
+E3b1c1,E3b1c1,,6,renamed,False,M34 (formerly E3b3a),2006
+E3b1c1*,E3b1c1*,,7,normal,True,,2006
+E3b1c1a,E3b1c1a,,7,renamed,False,"M136, M84",2006
+E3b1c1b,E3b1c1b,,7,renamed,False,"M290, (added)",2006
+E3b1d,E3b1d,,5,renamed,False,M281,2006
+E3b1e,E3b1e,,5,renamed,False,V6 (formerly E3e),2006
+E3c,E3c,,3,new,False,"M329, (added)",2006
+E4,E4,,2,normal,False,P75,2006
+F*,F*,,1,normal,True,,2006
+F1,F1,,1,normal,False,"P91, P104",2006
+F2,F2,,1,new,False,"M427, M428",2006
+G*,G*,,1,normal,True,,2006
+G1,G1,,1,normal,False,"M285, M342",2006
+G1*,G1*,,2,normal,True,,2006
+G1a,G1a,,2,normal,False,P20,2006
+G2,G2,,1,normal,False,P15,2006
+G2*,G2*,,2,normal,True,,2006
+G2a,G2a,,2,normal,False,P16,2006
+G2a*,G2a*,,3,normal,True,,2006
+G2a1,G2a1,,3,normal,False,"P17, P18",2006
+G2b,G2b,,2,normal,False,M286,2006
+G3,G3,,1,normal,False,M287,2006
+G4,G4,,1,new,False,Information not yet available,2006
+G5,G5,,1,new,False,M377,2006
+H*,H*,,1,normal,True,,2006
+H1,H1,,1,normal,False,M52,2006
+H1*,H1*,,2,normal,True,,2006
+H1a,H1a,,2,normal,False,M82,2006
+H1a*,H1a*,,3,normal,True,,2006
+H1a1,H1a1,,3,normal,False,"M36, M197",2006
+H1a2,H1a2,,3,normal,False,M97,2006
+H1a3,H1a3,,3,normal,False,"M39, M138",2006
+H1b,H1b,,2,normal,False,M370,2006
+H2,H2,,1,normal,False,Apt,2006
+I*,I*,,1,normal,True,,2006
+I1,I1,,1,normal,False,P38,2006
+I1*,I1*,,2,normal,True,,2006
+I1a,I1a,,2,normal,False,"M253, M307, P30, P40",2006
+I1a*,I1a*,,3,normal,True,,2006
+I1a1,I1a1,,3,renamed,False,"M227   (formerly
+I1a4)",2006
+I1a2,I1a2,,3,normal,False,M21,2006
+I1a3,I1a3,,3,normal,False,M72,2006
+I1b,I1b,,2,normal,False,S31,2006
+I1b*,I1b*,,3,normal,True,,2006
+I1b1,I1b1,,3,renamed,False,P37.2 (formerly I1b),2006
+I1b1*,I1b1*,,4,normal,True,,2006
+I1b1a,I1b1a,,4,renamed,False,"P41.2, (M359.2)",2006
+I1b1b,I1b1b,,4,renamed,False,M26 (formerly I1b2),2006
+I1b1b*,I1b1b*,,5,normal,True,,2006
+I1b1b1,I1b1b1,,5,renamed,False,M161 (formerly I1b2a),2006
+I1b2,I1b2,,3,new,False,"S23, S30, S32, S33, (added)",2006
+I1b2*,I1b2*,,4,normal,True,,2006
+I1b2a,I1b2a,,4,renamed,False,"M223, S24, also shown as I2)",2006
+I1b2a*,I1b2a*,,5,normal,True,,2006
+I1b2a1,I1b2a1,,5,renamed,False,"M284 (formerly I1c1, also shown as I2a)",2006
+I1b2a2,I1b2a2,,5,new,False,M379,2006
+I1b2a3,I1b2a3,,5,new,False,P78,2006
+I1b2a4,I1b2a4,,5,new,False,P95,2006
+J*,J*,,1,normal,True,,2006
+J1,J1,,1,normal,False,M267,2006
+J1*,J1*,,2,normal,True,,2006
+J1a,J1a,,2,normal,False,M62,2006
+J1b,J1b,,2,normal,False,M365,2006
+J1c,J1c,,2,normal,False,"M367, M368",2006
+J1d,J1d,,2,normal,False,M369,2006
+J1e,J1e,,2,normal,False,M390,2006
+J2,J2,,1,normal,False,M172,2006
+J2*,J2*,,2,normal,True,,2006
+J2a,J2a,,2,renamed,False,M410,2006
+J2a*,J2a*,,3,normal,True,,2006
+J2a1,J2a1,,3,new,False,DYS413≤18,2006
+J2a1*,J2a1*,,4,normal,True,,2006
+J2a1a,J2a1a,,4,renamed,False,"M47, M322",2006
+J2a1b,J2a1b,,4,renamed,False,"M67 (S51)   (formerly
+J2f)",2006
+J2a1b*,J2a1b*,,5,normal,True,,2006
+J2a1b1,J2a1b1,,5,renamed,False,"M92, M260",2006
+J2a1b1*,J2a1b1*,,6,normal,True,,2006
+J2a1b1a,J2a1b1a,,6,renamed,False,"M327   
+(formerly a part of J2f1)",2006
+J2a1b2,J2a1b2,,5,renamed,False,"M163, M166   
+(formerly J2f2)",2006
+J2a1c,J2a1c,,4,renamed,False,"M68   
+(formerly J2b)",2006
+J2a1d,J2a1d,,4,renamed,False,"M137   
+(formerly J2c)",2006
+J2a1e,J2a1e,,4,renamed,False,"M158   
+(formerly J2d)",2006
+J2a1f,J2a1f,,4,renamed,False,M289,2006
+J2a1g,J2a1g,,4,renamed,False,"M318   
+(formerly J2k)",2006
+J2a1h,J2a1h,,4,renamed,False,"M319   
+(formerly J2l)",2006
+J2a1i,J2a1i,,4,renamed,False,"M339   
+(formerly J2g)",2006
+J2a1j,J2a1j,,4,renamed,False,M419,2006
+J2a1k,J2a1k,,4,new,False,DYS445≤7,2006
+J2a2,J2a2,,3,renamed,False,"M340   
+(formerly J2h)",2006
+J2b,J2b,,2,renamed,False,"M12, M314, M221",2006
+J2b*,J2b*,,3,normal,True,,2006
+J2b1,J2b1,,3,renamed,False,"M102
+    (formerly J2e1)",2006
+J2b1*,J2b1*,,4,normal,True,,2006
+J2b1a,J2b1a,,4,renamed,False,"M241   
+(formerly J2e1b)",2006
+J2b1a*,J2b1a*,,5,normal,True,,2006
+J2b1a1,J2b1a1,,5,renamed,False,"M99   
+(formerly J2e1a)",2006
+J2b1a2,J2b1a2,,5,renamed,False,"M280   
+(formerly J2e1c)",2006
+J2b1a3,J2b1a3,,5,renamed,False,"M321   
+(formerly J2e1b1)",2006
+J2b1b,J2b1b,,4,renamed,False,"M205   
+(formerly J2e2, then J2b2)",2006
+K*,K*,,1,normal,True,,2006
+K1,K1,,1,normal,False,"M353, M387",2006
+K1*,K1*,,2,normal,True,,2006
+K1a,K1a,,2,new,False,SRY9138 (M177),2006
+K2,K2,,1,normal,False,"M70, M184, M193, M272",2006
+K2*,K2*,,2,normal,True,,2006
+K2a,K2a,,2,normal,False,M320,2006
+K3,K3,,1,normal,False,M147,2006
+K4,K4,,1,normal,False,P60,2006
+K5,K5,,1,normal,False,M230,2006
+K5*,K5*,,2,normal,True,,2006
+K5a,K5a,,2,normal,False,M254,2006
+K5a*,K5a*,,3,normal,True,,2006
+K5a1,K5a1,,3,new,False,M226,2006
+K6,K6,,1,normal,False,"P79, (added)",2006
+K7,K7,,1,normal,False,"P117, (added)",2006
+L*,L*,,1,normal,True,,2006
+L1,L1,,1,normal,False,"M27, M76",2006
+L2,L2,,1,new,False,M317,2006
+L2*,L2*,,2,normal,True,,2006
+L2a,L2a,,2,normal,False,"M274, (added)",2006
+L2b,L2b,,2,normal,False,"M349, (added)",2006
+L3,L3,,1,new,False,M357,2006
+L3*,L3*,,2,normal,True,,2006
+L3a,L3a,,2,new,False,"PK3, (added)",2006
+M*,M*,,1,normal,True,,2006
+M1,M1,,1,normal,False,P34,2006
+M1*,M1*,,2,normal,True,,2006
+M1a,M1a,,2,normal,False,P51,2006
+M2,M2,,1,normal,False,P87,2006
+M2*,M2*,,2,normal,True,,2006
+M2a,M2a,,2,normal,False,M104 (P22),2006
+M2a*,M2a*,,3,normal,True,,2006
+M2a1,M2a1,,3,normal,False,M16,2006
+M2a2,M2a2,,3,normal,False,M83,2006
+N*,N*,,1,normal,True,,2006
+N1,N1,,1,normal,False,M128,2006
+N2,N2,,1,normal,False,P43,2006
+N2*,N2*,,2,normal,True,,2006
+N2a,N2a,,2,normal,False,P63,2006
+N3,N3,,1,normal,False,Tat (M46),2006
+N3*,N3*,,2,normal,True,,2006
+N3a,N3a,,2,normal,False,M178,2006
+N3a*,N3a*,,3,normal,True,,2006
+N3a1,N3a1,,3,normal,False,P21,2006
+O*,O*,,1,normal,True,,2006
+O1,O1,,1,normal,False,MSY2.2,2006
+O1*,O1*,,2,normal,True,,2006
+O1a,O1a,,2,normal,False,M119,2006
+O1a*,O1a*,,3,normal,True,,2006
+O1a1,O1a1,,3,normal,False,M101,2006
+O1a2,O1a2,,3,normal,False,"M50, M103, M110",2006
+O2,O2,,1,normal,False,"P31, M268",2006
+O2*,O2*,,2,normal,True,,2006
+O2a,O2a,,2,normal,False,M95,2006
+O2a*,O2a*,,3,normal,True,,2006
+O2a1,O2a1,,3,normal,False,"M88, M111",2006
+O2a1*,O2a1*,,4,normal,True,,2006
+O2a1a,O2a1a,,4,new,False,"PK4, (added)",2006
+O2a2,O2a2,,3,normal,False,"M297, (added)",2006
+O2b,O2b,,2,normal,False,SRY465 (M176),2006
+O2b*,O2b*,,3,normal,True,,2006
+O2b1,O2b1,,3,normal,False,P49,2006
+O2b1*,O2b1*,,4,normal,True,,2006
+O2b1a,O2b1a,,4,normal,False,47z,2006
+O3,O3,,1,normal,False,M122,2006
+O3*,O3*,,2,normal,True,,2006
+O3a,O3a,,2,new,False,M324,2006
+O3a*,O3a*,,3,normal,True,,2006
+O3a1,O3a1,,3,renamed,False,"M121, DYS257",2006
+O3a2,O3a2,,3,renamed,False,M164   (formerly O3b),2006
+O3a3,O3a3,,3,renamed,False,"LINE1, M159   (formerly O3c)",2006
+O3a4,O3a4,,3,renamed,False,M7   (formerly O3d),2006
+O3a4*,O3a4*,,4,normal,True,,2006
+O3a4a,O3a4a,,4,renamed,False,"M113, M188, M209",2006
+O3a4a*,O3a4a*,,5,renamed,True,,2006
+O3a4a1,O3a4a1,,5,renamed,False,"N4, (added)",2006
+O3a4a2,O3a4a2,,5,renamed,False,N5,2006
+O3a5,O3a5,,3,renamed,False,M134   (formerly O3e),2006
+O3a5*,O3a5*,,4,normal,True,,2006
+O3a5a,O3a5a,,4,renamed,False,"M117, M133   (formerly O3e1)",2006
+O3a5a*,O3a5a*,,5,normal,True,,2006
+O3a5a1,O3a5a1,,5,renamed,False,M162   (formerly O3e1a),2006
+O3a5b,O3a5b,,4,renamed,False,P101,2006
+O3a6,O3a6,,3,new,False,M300,2006
+O3a7,O3a7,,3,new,False,M333,2006
+P*,P*,,1,normal,True,,2006
+Q*,Q*,,1,normal,True,,2006
+Q1,Q1,,1,normal,False,"M120, N14 (M265)",2006
+Q1*,Q1*,,2,normal,True,,2006
+Q1a,Q1a,,2,new,False,M378,2006
+Q2,Q2,,1,normal,False,"M25, M143",2006
+Q3,Q3,,1,normal,False,M3,2006
+Q3*,Q3*,,2,normal,True,,2006
+Q3a,Q3a,,2,normal,False,M19,2006
+Q3b,Q3b,,2,normal,False,M194,2006
+Q3c,Q3c,,2,normal,False,M199,2006
+Q4,Q4,,1,normal,False,P48,2006
+Q5,Q5,,1,new,False,"M323
+(called Q4 in Shen 2004 and, with queried status, Q6 in 2005 tree)",2006
+Q6,Q6,,1,new,False,M346,2006
+R*,R*,,1,normal,True,,2006
+R1,R1,,1,normal,False,M173,2006
+R1*,R1*,,2,normal,True,,2006
+R1a,R1a,,2,normal,False,SRY10831.2 (SRY1532),2006
+R1a*,R1a*,,3,normal,True,,2006
+R1a1,R1a1,,3,normal,False,"M17, M198",2006
+R1a1*,R1a1*,,4,normal,True,,2006
+R1a1a,R1a1a,,4,normal,False,M56,2006
+R1a1b,R1a1b,,4,normal,False,M157,2006
+R1a1c,R1a1c,,4,normal,False,"M64.2, M87, M204",2006
+R1b,R1b,,2,normal,False,M343,2006
+R1b*,R1b*,,3,normal,True,,2006
+R1b1,R1b1,,3,normal,False,P25,2006
+R1b1*,R1b1*,,4,normal,True,,2006
+R1b1a,R1b1a,,4,normal,False,M18,2006
+R1b1b,R1b1b,,4,normal,False,M73,2006
+R1b1c,R1b1c,,4,normal,False,"M269, S3, S10, S13, S17",2006
+R1b1c*,R1b1c*,,5,normal,True,,2006
+R1b1c1,R1b1c1,,5,normal,False,M37,2006
+R1b1c2,R1b1c2,,5,normal,False,M65,2006
+R1b1c3,R1b1c3,,5,normal,False,M126,2006
+R1b1c4,R1b1c4,,5,normal,False,M153,2006
+R1b1c5,R1b1c5,,5,normal,False,M160,2006
+R1b1c6,R1b1c6,,5,normal,False,SRY2627 (M167),2006
+R1b1c7,R1b1c7,,5,normal,False,M222,2006
+R1b1c8,R1b1c8,,5,normal,False,P66,2006
+R1b1c9,R1b1c9,,5,new,False,"S21 (U106), (added)",2006
+R1b1c9*,R1b1c9*,,6,new,True,,2006
+R1b1c9a,R1b1c9a,,6,new,False,"L1 (S26), (added)",2006
+R1b1c9b,R1b1c9b,,6,new,False,"S29 (U198), (added)",2006
+R1b1c10,R1b1c10,,5,new,False,"S28 (U152), (added)",2006
+R1b1d,R1b1d,,4,normal,False,M335,2006
+R2,R2,,1,normal,False,M124,2006

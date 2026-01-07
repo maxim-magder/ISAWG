@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2010",
+    "type": "haplogroup",
+    "major_haplogroup": "P",
+    "root_haplogroup": "P",
+    "root_parent": "MNOPS",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 2
+  },
+  "tree": {
+    "P": {
+      "id": "P",
+      "name": "P",
+      "parent_id": "MNOPS",
+      "depth": 8,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "92R7",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M45",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M74",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "N12"
+          ]
+        },
+        {
+          "name": "P27.1",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P207"
+          ]
+        },
+        {
+          "name": "P69",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P226",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P228",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P230",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P235",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P237",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P239",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P240",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P243",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P244",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P281",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P282",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P283",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P284",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P295",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Page83",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "https://isogg.org/tree/2010/ISOGG_HapgrpP10.html",
+      "children": [
+        "Q",
+        "R"
+      ],
+      "source_version": "2010",
+      "revision_date": "2010-12-04"
+    },
+    "P*": {
+      "id": "P*",
+      "name": "P*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-12-04"
+    }
+  }
+}

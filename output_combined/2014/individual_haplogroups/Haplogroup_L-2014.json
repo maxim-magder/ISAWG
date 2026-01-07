@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2014",
+    "type": "haplogroup",
+    "major_haplogroup": "L",
+    "root_haplogroup": "L",
+    "root_parent": "LT",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 13
+  },
+  "tree": {
+    "L": {
+      "id": "L",
+      "name": "L",
+      "parent_id": "LT",
+      "depth": 13,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M20",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5570",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L855",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L863",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L878",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5524"
+          ]
+        },
+        {
+          "name": "L879",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5697"
+          ]
+        },
+        {
+          "name": "M11",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M61",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Page43"
+          ]
+        },
+        {
+          "name": "M185",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5755"
+          ]
+        }
+      ],
+      "description": "Y-DNA haplogroup L is found primarily as sub-group L1a (former L1) in India, Southern Pakistan and Sri Lanka. Paragroups L1b* and L1b1* (former L2*) and sub-group L1b1a (former L2a) are found at low frequencies in the Middle East and Europe. Sub-group L1c (former L3) is found mainly in northern Pakistan, northern India and west-central Asia.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpL14.html",
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-25"
+    },
+    "LTor K1": {
+      "id": "LTor K1",
+      "name": "LTor K1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L298",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P326",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "etc.",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_YDNATreeTrunk14.html",
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-08"
+    },
+    "Lor K1a": {
+      "id": "Lor K1a",
+      "name": "Lor K1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M20",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5570",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "etc.",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpL14.html",
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-08"
+    },
+    "L*": {
+      "id": "L*",
+      "name": "L*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1": {
+      "id": "L1",
+      "name": "L1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M22",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L656",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L1304",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M295",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Page121",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1*": {
+      "id": "L1*",
+      "name": "L1*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1a": {
+      "id": "L1a",
+      "name": "L1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M27",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "M76",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P329",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1b": {
+      "id": "L1b",
+      "name": "L1b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M317",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L655",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1b*": {
+      "id": "L1b*",
+      "name": "L1b*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1b1": {
+      "id": "L1b1",
+      "name": "L1b1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M349",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1b2": {
+      "id": "L1b2",
+      "name": "L1b2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M274",
+          "status": "provisional",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L1c": {
+      "id": "L1c",
+      "name": "L1c",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M357",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L1307",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    },
+    "L2": {
+      "id": "L2",
+      "name": "L2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L595",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2014",
+      "revision_date": "2014-10-23"
+    }
+  }
+}

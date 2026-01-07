@@ -1,0 +1,2170 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2010",
+    "type": "haplogroup",
+    "major_haplogroup": "R",
+    "root_haplogroup": "R",
+    "root_parent": "P",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 85
+  },
+  "tree": {
+    "R": {
+      "id": "R",
+      "name": "R",
+      "parent_id": "P",
+      "depth": 9,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M207",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "UTY2"
+          ]
+        },
+        {
+          "name": "M306",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S1"
+          ]
+        },
+        {
+          "name": "P224",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P227",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P229",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P232",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P280",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P285",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S4",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S8",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S9",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "V45",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup R (M207) is believed to have arisen approximately 27,000 years ago in Asia. The two currently defined subclades are R1 and R2.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "https://isogg.org/tree/2010/ISOGG_HapgrpR10.html",
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-12-04"
+    },
+    "R*": {
+      "id": "R*",
+      "name": "R*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1": {
+      "id": "R1",
+      "name": "R1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M173",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P241"
+          ]
+        },
+        {
+          "name": "M306",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S1"
+          ]
+        },
+        {
+          "name": "P225",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P231",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P233",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P234",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P236",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P238",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P242",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P245",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P286",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P294",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1*": {
+      "id": "R1*",
+      "name": "R1*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a": {
+      "id": "R1a",
+      "name": "R1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L62",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            ""
+          ]
+        },
+        {
+          "name": "M513",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L63",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            ""
+          ]
+        },
+        {
+          "name": "M511",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L145",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M449",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L146",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "M420"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a*": {
+      "id": "R1a*",
+      "name": "R1a*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1": {
+      "id": "R1a1",
+      "name": "R1a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L120",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M516",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L122",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M448",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M459",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "SRY1532.2",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "SRY10831.2"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1*": {
+      "id": "R1a1*",
+      "name": "R1a1*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a": {
+      "id": "R1a1a",
+      "name": "R1a1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M17",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M198",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M512",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M514",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M515",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a*": {
+      "id": "R1a1a*",
+      "name": "R1a1a*",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1": {
+      "id": "R1a1a1",
+      "name": "R1a1a1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M417",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "Page07 (see Notes)",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1*": {
+      "id": "R1a1a1*",
+      "name": "R1a1a1*",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1a": {
+      "id": "R1a1a1a",
+      "name": "R1a1a1a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M56",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1b": {
+      "id": "R1a1a1b",
+      "name": "R1a1a1b",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M157",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1c": {
+      "id": "R1a1a1c",
+      "name": "R1a1a1c",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M64.2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M87",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M204",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1d": {
+      "id": "R1a1a1d",
+      "name": "R1a1a1d",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P98",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1e": {
+      "id": "R1a1a1e",
+      "name": "R1a1a1e",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "PK5",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1f": {
+      "id": "R1a1a1f",
+      "name": "R1a1a1f",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M434",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1g": {
+      "id": "R1a1a1g",
+      "name": "R1a1a1g",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M458",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1g*": {
+      "id": "R1a1a1g*",
+      "name": "R1a1a1g*",
+      "parent_id": null,
+      "depth": 7,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1g1": {
+      "id": "R1a1a1g1",
+      "name": "R1a1a1g1",
+      "parent_id": null,
+      "depth": 7,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M334",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1a1a1g2": {
+      "id": "R1a1a1g2",
+      "name": "R1a1a1g2",
+      "parent_id": null,
+      "depth": 7,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L260",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b": {
+      "id": "R1b",
+      "name": "R1b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M343",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b*": {
+      "id": "R1b*",
+      "name": "R1b*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1": {
+      "id": "R1b1",
+      "name": "R1b1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L278",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M415",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P25",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1*": {
+      "id": "R1b1*",
+      "name": "R1b1*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a": {
+      "id": "R1b1a",
+      "name": "R1b1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "V88",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a*": {
+      "id": "R1b1a*",
+      "name": "R1b1a*",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a1": {
+      "id": "R1b1a1",
+      "name": "R1b1a1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M18",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a2": {
+      "id": "R1b1a2",
+      "name": "R1b1a2",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "V8",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a3": {
+      "id": "R1b1a3",
+      "name": "R1b1a3",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "V35",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a3*": {
+      "id": "R1b1a3*",
+      "name": "R1b1a3*",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a3a": {
+      "id": "R1b1a3a",
+      "name": "R1b1a3a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "V7",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1a4": {
+      "id": "R1b1a4",
+      "name": "R1b1a4",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "V69",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b": {
+      "id": "R1b1b",
+      "name": "R1b1b",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P297",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b*": {
+      "id": "R1b1b*",
+      "name": "R1b1b*",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b1": {
+      "id": "R1b1b1",
+      "name": "R1b1b1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M73",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M478",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2": {
+      "id": "R1b1b2",
+      "name": "R1b1b2",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L265",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M269",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M520",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S3",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S10",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S13",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S17",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2*": {
+      "id": "R1b1b2*",
+      "name": "R1b1b2*",
+      "parent_id": null,
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a": {
+      "id": "R1b1b2a",
+      "name": "R1b1b2a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L23",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S141"
+          ]
+        },
+        {
+          "name": "L49",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L150",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a*": {
+      "id": "R1b1b2a*",
+      "name": "R1b1b2a*",
+      "parent_id": null,
+      "depth": 7,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1": {
+      "id": "R1b1b2a1",
+      "name": "R1b1b2a1",
+      "parent_id": null,
+      "depth": 7,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L51",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            ""
+          ]
+        },
+        {
+          "name": "M412",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S167",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1*": {
+      "id": "R1b1b2a1*",
+      "name": "R1b1b2a1*",
+      "parent_id": null,
+      "depth": 8,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a": {
+      "id": "R1b1b2a1a",
+      "name": "R1b1b2a1a",
+      "parent_id": null,
+      "depth": 8,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L11",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S127"
+          ]
+        },
+        {
+          "name": "L52",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L151",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P310",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S129"
+          ]
+        },
+        {
+          "name": "P311",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S128"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a*": {
+      "id": "R1b1b2a1a*",
+      "name": "R1b1b2a1a*",
+      "parent_id": null,
+      "depth": 9,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1": {
+      "id": "R1b1b2a1a1",
+      "name": "R1b1b2a1a1",
+      "parent_id": null,
+      "depth": 9,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M405",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S21",
+            "U106"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1*": {
+      "id": "R1b1b2a1a1*",
+      "name": "R1b1b2a1a1*",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1a": {
+      "id": "R1b1b2a1a1a",
+      "name": "R1b1b2a1a1a",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M467",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S29",
+            "U198"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1b": {
+      "id": "R1b1b2a1a1b",
+      "name": "R1b1b2a1a1b",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P107",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1c": {
+      "id": "R1b1b2a1a1c",
+      "name": "R1b1b2a1a1c",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "DYS439(null)",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "L1",
+            "S26"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d": {
+      "id": "R1b1b2a1a1d",
+      "name": "R1b1b2a1a1d",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L48",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S162"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d*": {
+      "id": "R1b1b2a1a1d*",
+      "name": "R1b1b2a1a1d*",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d1": {
+      "id": "R1b1b2a1a1d1",
+      "name": "R1b1b2a1a1d1",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L47",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d1*": {
+      "id": "R1b1b2a1a1d1*",
+      "name": "R1b1b2a1a1d1*",
+      "parent_id": null,
+      "depth": 12,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d1a": {
+      "id": "R1b1b2a1a1d1a",
+      "name": "R1b1b2a1a1d1a",
+      "parent_id": null,
+      "depth": 12,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L44",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d1a*": {
+      "id": "R1b1b2a1a1d1a*",
+      "name": "R1b1b2a1a1d1a*",
+      "parent_id": null,
+      "depth": 13,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d1a1": {
+      "id": "R1b1b2a1a1d1a1",
+      "name": "R1b1b2a1a1d1a1",
+      "parent_id": null,
+      "depth": 13,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L45",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L46",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L164",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1d2": {
+      "id": "R1b1b2a1a1d2",
+      "name": "R1b1b2a1a1d2",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L148",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a1e": {
+      "id": "R1b1b2a1a1e",
+      "name": "R1b1b2a1a1e",
+      "parent_id": null,
+      "depth": 10,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L257",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S186",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2": {
+      "id": "R1b1b2a1a2",
+      "name": "R1b1b2a1a2",
+      "parent_id": null,
+      "depth": 9,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P312",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S116"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2*": {
+      "id": "R1b1b2a1a2*",
+      "name": "R1b1b2a1a2*",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2a": {
+      "id": "R1b1b2a1a2a",
+      "name": "R1b1b2a1a2a",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M65",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2b": {
+      "id": "R1b1b2a1a2b",
+      "name": "R1b1b2a1a2b",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M153",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2c": {
+      "id": "R1b1b2a1a2c",
+      "name": "R1b1b2a1a2c",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M167",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "SRY2627"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d": {
+      "id": "R1b1b2a1a2d",
+      "name": "R1b1b2a1a2d",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "S28",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "U152"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d*": {
+      "id": "R1b1b2a1a2d*",
+      "name": "R1b1b2a1a2d*",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d1": {
+      "id": "R1b1b2a1a2d1",
+      "name": "R1b1b2a1a2d1",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M126",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d2": {
+      "id": "R1b1b2a1a2d2",
+      "name": "R1b1b2a1a2d2",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M160",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d3": {
+      "id": "R1b1b2a1a2d3",
+      "name": "R1b1b2a1a2d3",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L2",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S139"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d3*": {
+      "id": "R1b1b2a1a2d3*",
+      "name": "R1b1b2a1a2d3*",
+      "parent_id": null,
+      "depth": 12,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d3a": {
+      "id": "R1b1b2a1a2d3a",
+      "name": "R1b1b2a1a2d3a",
+      "parent_id": null,
+      "depth": 12,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L20",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S144"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2d4": {
+      "id": "R1b1b2a1a2d4",
+      "name": "R1b1b2a1a2d4",
+      "parent_id": null,
+      "depth": 11,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L4",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S178",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2e": {
+      "id": "R1b1b2a1a2e",
+      "name": "R1b1b2a1a2e",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L165",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S68"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f": {
+      "id": "R1b1b2a1a2f",
+      "name": "R1b1b2a1a2f",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L21",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            ""
+          ]
+        },
+        {
+          "name": "M529",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "S145"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f*": {
+      "id": "R1b1b2a1a2f*",
+      "name": "R1b1b2a1a2f*",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f1": {
+      "id": "R1b1b2a1a2f1",
+      "name": "R1b1b2a1a2f1",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M37",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f2": {
+      "id": "R1b1b2a1a2f2",
+      "name": "R1b1b2a1a2f2",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M222",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "USP9Y+3636"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f3": {
+      "id": "R1b1b2a1a2f3",
+      "name": "R1b1b2a1a2f3",
+      "parent_id": null,
+      "depth": 11,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P66",
+          "status": "private",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f4": {
+      "id": "R1b1b2a1a2f4",
+      "name": "R1b1b2a1a2f4",
+      "parent_id": null,
+      "depth": 11,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L226",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S168",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f5": {
+      "id": "R1b1b2a1a2f5",
+      "name": "R1b1b2a1a2f5",
+      "parent_id": null,
+      "depth": 11,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L193",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S176",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1b2a1a2f6": {
+      "id": "R1b1b2a1a2f6",
+      "name": "R1b1b2a1a2f6",
+      "parent_id": null,
+      "depth": 11,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L144",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S175",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R1b1c": {
+      "id": "R1b1c",
+      "name": "R1b1c",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M335",
+          "status": "confirmed",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R2": {
+      "id": "R2",
+      "name": "R2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M479",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R2*": {
+      "id": "R2*",
+      "name": "R2*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    },
+    "R2a": {
+      "id": "R2a",
+      "name": "R2a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L266",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M124",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P249",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P267",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-11-02"
+    }
+  }
+}

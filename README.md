@@ -1,1126 +1,401 @@
-# ISOGG Y-DNA Haplogroup Tree Data Processor
+# ISOGG Y-DNA Haplogroup Archive & Workbench
 
-## A Comprehensive Guide for Extracting, Parsing, and Merging ISOGG Y-DNA Data
-
-**Version:** 1.0.0  
-**Author:** Maxim Magder  
-**Date:** January 2026  
-**Purpose:** Convert archived ISOGG HTML pages (2006-2017+) into clean, machine-parseable JSON
+**Comprehensive historical archive of ISOGG Y-DNA haplogroup trees and SNP data (2006-2020) with enhanced analysis tools**
 
 ---
 
-## Table of Contents
+## 🎯 Project Overview
 
-1. [Overview](#1-overview)
-2. [Understanding ISOGG Data Structure](#2-understanding-isogg-data-structure)
-3. [File Inventory by Year](#3-file-inventory-by-year)
-4. [HTML Structure Analysis](#4-html-structure-analysis)
-5. [JSON Schema Specification](#5-json-schema-specification)
-6. [Processing Pipeline](#6-processing-pipeline)
-7. [Code Reference](#7-code-reference)
-8. [Usage Instructions](#8-usage-instructions)
-9. [Troubleshooting](#9-troubleshooting)
-10. [Version Differences](#10-version-differences)
+This project transforms 15 years of ISOGG (International Society of Genetic Genealogy) Y-DNA haplogroup data from scattered HTML and Excel files into a unified, structured, and queryable dataset. It provides researchers, genealogists, and genetic analysts with:
+
+- **Complete historical record** of Y-DNA haplogroup evolution (2006-2020)
+- **Unified SNP table** with all genome build positions (36, 37, 38)
+- **Naming evolution tracking** showing how haplogroups were renamed over time
+- **Multiple data formats** (JSON, JSONL, TSV) for different use cases
+- **Clean, validated data** with all inconsistencies resolved
+
+### Why This Matters
+
+The original ISOGG data exists as:
+- 📄 **HTML files** with inconsistent formatting and embedded visual markup
+- 📊 **Excel files** with multi-line cells, mixed data types, and manual formatting
+- 🔀 **Scattered across years** with no unified schema or cross-referencing
+- ❌ **Missing critical mappings** between different genome builds
+- 🎲 **Inconsistent naming** with frequent renames and reorganizations
+
+**Our solution provides:**
+- ✅ **Structured JSON/TSV** with validated, consistent schemas
+- ✅ **Complete build coverage** (36/37/38) via liftOver conversion
+- ✅ **Historical tracking** of all 1,920 haplogroup renames
+- ✅ **91,807 SNPs** with full metadata and cross-references
+- ✅ **Ready for analysis** in any language or database system
 
 ---
 
-## 1. Overview
+## 📊 Dataset Statistics
 
-### 1.1 What This Does
+### Coverage Summary
 
-This processor converts archived ISOGG (International Society of Genetic Genealogy) Y-DNA Haplogroup Tree HTML pages into structured JSON format. The output enables:
+| Metric | Value |
+|--------|-------|
+| **Years covered** | 2006-2020 (15 years) |
+| **Total SNPs** | 91,807 unique markers |
+| **Haplogroup renames tracked** | 1,920 changes |
+| **SNP evolution records** | 68,401 SNPs tracked across years |
+| **Genome builds** | 36 (NCBI36/hg18), 37 (GRCh37/hg19), 38 (GRCh38) |
+| **Output formats** | JSON, JSONL, TSV |
 
-- **Programmatic querying** of Y-DNA haplogroup hierarchies
-- **SNP lookups** with genomic positions, aliases, and haplogroup assignments
-- **Cross-version comparison** to track phylogenetic tree evolution over time
-- **Population genetics research** with clean, normalized data
+### Build Position Coverage
 
-### 1.2 Input Files (Per Year)
+| Build | Direct Positions | LiftOver Positions | Total Coverage |
+|-------|-----------------|-------------------|----------------|
+| **Build 36** (2006) | 3,715 | 30,085 | 33,800 (37%) |
+| **Build 37** (2009) | 91,672 | - | 91,672 (99.9%) |
+| **Build 38** (2013) | 91,672 | - | 91,672 (99.9%) |
 
-Each ISOGG year typically contains these HTML files:
+*Note: Build 36 has lower coverage because the Y chromosome was not fully sequenced in the 2006 assembly.*
 
-| File Type | Filename Pattern | Content |
-|-----------|------------------|---------|
-| **Tree Trunk** | `*TreeTrunk*.html` | Main haplogroup hierarchy (A through R) |
-| **Haplogroup Pages** | `*HapgrpA*.html`, `*HapgrpB*.html`, etc. | Detailed subclades for each major haplogroup |
-| **SNP Index** | `*SNP_Index*.html` | Complete SNP database with positions and metadata |
-| **Glossary** | `*Glossary*.html` | Term definitions |
-| **Papers Cited** | `*Papers*.html` or `*All_Papers*.html` | Bibliography |
-| **Listing Criteria** | `*Requirements*.html` or `*Criteria*.html` | SNP inclusion rules |
-| **Main Index** | `index*.html` or `Main*.html` | Version info and links |
+### Haplogroup Evolution
 
-### 1.3 Output Structure
+| Year | Haplogroups | Notes |
+|------|-------------|-------|
+| 2006 | 379 | Initial ISOGG tree |
+| 2008 | 518 | Major E3→E1b1 rename |
+| 2012 | 927 | Rapid expansion begins |
+| 2016 | 4,221 | Last year with old naming |
+| 2017 | 6,833 | Transition to longer names |
+| 2020 | ~5,000 | Current nomenclature |
+
+---
+
+## 📁 Data Structure
 
 ```
-output/
-├── individual_years/
-│   ├── 2006/
-│   │   ├── tree.json           # Complete haplogroup tree
-│   │   ├── snp_index.json      # All SNPs with metadata
-│   │   ├── glossary.json       # Term definitions
-│   │   ├── papers.json         # Citations
-│   │   └── metadata.json       # Version info
-│   ├── 2007/
-│   │   └── ...
-│   └── 2014/
+output_master/
+├── enhanced_snp_table.tsv       # Master SNP table (TSV)
+├── enhanced_snp_table.json      # Master SNP table (JSON)
+├── enhanced_snp_table.jsonl     # Master SNP table (JSON Lines)
+├── haplogroup_renames.tsv       # Naming changes (TSV)
+├── haplogroup_renames.json      # Naming changes (JSON)
+├── haplogroup_evolution.tsv     # SNP→haplogroup mapping by year
+├── haplogroup_evolution.json    # Full evolution data
+├── summary.json                 # Dataset statistics
+│
+├── 2006/                        # Year-specific data
+│   ├── tree.json                # Haplogroup tree structure
+│   ├── tree_grouped.json        # Tree with alphanumeric groupings
+│   ├── snp_index.json           # SNP definitions
+│   ├── glossary.json            # Term definitions
+│   ├── metadata.json            # Year metadata
+│   └── individual_haplogroups/  # Per-haplogroup files
+│       ├── A.json
+│       ├── B.json
 │       └── ...
-├── merged/
-│   ├── master_tree.json        # All years merged with version tracking
-│   ├── master_snps.json        # All SNPs across all years
-│   └── evolution_log.json      # Changes between versions
-└── exports/
-    ├── haplogroups.csv         # Flat export for spreadsheets
-    └── snps.csv                # SNP data in tabular format
-```
-
----
-
-## 2. Understanding ISOGG Data Structure
-
-### 2.1 Haplogroup Naming Convention
-
-Y-DNA haplogroups follow a hierarchical naming scheme:
-
-```
-A                    # Major haplogroup (single letter)
-├── A*               # Paragroup (derived for A, ancestral for all subclades)
-├── A1               # First-level subclade
-│   ├── A1*          # Paragroup of A1
-│   ├── A1a          # Second-level subclade
-│   │   ├── A1a1     # Third-level subclade
-│   │   └── A1a2
-│   └── A1b
-│       ├── A1b1
-│       │   ├── A1b1a
-│       │   │   └── A1b1a1
-│       │   └── A1b1b
-│       └── BT       # Combined haplogroup (special case)
-└── A2
+│
+├── 2007/ ... 2015/              # Similar structure
+│
+├── 2016-2017/                   # Hybrid HTML+XLSX
+│   ├── tree.json
+│   ├── snp_index.json           # From HTML
+│   ├── snp_index_xlsx.json      # From Excel
+│   └── ...
+│
+└── 2018-2020/                   # Pure XLSX data
+    ├── tree.json
+    ├── tree_grouped.json
+    ├── tree_trunk.json          # Trunk structure
+    ├── snp_index.json
     └── ...
 ```
 
-**Key Points:**
-
-- **Paragroups (`*`)**: Individuals positive for parent SNP but negative for all known child SNPs
-- **Combined haplogroups**: `BR`, `CR`, `DE`, `IJ`, `NO`, `BT` represent branching points
-- **Depth increases** with each alphanumeric addition (A → A1 → A1a → A1a1 → A1a1a)
-
-### 2.2 SNP Classification System
-
-ISOGG uses CSS classes to categorize SNPs:
-
-| Status | CSS Class | Meaning |
-|--------|-----------|---------|
-| **Normal** | `.snp` or no class | Established, well-confirmed SNP |
-| **New** | `.snp-new` | Added since previous year's tree |
-| **Confirmed** | `.snp-conf` | Confirmed within subclade but awaiting full phylogenetic placement |
-| **Provisional** | `.snp-prov` | Tentatively placed, awaiting verification |
-| **Private** | `.snp-priv` | Observed in single lineage or closely related individuals |
-| **Investigation** | `.snp-inv` | Under active research (2014+ only) |
-
-### 2.3 SNP Naming Conventions
-
-SNPs have various naming prefixes based on their source:
-
-| Prefix | Source |
-|--------|--------|
-| M | Stanford (Underhill lab) |
-| P | Arizona (Hammer lab) |
-| L | Family Tree DNA / Walk Through the Y |
-| S | Ethnoancestry / ScotlandsDNA |
-| V | Sardinian project |
-| Z | Full Genomes Corp |
-| PF | 1000 Genomes Project |
-| CTS | Complete Genomics |
-| AF | Albert Perry (A00 discovery) |
-| BY | Big Y (FTDNA) |
-| FGC | Full Genomes Corp |
-| YP | YFull |
-
-**Aliases**: Many SNPs have multiple names (e.g., `M207` = `UTY2`, `L1085` = `AF3`)
-
 ---
 
-## 3. File Inventory by Year
+## 🗃️ File Formats
 
-### 3.1 2006 Files (Original Format)
+### Enhanced SNP Table
 
-```
-ISOGG_2006_Y-DNA_Haplogroup_Tree_Trunk.html
-ISOGG_2006_Y-DNA_Haplogroup_A.html
-ISOGG_2006_Y-DNA_Haplogroup_B.html
-... (through R)
-ISOGG_2006_Y-DNA_SNP_Index.html
-ISOGG_2006_Y-DNA_Glossary.html
-ISOGG_2006_Y-DNA_Papers_Cited.html
-ISOGG_2006_Y-DNA_Listing_Criteria.html
-```
+**File:** `enhanced_snp_table.tsv` / `.json` / `.jsonl`
 
-**Characteristics:**
-- Encoding: `ISO-8859-1`
-- Indentation: Corrupted Unicode (`ï¿½`) + `&nbsp;` sequences
-- SNP Index: 4 columns (SNP, Haplogroup, Comments, RefSNP ID)
-- No genomic positions
+The master SNP dataset with 12 columns:
 
-### 3.2 2014 Files (Modernized Format)
+| Column | Type | Description |
+|--------|------|-------------|
+| `snp_name` | string | Primary SNP identifier (e.g., M168, Z5009) |
+| `haplogroup` | string | Clean haplogroup name (no status markers) |
+| `haplogroup_alpha` | string | Alphanumeric name from 2016 (last year available) |
+| `alternate_names` | list | All known aliases (semicolon-separated in TSV) |
+| `rs_number` | string | dbSNP reference SNP ID |
+| `build36_position` | integer | Y-chromosome position in NCBI36/hg18 |
+| `build36_liftover` | integer | Reverse-lifted Build 37→36 position |
+| `build37_position` | integer | Y-chromosome position in GRCh37/hg19 |
+| `build38_position` | integer | Y-chromosome position in GRCh38 |
+| `mutation` | string | Nucleotide change (e.g., A→G) |
+| `status` | string | Investigation/Notes/Private/provisional/legacy |
+| `source` | string | Data source year (2019-2020 or 2013) |
 
-```
-2014_index14.html
-2014_ISOGG_YDNATreeTrunk14.html
-2014_ISOGG_HapgrpA14.html
-2014_ISOGG_HapgrpB14.html
-... (through R)
-2014_ISOGG_YDNA_SNP_Index14.html
-2014_ISOGG_Glossary14.html
-2014_ISOGG_All_Papers14.html
-2014_ISOGG_SNP_Requirements14.html
-```
-
-**Characteristics:**
-- Encoding: `UTF-8`
-- Indentation: Unicode bullets (`&#8226;` = •) with `<span class="light">` / `<span class="dark">`
-- SNP Index: 6 columns (adds Other Names, Y-position, Mutation)
-- Includes GRCh37 (hg19) genomic coordinates
-- External CSS file (`IsoggStyle.css`)
-
-### 3.3 Identifying Year-Specific Patterns
-
-When processing a new year, check:
-
-1. **Encoding declaration**: `<meta charset="utf-8">` vs `charset=ISO-8859-1`
-2. **Indentation markers**: Look for `ï¿½`, `&#8226;`, `•`, or `<span class="light">`
-3. **SNP Index columns**: Count `<td>` elements in header row
-4. **CSS**: Inline `<style>` vs external `<link rel="stylesheet">`
-5. **File naming**: Year suffix pattern (`06`, `07`, `14`, etc.)
-
----
-
-## 4. HTML Structure Analysis
-
-### 4.1 Tree Trunk Structure
-
-The Tree Trunk page contains the top-level hierarchy. Each haplogroup line follows this pattern:
-
-**2006 Format:**
-```html
-<!-- Comment indicating haplogroup and indent level -->
-<! A3b2 - indent 4>
-<font color="#DEDEDE">ï¿½&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ï¿½&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
-<span class="hap"><b>A3b2</b></span>&nbsp;&nbsp;&nbsp;M13, M63, M127, M202, M219,
-<span class="snp-new">M305</span><br>
-```
-
-**2014 Format:**
-```html
-<!--A1b1- indent 4-->
-<span class="light">&#8226;&nbsp;&#8226;&nbsp;&#8226;&nbsp;&#8226;</span>
-<span class="hap"><a class=bl href="ISOGG_HapgrpA14.html"><b>A1b1</b></a></span>&nbsp;&nbsp;&nbsp;<b>L419/PF712</b><br>
-```
-
-### 4.2 Parsing Algorithm
-
-```
-1. Find all lines containing <span class="hap">
-2. For each line:
-   a. Calculate depth by counting indentation markers
-   b. Extract haplogroup name from <span class="hap"><b>NAME</b></span>
-   c. Extract SNPs from text after </span> and before <br>
-   d. Classify each SNP by its CSS class
-   e. Check for link to detailed haplogroup page
-3. Build parent-child relationships using depth stack
-```
-
-**Depth Calculation:**
-
-```python
-# 2006: Count "ï¿½" occurrences
-depth_2006 = line.count('ï¿½')
-
-# 2014: Count bullet characters
-depth_2014 = line.count('&#8226;') or line.count('•')
-
-# Alternative 2014: Count spans
-import re
-spans = re.findall(r'<span class="(light|dark)">', line)
-depth_2014 = len(spans)  # Each span represents one level
-```
-
-### 4.3 Haplogroup Page Structure
-
-Individual haplogroup pages (e.g., `HapgrpA14.html`) contain:
-
-1. **Full subclade tree** for that haplogroup
-2. **Population descriptions** (geographic distribution, frequencies)
-3. **References** (citations for that specific lineage)
-4. **Contact information** (haplogroup project administrators)
-
-The parsing is similar to Tree Trunk but goes deeper into the hierarchy.
-
-### 4.4 SNP Index Table Structure
-
-**2006 Table:**
-```html
-<table Border="2" Cellpadding=4>
-<tr>
-    <td><b>SNP</b></td>
-    <td><b>Hapgrp.</b></td>
-    <td><b>Comments</b></td>
-    <td><b>RefSNP ID</b></td>
-</tr>
-<tr>
-    <td>M91</td>
-    <td><a href="ISOGG_HapgrpA06.html">A</a></td>
-    <td>Underhill et al (2000); YCC (2002); ...</td>
-    <td>rs2032652</td>
-</tr>
-```
-
-**2014 Table:**
-```html
-<table class="bord">
-<tr>
-    <td><b>SNP</b></td>
-    <td><b>Haplogroup</b></td>
-    <td><b>Other Names</b></td>
-    <td><b>RefSNP ID</b></td>
-    <td><b>Y-position</b> (GRCh37)</td>
-    <td><b>Mutation</b></td>
-</tr>
-<tr>
-    <td>M91</td>
-    <td><a href="ISOGG_HapgrpA14.html">BT</a></td>
-    <td>&nbsp;&nbsp;&nbsp;</td>
-    <td><a href="http://ncbi...">rs2032652</a></td>
-    <td><a href="http://ybrowse...">8608515</a></td>
-    <td>G->A</td>
-</tr>
-```
-
----
-
-## 5. JSON Schema Specification
-
-### 5.1 Haplogroup Node Schema
-
+**Example JSON:**
 ```json
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
-  "properties": {
-    "id": {
-      "type": "string",
-      "description": "Haplogroup identifier (e.g., 'A3b2', 'R1b1a1a2a1a1')"
-    },
-    "name": {
-      "type": "string",
-      "description": "Display name (usually same as id)"
-    },
-    "parent_id": {
-      "type": ["string", "null"],
-      "description": "Parent haplogroup id, null for root"
-    },
-    "depth": {
-      "type": "integer",
-      "minimum": 0,
-      "description": "Tree depth (0 = root)"
-    },
-    "status": {
-      "type": "string",
-      "enum": ["normal", "new", "renamed", "nyi"],
-      "description": "Clade status from CSS class"
-    },
-    "is_paragroup": {
-      "type": "boolean",
-      "description": "True if name ends with '*'"
-    },
-    "defining_snps": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "name": { "type": "string" },
-          "status": {
-            "type": "string",
-            "enum": ["normal", "new", "confirmed", "provisional", "private", "investigation"]
-          },
-          "is_representative": {
-            "type": "boolean",
-            "description": "True if displayed in bold (primary defining SNP)"
-          }
-        }
-      }
-    },
-    "description": {
-      "type": ["string", "null"],
-      "description": "Population/geographic description if available"
-    },
-    "populations": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "Associated populations/regions"
-    },
-    "frequency_notes": {
-      "type": ["string", "null"],
-      "description": "Frequency information if available"
-    },
-    "detail_page": {
-      "type": ["string", "null"],
-      "description": "Link to detailed haplogroup page"
-    },
-    "children": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "Child haplogroup ids"
-    },
-    "source_version": {
-      "type": "string",
-      "description": "ISOGG year this data comes from"
-    },
-    "revision_date": {
-      "type": ["string", "null"],
-      "format": "date",
-      "description": "Last revision date for this entry"
-    }
-  },
-  "required": ["id", "name", "depth", "defining_snps", "source_version"]
+  "snp_name": "M168",
+  "haplogroup": "CT",
+  "haplogroup_alpha": "CT",
+  "alternate_names": ["YAP"],
+  "rs_number": "rs2032633",
+  "build36_position": 2655180,
+  "build36_liftover": null,
+  "build37_position": 21753389,
+  "build38_position": 21753389,
+  "mutation": "C->T",
+  "status": null,
+  "source": "2019-2020"
 }
 ```
 
-### 5.2 SNP Record Schema
+### Haplogroup Renames
 
-```json
-{
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
-  "properties": {
-    "name": {
-      "type": "string",
-      "description": "Primary SNP name"
-    },
-    "aliases": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "Alternative names for this SNP"
-    },
-    "haplogroup": {
-      "type": "string",
-      "description": "Assigned haplogroup"
-    },
-    "haplogroup_path": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "Full path from root (e.g., ['Y-Adam', 'A', 'A1', 'A1b'])"
-    },
-    "status": {
-      "type": "string",
-      "enum": ["normal", "new", "confirmed", "provisional", "private", "investigation"]
-    },
-    "rs_id": {
-      "type": ["string", "null"],
-      "pattern": "^rs[0-9]+$",
-      "description": "dbSNP reference ID"
-    },
-    "position_grch37": {
-      "type": ["integer", "null"],
-      "description": "Genomic position on Y chromosome (GRCh37/hg19)"
-    },
-    "position_grch38": {
-      "type": ["integer", "null"],
-      "description": "Genomic position on Y chromosome (GRCh38/hg38) if available"
-    },
-    "mutation": {
-      "type": ["string", "null"],
-      "pattern": "^[ACGT]->[ACGT]$",
-      "description": "Base change (e.g., 'G->A')"
-    },
-    "ancestral_allele": {
-      "type": ["string", "null"],
-      "description": "Ancestral (negative) allele"
-    },
-    "derived_allele": {
-      "type": ["string", "null"],
-      "description": "Derived (positive) allele"
-    },
-    "citations": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "short": { "type": "string" },
-          "full": { "type": ["string", "null"] },
-          "doi": { "type": ["string", "null"] },
-          "url": { "type": ["string", "null"] }
-        }
-      }
-    },
-    "source_version": {
-      "type": "string"
-    },
-    "versions_present": {
-      "type": "array",
-      "items": { "type": "string" },
-      "description": "All ISOGG versions where this SNP appears"
-    },
-    "version_history": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "version": { "type": "string" },
-          "haplogroup": { "type": "string" },
-          "status": { "type": "string" },
-          "position": { "type": ["integer", "null"] }
-        }
-      },
-      "description": "Track changes across versions"
-    }
-  },
-  "required": ["name", "haplogroup", "source_version"]
-}
+**File:** `haplogroup_renames.tsv` / `.json`
+
+Tracks all haplogroup naming changes between consecutive years.
+
+**Example:**
+```
+2007    2008    E3a     E1b1a   M58
+2007    2008    E3b     E1b1b   M215
 ```
 
-### 5.3 Complete Tree File Schema
+### Alphanumeric Groupings
 
-```json
-{
-  "metadata": {
-    "source": "ISOGG Y-DNA Haplogroup Tree",
-    "version": "2014",
-    "extraction_date": "2026-01-06",
-    "revision_date": "2014-10-25",
-    "total_haplogroups": 2847,
-    "total_snps": 15234,
-    "encoding": "UTF-8",
-    "processor_version": "1.0.0"
-  },
-  "tree": {
-    "Y-Adam": {
-      "id": "Y-Adam",
-      "name": "Root",
-      "parent_id": null,
-      "depth": 0,
-      "defining_snps": [],
-      "children": ["A00", "A0-T"]
-    },
-    "A00": {
-      "id": "A00",
-      "name": "A00",
-      "parent_id": "Y-Adam",
-      "depth": 1,
-      "defining_snps": [
-        {"name": "AF6", "status": "normal", "is_representative": true},
-        {"name": "L1284", "status": "normal", "is_representative": true}
-      ],
-      "children": ["A00a", "A00b"]
-    }
-  },
-  "haplogroup_index": {
-    "A00": "Y-Adam.A00",
-    "A0-T": "Y-Adam.A0-T",
-    "A0": "Y-Adam.A0-T.A0"
-  }
-}
-```
+**File:** `YEAR/tree_grouped.json`
+
+Groups haplogroups by name length (1-7+ characters) for easier navigation.
+
+**Example:** E1b1b1a1c1 appears in:
+- 1-char: E
+- 2-char: E1
+- 3-char: E1b
+- 4-char: E1b1
+- 5-char: E1b1b
+- 6-char: E1b1b1
+- 7plus: E1b1b1a
 
 ---
 
-## 6. Processing Pipeline
+## 🚀 Usage Examples
 
-### 6.1 Pipeline Overview
-
-```
-┌─────────────────┐
-│  HTML Files     │
-│  (per year)     │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  1. CLEAN       │  Fix encoding, remove boilerplate
-│                 │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  2. PARSE       │  Extract tree structure, SNPs, metadata
-│                 │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  3. NORMALIZE   │  Standardize naming, resolve aliases
-│                 │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  4. VALIDATE    │  Check parent-child relationships
-│                 │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐     ┌─────────────────┐
-│  5a. EXPORT     │     │  5b. MERGE      │
-│  (per year)     │     │  (all years)    │
-└─────────────────┘     └─────────────────┘
-```
-
-### 6.2 Step 1: Cleaning
+### Python: Load Enhanced SNP Table
 
 ```python
-def clean_html(content: str, year: str) -> str:
-    """
-    Clean raw HTML content for parsing.
-    
-    Operations:
-    1. Normalize encoding to UTF-8
-    2. Fix corrupted characters (ï¿½ → •)
-    3. Remove Google Analytics scripts
-    4. Remove Cloudflare scripts
-    5. Strip navigation boilerplate
-    6. Normalize whitespace
-    """
-    
-    # Fix 2006-era encoding issues
-    content = content.replace('ï¿½', '•')
-    content = content.replace('Ã', '')  # Common encoding artifact
-    
-    # Remove tracking scripts
-    content = re.sub(r'<script>.*?ga\(.*?</script>', '', content, flags=re.DOTALL)
-    content = re.sub(r'<script.*?cloudflare.*?</script>', '', content, flags=re.DOTALL)
-    
-    # Normalize HTML entities
-    content = html.unescape(content)
-    
-    return content
+import json
+
+# Load JSON version
+with open('output_master/enhanced_snp_table.json') as f:
+    snps = json.load(f)
+
+# Find all SNPs for haplogroup E1b1a
+e1b1a_snps = [s for s in snps if s['haplogroup'].startswith('E1b1a')]
+print(f"Found {len(e1b1a_snps)} SNPs in E1b1a")
+
+# Find SNPs with Build 36 positions
+build36_snps = [s for s in snps if s['build36_position']]
+print(f"{len(build36_snps)} SNPs have Build 36 positions")
 ```
 
-### 6.3 Step 2: Parsing
-
-**Tree Extraction:**
-
-```python
-def parse_tree_line(line: str, year: str) -> dict:
-    """
-    Parse a single haplogroup line from the tree.
-    
-    Returns:
-    {
-        'depth': int,
-        'haplogroup': str,
-        'status': str,
-        'snps': [{'name': str, 'status': str, 'is_representative': bool}],
-        'detail_link': str or None
-    }
-    """
-    
-    # Calculate depth
-    if year <= '2008':
-        depth = line.count('ï¿½') or line.count('•')
-    else:
-        depth = len(re.findall(r'&#8226;|•', line))
-    
-    # Extract haplogroup name
-    hap_match = re.search(r'<span class="hap[^"]*"[^>]*>.*?<b>([^<]+)</b>', line)
-    haplogroup = hap_match.group(1) if hap_match else None
-    
-    # Determine clade status
-    if 'hap-new' in line:
-        status = 'new'
-    elif 'hap-ren' in line:
-        status = 'renamed'
-    elif 'hap-nyi' in line:
-        status = 'nyi'
-    else:
-        status = 'normal'
-    
-    # Extract SNPs
-    snps = extract_snps(line)
-    
-    # Check for detail page link
-    link_match = re.search(r'href="([^"]*Hapgrp[^"]*\.html)"', line)
-    detail_link = link_match.group(1) if link_match else None
-    
-    return {
-        'depth': depth,
-        'haplogroup': haplogroup,
-        'status': status,
-        'snps': snps,
-        'detail_link': detail_link
-    }
-
-
-def extract_snps(line: str) -> list:
-    """
-    Extract SNPs from a haplogroup line.
-    
-    Handles:
-    - Normal SNPs (plain text)
-    - New SNPs (<span class="snp-new">)
-    - Confirmed SNPs (<span class="snp-conf">)
-    - Provisional SNPs (<span class="snp-prov">)
-    - Private SNPs (<span class="snp-priv">)
-    - Representative SNPs (<b>SNP</b>)
-    - Aliases (SNP1/SNP2 or SNP1 (SNP2))
-    """
-    
-    snps = []
-    
-    # Find the SNP portion (after haplogroup span, before <br>)
-    snp_section = re.search(r'</span>\s*&nbsp;[^<]*(.+?)(?:<br|$)', line, re.DOTALL)
-    if not snp_section:
-        return snps
-    
-    snp_text = snp_section.group(1)
-    
-    # Parse SNP spans and plain text
-    # ... (detailed parsing logic)
-    
-    return snps
-```
-
-**SNP Index Extraction:**
-
-```python
-def parse_snp_index(filepath: str, year: str) -> list:
-    """
-    Parse the SNP Index HTML table into a list of SNP records.
-    """
-    
-    soup = BeautifulSoup(open(filepath), 'html.parser')
-    table = soup.find('table', class_='bord') or soup.find('table', {'border': True})
-    
-    snps = []
-    rows = table.find_all('tr')[1:]  # Skip header row
-    
-    for row in rows:
-        cells = row.find_all('td')
-        
-        if year >= '2014':
-            # 6-column format
-            snp = {
-                'name': cells[0].get_text(strip=True),
-                'haplogroup': extract_haplogroup_from_link(cells[1]),
-                'aliases': parse_aliases(cells[2].get_text(strip=True)),
-                'rs_id': extract_rs_id(cells[3]),
-                'position_grch37': extract_position(cells[4]),
-                'mutation': cells[5].get_text(strip=True) or None
-            }
-        else:
-            # 4-column format (2006-2013)
-            snp = {
-                'name': cells[0].get_text(strip=True),
-                'haplogroup': extract_haplogroup_from_link(cells[1]),
-                'citations_raw': cells[2].get_text(strip=True),
-                'rs_id': extract_rs_id(cells[3]),
-                'position_grch37': None,
-                'mutation': None
-            }
-        
-        snps.append(snp)
-    
-    return snps
-```
-
-### 6.4 Step 3: Normalization
-
-```python
-def normalize_haplogroup_name(name: str) -> str:
-    """
-    Standardize haplogroup naming.
-    
-    Examples:
-    - 'A3b2*' → 'A3b2*' (preserve paragroup marker)
-    - 'A-M91' → 'A' (remove SNP suffix)
-    - 'R1b1a1a2a1a1' → 'R1b1a1a2a1a1' (preserve long names)
-    """
-    
-    # Remove SNP-style suffixes (A-M91 → A)
-    name = re.sub(r'-[A-Z][0-9]+$', '', name)
-    
-    # Normalize whitespace
-    name = name.strip()
-    
-    return name
-
-
-def resolve_snp_aliases(snps: list) -> dict:
-    """
-    Build alias resolution map.
-    
-    Input: List of SNP records with 'aliases' field
-    Output: {alias: primary_name} mapping
-    """
-    
-    alias_map = {}
-    
-    for snp in snps:
-        primary = snp['name']
-        for alias in snp.get('aliases', []):
-            alias_map[alias] = primary
-    
-    return alias_map
-```
-
-### 6.5 Step 4: Validation
-
-```python
-def validate_tree(tree: dict) -> list:
-    """
-    Validate tree structure integrity.
-    
-    Checks:
-    1. All children reference valid parent
-    2. No circular references
-    3. Depth values are consistent
-    4. All haplogroups have at least one defining SNP (except paragroups)
-    """
-    
-    errors = []
-    
-    for hap_id, node in tree.items():
-        # Check parent exists
-        parent_id = node.get('parent_id')
-        if parent_id and parent_id not in tree:
-            errors.append(f"Invalid parent '{parent_id}' for '{hap_id}'")
-        
-        # Check depth consistency
-        if parent_id:
-            parent_depth = tree[parent_id]['depth']
-            if node['depth'] != parent_depth + 1:
-                errors.append(f"Depth mismatch for '{hap_id}': expected {parent_depth + 1}, got {node['depth']}")
-        
-        # Check children exist
-        for child_id in node.get('children', []):
-            if child_id not in tree:
-                errors.append(f"Invalid child '{child_id}' for '{hap_id}'")
-    
-    return errors
-```
-
-### 6.6 Step 5: Merging Multiple Years
-
-```python
-def merge_trees(trees: dict) -> dict:
-    """
-    Merge multiple year trees into a master tree with version tracking.
-    
-    Args:
-        trees: {'2006': tree_dict, '2014': tree_dict, ...}
-    
-    Returns:
-        Master tree with version_history for each node
-    """
-    
-    master = {}
-    
-    # Process years in chronological order
-    for year in sorted(trees.keys()):
-        tree = trees[year]
-        
-        for hap_id, node in tree.items():
-            if hap_id not in master:
-                # New haplogroup
-                master[hap_id] = {
-                    **node,
-                    'first_appeared': year,
-                    'versions_present': [year],
-                    'version_history': [{
-                        'version': year,
-                        'status': node['status'],
-                        'parent_id': node.get('parent_id'),
-                        'defining_snps': node['defining_snps']
-                    }]
-                }
-            else:
-                # Existing haplogroup - track changes
-                existing = master[hap_id]
-                existing['versions_present'].append(year)
-                
-                # Record any changes
-                history_entry = {
-                    'version': year,
-                    'status': node['status'],
-                    'parent_id': node.get('parent_id'),
-                    'defining_snps': node['defining_snps']
-                }
-                
-                # Detect changes
-                prev = existing['version_history'][-1]
-                if (node['status'] != prev['status'] or 
-                    node.get('parent_id') != prev['parent_id'] or
-                    node['defining_snps'] != prev['defining_snps']):
-                    history_entry['changes'] = detect_changes(prev, node)
-                
-                existing['version_history'].append(history_entry)
-                
-                # Update to latest data
-                existing.update({
-                    'status': node['status'],
-                    'parent_id': node.get('parent_id'),
-                    'defining_snps': node['defining_snps'],
-                    'children': node.get('children', [])
-                })
-    
-    return master
-```
-
----
-
-## 7. Code Reference
-
-### 7.1 Main Processor Script
-
-See `isogg_processor.py` for the complete implementation.
-
-### 7.2 Key Functions
-
-| Function | Purpose |
-|----------|---------|
-| `process_year(year, input_dir)` | Process all files for a single year |
-| `parse_tree_trunk(filepath)` | Extract main tree hierarchy |
-| `parse_haplogroup_page(filepath)` | Extract detailed subclade tree |
-| `parse_snp_index(filepath)` | Extract SNP database |
-| `merge_haplogroup_trees(trunk, pages)` | Combine trunk with detail pages |
-| `build_parent_child_relationships(nodes)` | Construct tree from flat list |
-| `export_json(data, filepath)` | Write JSON output |
-| `export_csv(data, filepath)` | Write CSV export |
-
-### 7.3 Configuration
-
-```python
-CONFIG = {
-    'encoding_fixes': {
-        'ï¿½': '•',
-        'â€™': "'",
-        'â€"': '—',
-        'â€œ': '"',
-        'â€': '"'
-    },
-    'snp_status_classes': {
-        'snp-new': 'new',
-        'snp-conf': 'confirmed',
-        'snp-prov': 'provisional',
-        'snp-priv': 'private',
-        'snp-inv': 'investigation'
-    },
-    'clade_status_classes': {
-        'hap-new': 'new',
-        'hap-ren': 'renamed',
-        'hap-nyi': 'nyi'
-    }
-}
-```
-
----
-
-## 8. Usage Instructions
-
-### 8.1 Processing a Single Year
+### Shell: Query with jq
 
 ```bash
-# Basic usage
-python isogg_processor.py --year 2006 --input ./2006_files/ --output ./output/
+# Count SNPs per haplogroup
+jq -r '.[].haplogroup' output_master/enhanced_snp_table.json | sort | uniq -c | sort -rn | head
 
-# With verbose logging
-python isogg_processor.py --year 2006 --input ./2006_files/ --output ./output/ --verbose
-
-# Specific file types only
-python isogg_processor.py --year 2006 --input ./2006_files/ --output ./output/ --types tree,snps
+# Find all M172 variants
+jq '.[] | select(.snp_name | contains("M172"))' output_master/enhanced_snp_table.json
 ```
 
-### 8.2 Processing Multiple Years
+### R: Load for Analysis
 
-```bash
-# Process all years in a directory
-python isogg_processor.py --batch --input ./all_years/ --output ./output/
+```r
+library(jsonlite)
 
-# Merge after processing
-python isogg_processor.py --merge --input ./output/individual_years/ --output ./output/merged/
-```
+# Load SNP data
+snps <- fromJSON('output_master/enhanced_snp_table.json')
+df <- as.data.frame(snps)
 
-### 8.3 File Organization
-
-**Input directory structure:**
-```
-input/
-├── 2006/
-│   ├── ISOGG_2006_Y-DNA_Haplogroup_Tree_Trunk.html
-│   ├── ISOGG_2006_Y-DNA_Haplogroup_A.html
-│   └── ...
-├── 2007/
-│   └── ...
-└── 2014/
-    └── ...
-```
-
-**Or flat structure with year prefixes:**
-```
-input/
-├── ISOGG_2006_Y-DNA_Haplogroup_Tree_Trunk.html
-├── 2014_ISOGG_YDNATreeTrunk14.html
-└── ...
-```
-
-### 8.4 For Claude (Processing Instructions)
-
-When asked to process ISOGG files:
-
-1. **Identify the year** from filenames or content
-2. **Determine the encoding** (ISO-8859-1 for 2006-2008, UTF-8 for 2009+)
-3. **Locate key files**: Tree Trunk, Haplogroup pages, SNP Index
-4. **Parse in order**: Tree Trunk first (establishes hierarchy), then Haplogroup pages (adds depth), then SNP Index (adds metadata)
-5. **Validate output**: Check parent-child relationships, SNP counts
-6. **Export**: Generate JSON for each file type, then merge
-
----
-
-## 9. Troubleshooting
-
-### 9.1 Common Issues
-
-**Issue: Corrupted characters in output**
-```
-Symptom: "ï¿½" or "Â" appear in JSON
-Solution: Apply encoding fixes before parsing
-```
-
-**Issue: Missing haplogroups in tree**
-```
-Symptom: Child references non-existent parent
-Solution: Ensure Tree Trunk is parsed before Haplogroup pages
-```
-
-**Issue: Duplicate SNPs**
-```
-Symptom: Same SNP appears multiple times with different haplogroups
-Solution: This may be valid (SNP defines multiple levels); check if same SNP at different tree depths
-```
-
-**Issue: SNP Index has more entries than tree**
-```
-Symptom: SNPs in index not found in tree
-Solution: Normal - Index includes investigation/removed SNPs; filter by status if needed
-```
-
-### 9.2 Validation Errors
-
-| Error | Cause | Fix |
-|-------|-------|-----|
-| `Invalid parent` | Parent haplogroup not in tree | Check Tree Trunk parsing |
-| `Depth mismatch` | Incorrect indent counting | Verify depth calculation for that year's format |
-| `Circular reference` | A is parent of B, B is parent of A | Data error - check source HTML |
-| `No defining SNPs` | Haplogroup has no SNPs listed | May be valid for combined haplogroups (BR, CR, etc.) |
-
----
-
-## 10. Version Differences
-
-### 10.1 Major Changes by Year
-
-| Year | Key Changes |
-|------|-------------|
-| **2006** | Original format, ISO-8859-1, 4-column SNP index |
-| **2007** | Minor updates, same format |
-| **2008** | Last year of original format |
-| **2009** | Transition to UTF-8 begins |
-| **2010** | New haplogroup A structure (A0, A1 split) |
-| **2012** | Major tree reorganization |
-| **2013** | A00 discovered and added |
-| **2014** | 6-column SNP index with positions, HTML5/CSS modernization |
-| **2015** | Continued expansion |
-| **2016** | Big Y data integration |
-| **2017** | Further NGS integration |
-
-### 10.2 Haplogroup Renaming Events
-
-Track these when merging:
-
-```
-2006 → 2014 Major Changes:
-- A (M91) → BT (M91)  [M91 moved down tree]
-- A1 (M31) → A1a (M31)
-- A2 (M6) → A1b1a (M6) [major restructure]
-- New root: A00, A0-T, A0, A1
-```
-
-### 10.3 SNP Position Reference Genome
-
-| Years | Reference Build |
-|-------|-----------------|
-| 2006-2013 | No positions |
-| 2014-2018 | GRCh37 (hg19) |
-| 2019+ | GRCh38 (hg38) may be available |
-
----
-
-## Appendix A: Quick Reference Card
-
-```
-HAPLOGROUP LINE PATTERN:
-[indent markers] <span class="hap[-status]"><b>NAME</b></span> SNP1, SNP2, <span class="snp-new">SNP3</span><br>
-
-INDENT MARKERS:
-- 2006: ï¿½ (corrupted) or font color="#DEDEDE"
-- 2014: • or &#8226; inside <span class="light">
-
-SNP STATUSES:
-- (none)     → normal
-- snp-new    → new
-- snp-conf   → confirmed
-- snp-prov   → provisional
-- snp-priv   → private
-- snp-inv    → investigation
-
-CLADE STATUSES:
-- hap        → normal
-- hap-new    → added
-- hap-ren    → renamed
-- hap-nyi    → SNP not yet identified
-
-OUTPUT JSON:
-{
-  "metadata": {...},
-  "tree": {
-    "HAPLOGROUP_ID": {
-      "id": "...",
-      "parent_id": "...",
-      "depth": N,
-      "defining_snps": [...],
-      "children": [...]
-    }
-  }
-}
+# Analyze build coverage
+table(is.na(df$build36_position))
 ```
 
 ---
 
-## Appendix B: Regex Patterns
+## 🔬 Research Applications
 
-```python
-# Haplogroup name extraction
-HAP_NAME = r'<span class="hap[^"]*"[^>]*>(?:<a[^>]*>)?<b>([^<]+)</b>'
-
-# SNP list extraction (after haplogroup)
-SNP_SECTION = r'</b>(?:</a>)?</span>\s*&nbsp;([^<]+(?:<span[^>]*>[^<]+</span>[^<]*)*)'
-
-# Individual SNP with status
-SNP_WITH_STATUS = r'<span class="(snp-\w+)">([^<]+)</span>'
-
-# Position from YBrowse link
-POSITION = r'chrY:(\d+)-\d+'
-
-# RS ID
-RS_ID = r'(rs\d+)'
-
-# Depth from 2006 indent
-DEPTH_2006 = r'(ï¿½|•)'
-
-# Depth from 2014 indent
-DEPTH_2014 = r'&#8226;|•|<span class="(?:light|dark)">'
-```
+1. **Phylogenetic Analysis** - Track haplogroup evolution over 15 years
+2. **Genome Build Conversion** - Convert SNP positions between builds 36/37/38
+3. **SNP Discovery** - Identify newly discovered SNPs by year
+4. **Genealogical Research** - Map family test results to historical haplogroups
+5. **Database Construction** - Build comprehensive Y-DNA reference databases
 
 ---
 
-*End of Documentation*
+## 📜 License & Attribution
+
+**Data Source:** International Society of Genetic Genealogy (ISOGG)  
+**Original Data:** https://isogg.org/tree/
+
+All ISOGG Y-DNA tree data is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+---
+
+## 📚 Data Sources
+
+Complete archive of source URLs used to compile this dataset:
+
+### 2019-2020 (Current Version)
+- **Main Index:** https://isogg.org/tree/index.html
+- **Tree Trunk:** https://isogg.org/tree/ISOGG_YDNATreeTrunk.html
+- **SNP Index:** https://isogg.org/tree/ISOGG_YDNA_SNP_Index.html
+- **Papers Cited:** https://isogg.org/tree/ISOGG_All_Papers.html
+- **Glossary:** https://isogg.org/tree/ISOGG_Glossary.html
+- **Requirements:** https://isogg.org/tree/ISOGG_SNP_Requirements.html
+- **Version History:** https://isogg.org/tree/ISOGG_YDNA_Version_History.html
+- **Haplogroup Pages:** https://isogg.org/tree/ISOGG_Hapgrp[A-T].html
+
+**Google Sheets (2018-2020 XLSX source):**
+- **Main Tree:** https://docs.google.com/spreadsheets/d/1hW2SxSLFSJS3r_MIdw9zxsS8NXo_4PG0_fFFeXGwEyc/
+- **China Users:** https://docs.google.com/spreadsheets/d/1MtQMv3ozCnxy9qB2gwqeFdmqnYJ_wRV1qu6AlZO-V3s/
+- **SNP Index 1:** https://docs.google.com/spreadsheets/d/1_tnKfewXqxTCe0zFuJRm8f9Ohkv8RwCImkgRC3s-pnM/
+- **SNP Index 2:** https://docs.google.com/spreadsheets/d/1GKL9OIEtDEXg8ikSV1tuRSiWqeql0UshJrdaMMcCv6I/
+- **SNP Index 3:** https://docs.google.com/spreadsheets/d/1W1fjqWxxfYrSSdoE6Wu16ILZHsdytW7A9N265n5Lwms/
+- **Index Data:** https://docs.google.com/spreadsheets/d/1n9MBaZWKBWUx2DN9aEN0CLCDmtnp64Hts-GrYGGPRRI/
+- **Tree CSV:** https://isogg.org/tree/indexdata.csv
+
+### 2018
+- https://isogg.org/tree/2018/Main18.html
+- https://isogg.org/tree/2018/ISOGG_YDNATreeTrunk18.html
+- https://isogg.org/tree/2018/ISOGG_YDNA_SNP_Index18.html
+- https://isogg.org/tree/2018/ISOGG_Hapgrp[A-T]18.html
+- https://isogg.org/tree/2018/ISOGG_All_Papers18.html
+- https://isogg.org/tree/2018/ISOGG_Glossary18.html
+- https://isogg.org/tree/2018/ISOGG_SNP_Requirements18.html
+
+### 2017
+- https://isogg.org/tree/2017/Main17.html
+- https://isogg.org/tree/2017/ISOGG_YDNATreeTrunk17.html
+- https://isogg.org/tree/2017/ISOGG_YDNA_SNP_Index17.html
+- https://isogg.org/tree/2017/ISOGG_Hapgrp[A-T]17.html
+- https://isogg.org/tree/2017/ISOGG_All_Papers17.html
+- https://isogg.org/tree/2017/ISOGG_Glossary17.html
+- https://isogg.org/tree/2017/ISOGG_SNP_Requirements17.html
+
+### 2016
+- https://isogg.org/tree/2016/Main16.html
+- https://isogg.org/tree/2016/ISOGG_YDNATreeTrunk16.html
+- https://isogg.org/tree/2016/ISOGG_YDNA_SNP_Index16.html
+- https://isogg.org/tree/2016/ISOGG_Hapgrp[A-T]16.html
+- https://isogg.org/tree/2016/ISOGG_All_Papers16.html
+- https://isogg.org/tree/2016/ISOGG_Glossary16.html
+- https://isogg.org/tree/2016/ISOGG_SNP_Requirements16.html
+
+### 2015
+- https://isogg.org/tree/2015/Main15.html
+- https://isogg.org/tree/2015/ISOGG_YDNATreeTrunk15.html
+- https://isogg.org/tree/2015/ISOGG_YDNA_SNP_Index15.html
+- https://isogg.org/tree/2015/ISOGG_Hapgrp[A-T]15.html
+- https://isogg.org/tree/2015/ISOGG_All_Papers15.html
+- https://isogg.org/tree/2015/ISOGG_Glossary15.html
+- https://isogg.org/tree/2015/ISOGG_SNP_Requirements15.html
+
+### 2014
+- https://isogg.org/tree/2014/Main14.html
+- https://isogg.org/tree/2014/ISOGG_YDNATreeTrunk14.html
+- https://isogg.org/tree/2014/ISOGG_YDNA_SNP_Index14.html
+- https://isogg.org/tree/2014/ISOGG_Hapgrp[A-T]14.html
+- https://isogg.org/tree/2014/ISOGG_All_Papers14.html
+- https://isogg.org/tree/2014/ISOGG_Glossary14.html
+- https://isogg.org/tree/2014/ISOGG_SNP_Requirements14.html
+
+### 2013
+- https://isogg.org/tree/2013/Main13.html
+- https://isogg.org/tree/2013/ISOGG_YDNATreeTrunk13.html
+- https://isogg.org/tree/2013/ISOGG_YDNA_SNP_Index13.html
+- https://isogg.org/tree/2013/ISOGG_Hapgrp[A-T]13.html
+- https://isogg.org/tree/2013/ISOGG_All_Papers13.html
+- https://isogg.org/tree/2013/ISOGG_Glossary13.html
+- https://isogg.org/tree/2013/ISOGG_SNP_Requirements13.html
+
+### 2012
+- https://isogg.org/tree/2012/Main12.html
+- https://isogg.org/tree/2012/ISOGG_YDNATreeTrunk12.html
+- https://isogg.org/tree/2012/ISOGG_YDNA_SNP_Index12.html
+- https://isogg.org/tree/2012/ISOGG_Hapgrp[A-T]12.html
+- https://isogg.org/tree/2012/ISOGG_All_Papers12.html
+- https://isogg.org/tree/2012/ISOGG_Glossary12.html
+- https://isogg.org/tree/2012/ISOGG_SNP_Requirements12.html
+
+### 2011
+- https://isogg.org/tree/2011/Main11.html
+- https://isogg.org/tree/2011/ISOGG_YDNATreeTrunk11.html
+- https://isogg.org/tree/2011/ISOGG_YDNA_SNP_Index11.html
+- https://isogg.org/tree/2011/ISOGG_Hapgrp[A-T]11.html
+- https://isogg.org/tree/2011/ISOGG_All_Papers11.html
+- https://isogg.org/tree/2011/ISOGG_Glossary11.html
+- https://isogg.org/tree/2011/ISOGG_SNP_Requirements11.html
+
+### 2010
+- https://isogg.org/tree/2010/Main10.html
+- https://isogg.org/tree/2010/ISOGG_YDNATreeTrunk10.html
+- https://isogg.org/tree/2010/ISOGG_YDNA_SNP_Index10.html
+- https://isogg.org/tree/2010/ISOGG_Hapgrp[A-T]10.html
+- https://isogg.org/tree/2010/ISOGG_All_Papers10.html
+- https://isogg.org/tree/2010/ISOGG_Glossary10.html
+- https://isogg.org/tree/2010/ISOGG_SNP_Requirements10.html
+
+### 2009
+- https://isogg.org/tree/2009/Main09.html
+- https://isogg.org/tree/2009/ISOGG_YDNATreeTrunk09.html
+- https://isogg.org/tree/2009/ISOGG_YDNA_SNP_Index09.html
+- https://isogg.org/tree/2009/ISOGG_Hapgrp[A-T]09.html
+- https://isogg.org/tree/2009/ISOGG_All_Papers09.html
+- https://isogg.org/tree/2009/ISOGG_Glossary09.html
+- https://isogg.org/tree/2009/ISOGG_SNP_Requirements09.html
+
+### 2008
+- https://isogg.org/tree/2008/Main08.html
+- https://isogg.org/tree/2008/ISOGG_YDNATreeTrunk08.html
+- https://isogg.org/tree/2008/ISOGG_YDNA_SNP_Index08.html
+- https://isogg.org/tree/2008/ISOGG_Hapgrp[A-T]08.html
+- https://isogg.org/tree/2008/ISOGG_All_Papers08.html
+- https://isogg.org/tree/2008/ISOGG_Glossary08.html
+- https://isogg.org/tree/2008/ISOGG_SNP_Requirements08.html
+
+### 2007
+- https://isogg.org/tree/2007/Main07.html
+- https://isogg.org/tree/2007/ISOGG_YDNATreeTrunk07.html
+- https://isogg.org/tree/2007/ISOGG_YDNA_SNP_Index07.html
+- https://isogg.org/tree/2007/ISOGG_Hapgrp[A-T]07.html
+- https://isogg.org/tree/2007/ISOGG_All_Papers07.html
+- https://isogg.org/tree/2007/ISOGG_Glossary07.html
+- https://isogg.org/tree/2007/ISOGG_SNP_Requirements07.html
+
+### 2006
+- https://isogg.org/tree/2006/Main06.html
+- https://isogg.org/tree/2006/ISOGG_YDNATreeTrunk06.html
+- https://isogg.org/tree/2006/ISOGG_YDNA_SNP_Index06.html
+- https://isogg.org/tree/2006/ISOGG_Hapgrp[A-T]06.html
+- https://isogg.org/tree/2006/ISOGG_All_Papers06.html
+- https://isogg.org/tree/2006/ISOGG_Glossary06.html
+- https://isogg.org/tree/2006/ISOGG_SNP_Requirements06.html
+
+### Additional Resources
+- **Haplogroup I Cross-Reference:** https://isogg.org/tree/Haplo%20I%20Cross-Ref08.5.10.xls
+- **ISOGG Wiki:** https://isogg.org/wiki/
+
+---
+
+## 📖 Technical Documentation
+
+For detailed technical information about data processing, HTML parsing, and the complete pipeline, see [README_old_technical.md](README_old_technical.md).
+
+---
+
+**Last Updated:** January 2026  
+**Dataset Version:** 1.0  
+**Coverage:** 2006-2020 (15 years)

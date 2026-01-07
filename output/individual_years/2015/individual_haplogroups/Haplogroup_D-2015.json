@@ -1,0 +1,2710 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2015",
+    "type": "haplogroup",
+    "major_haplogroup": "D",
+    "root_haplogroup": "D",
+    "root_parent": "DE",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 34
+  },
+  "tree": {
+    "D": {
+      "id": "D",
+      "name": "D",
+      "parent_id": "DE",
+      "depth": 7,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M174",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "Page30",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "CTS94",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1014.2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1171",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1582",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7660",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8880",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1613"
+          ]
+        },
+        {
+          "name": "F975",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1034",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1066",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1137",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1591"
+          ]
+        },
+        {
+          "name": "F1278",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1306",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1344",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1379",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1439",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1447",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1533",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1612",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1620",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1690",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F1927",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2062",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2147",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1608"
+          ]
+        },
+        {
+          "name": "F2161",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1610"
+          ]
+        },
+        {
+          "name": "F2318",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2325",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2455",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2510",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2662",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1612"
+          ]
+        },
+        {
+          "name": "F2765",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2923",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F2956",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3289",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3321",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3328",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1620"
+          ]
+        },
+        {
+          "name": "F3370",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3519",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3572",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3666",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3707",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3835",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F3845",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1588"
+          ]
+        },
+        {
+          "name": "F3920",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "F4030",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "IMS-JST021355",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": ".1",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup D is seen primarily in Central Asia, Southeast Asia, and in Japan and was established approximately 50,000 years ago. Subgroup D-M15 is seen in Tibet, Mongolia, Central Asia, and Southeast Asia, and the subgroup D-P47 is seen in Central Asia. The subgroup D-M55 is seen almost exclusively in Japan. The high frequency of haplogroup D in Tibet (about 50%) and in Japan (about 35%) implies some early migratory connection between these areas. Examination of the genetic diversity seen in subgroup D-M55 in Japan implies that this group has been isolated in Japan for between 12,000-20,000 years. The highest frequencies of D-M55 in Japan are seen among the Ainu and the Ryukyuans. Subgroup D-L1366 is so far noted only in the Philippines.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpD15.html",
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-26"
+    },
+    "D1": {
+      "id": "D1",
+      "name": "D1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS11577",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1a": {
+      "id": "D1a",
+      "name": "D1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "Z27276",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Z27283",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Z29263",
+          "status": "new",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1a1": {
+      "id": "D1a1",
+      "name": "D1a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M15",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1a1a": {
+      "id": "D1a1a",
+      "name": "D1a1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "N1",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1a2": {
+      "id": "D1a2",
+      "name": "D1a2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P99",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1a2a": {
+      "id": "D1a2a",
+      "name": "D1a2a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P47",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1a2a1": {
+      "id": "D1a2a1",
+      "name": "D1a2a1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M533",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b": {
+      "id": "D1b",
+      "name": "D1b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M64.1",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "Page44.1",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "M55",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M57",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M179",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Page31"
+          ]
+        },
+        {
+          "name": "M359.1",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P41.1"
+          ]
+        },
+        {
+          "name": "P37.1",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P190",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "12f2.2",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1": {
+      "id": "D1b1",
+      "name": "D1b1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M116.1",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a": {
+      "id": "D1b1a",
+      "name": "D1b1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M125",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a1": {
+      "id": "D1b1a1",
+      "name": "D1b1a1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P42",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a1a": {
+      "id": "D1b1a1a",
+      "name": "D1b1a1a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P12_1",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P12_2",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P12_3",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2": {
+      "id": "D1b1a2",
+      "name": "D1b1a2",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "IMS-JST022457",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "CTS107",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "IMS-JST055457"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2a": {
+      "id": "D1b1a2a",
+      "name": "D1b1a2a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P53.2",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2b": {
+      "id": "D1b1a2b",
+      "name": "D1b1a2b",
+      "parent_id": null,
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "IMS-JST006841",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "Page3",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2b1": {
+      "id": "D1b1a2b1",
+      "name": "D1b1a2b1",
+      "parent_id": null,
+      "depth": 7,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS3397",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "CTS1982",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Z1498"
+          ]
+        },
+        {
+          "name": "CTS3197",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4606",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1499",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3611",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3642",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3643",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2b1a": {
+      "id": "D1b1a2b1a",
+      "name": "D1b1a2b1a",
+      "parent_id": null,
+      "depth": 8,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "Z1500",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "CTS8181",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS9242",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1502",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS10268",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS10511",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1503",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1501",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3603",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3605",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3607",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3610",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3617",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3636",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3651",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14780",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14781",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2b1a1": {
+      "id": "D1b1a2b1a1",
+      "name": "D1b1a2b1a1",
+      "parent_id": null,
+      "depth": 9,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "Z1504",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1434",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8093",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14779",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2b1a1a": {
+      "id": "D1b1a2b1a1a",
+      "name": "D1b1a2b1a1a",
+      "parent_id": null,
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS5406",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "Z14778",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1a2b1a1a1": {
+      "id": "D1b1a2b1a1a1",
+      "name": "D1b1a2b1a1a1",
+      "parent_id": null,
+      "depth": 11,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "FGC6373",
+          "status": "new",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1b": {
+      "id": "D1b1b",
+      "name": "D1b1b",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M151",
+          "status": "provisional",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1c": {
+      "id": "D1b1c",
+      "name": "D1b1c",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P120",
+          "status": "provisional",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1d": {
+      "id": "D1b1d",
+      "name": "D1b1d",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS6609",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1d1": {
+      "id": "D1b1d1",
+      "name": "D1b1d1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS1897",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1574",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS504",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1569",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS741",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS906",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1570",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2296",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2798",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3097",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1575",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3906",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4219",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4305",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4517",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6090",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7590",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1576",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8368",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8666",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS10807",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1568",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1571",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1572",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1573",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1578",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1579",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3838",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3840",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3844",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3851",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14867",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14868",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14869",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14870",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14871",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14872",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14873",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14874",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14875",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14876",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14877",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14878",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14879",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14880",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1d1a": {
+      "id": "D1b1d1a",
+      "name": "D1b1d1a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS218",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1527",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS321",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1528",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS356",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1532",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS621",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1228",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1533",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1670",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1546",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2078",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1547",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2378",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1548",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2482",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3489",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1549",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3636",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1550",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS5307",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS5862",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1552",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6303",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1553",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6392",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6499",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6572",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1554",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6859",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7234",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1555",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7398",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7543",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7615",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1556",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7999",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1557",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8230",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8960",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1558",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS9028",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS9335",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS9902",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS10793",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1566",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS11032",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS11048",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS11071",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1567",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS12720",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "IMS-JST022456",
+          "status": "provisional",
+          "is_representative": false
+        },
+        {
+          "name": "PF7228",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1529",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1530",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1531",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1534",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1535",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1538",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1539",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1540",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1541",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1542",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1560",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1561",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1562",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1563",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1564",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1565",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3834",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3839",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3841",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3843",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3847",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3849",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3850",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3852",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3854",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3855",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3856",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14820",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14821",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14822",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14823",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14824",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14825",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14826",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14827",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14828",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14829",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14830",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14831",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14832",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14833",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14834",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14835",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14836",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14837",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14838",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14839",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14840",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14841",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14842",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14843",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14844",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14845",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14846",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14847",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14848",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14849",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14850",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14851",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14852",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14853",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14854",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14855",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14856",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14857",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14858",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14859",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14860",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14861",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14862",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14863",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14864",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14865",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14866",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1d1a1": {
+      "id": "D1b1d1a1",
+      "name": "D1b1d1a1",
+      "parent_id": null,
+      "depth": 7,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS4617",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1d1a1a": {
+      "id": "D1b1d1a1a",
+      "name": "D1b1d1a1a",
+      "parent_id": null,
+      "depth": 8,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS6909",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1614",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1545",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14802",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14804",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14805",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14806",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14807",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14809",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14810",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14811",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14812",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14814",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14818",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b1d1b": {
+      "id": "D1b1d1b",
+      "name": "D1b1d1b",
+      "parent_id": null,
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS1964",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6511",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M6525",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14881",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14882",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14883",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14884",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14885",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14886",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14887",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14888",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b2": {
+      "id": "D1b2",
+      "name": "D1b2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS583",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1516",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS131",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS881",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1517",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1352",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1592",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2098",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1520",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2712",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2820",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3798",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3808",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3879",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4645",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1521",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6144",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1522",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6908",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7457",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS7467",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8057",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1523",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8075",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8327",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS8635",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS9143",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS11368",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1515",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1518",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1519",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1524",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1526",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3801",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3810",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3811",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3822",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3823",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3824",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3827",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3832",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3833",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14793",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14794",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14795",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14796",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14797",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14798",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14799",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14800",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17170",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17171",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b2a": {
+      "id": "D1b2a",
+      "name": "D1b2a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS220",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS709",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1333",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS1439",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1505",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2259",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS2940",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3320",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1508",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4158",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1509",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS5302",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS5941",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6287",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1510",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6342",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1511",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS10054",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS10126",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS11474",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS11619",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L495.2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z2788.2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1506",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1507",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z1514",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3807",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3814",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z3819",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14782",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14783",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14784",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14785",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14786",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14787",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14788",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14789",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14790",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14791",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z14792",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17172",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17174",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17175",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b2a1": {
+      "id": "D1b2a1",
+      "name": "D1b2a1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS10495",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "Z17173",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17176",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D1b2a2": {
+      "id": "D1b2a2",
+      "name": "D1b2a2",
+      "parent_id": null,
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "CTS11285",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "Z17254",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17255",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17256",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17257",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z17258",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    },
+    "D2": {
+      "id": "D2",
+      "name": "D2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L1366",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L1378",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M226.2",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-28"
+    }
+  }
+}

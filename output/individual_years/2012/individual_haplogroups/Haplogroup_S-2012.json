@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2012",
+    "type": "haplogroup",
+    "major_haplogroup": "S",
+    "root_haplogroup": "S",
+    "root_parent": "K(xLT)",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 8
+  },
+  "tree": {
+    "S": {
+      "id": "S",
+      "name": "S",
+      "parent_id": "K(xLT)",
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M230",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P202",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P204",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup S is a major haplogroup in the highlands of mainland Papua New Guinea where it is found at frequencies of around 50% in some populations and is also present at lower frequencies in adjacent islands of Indonesia and Melanesia.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpS12.html",
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-12-01"
+    },
+    "S*": {
+      "id": "S*",
+      "name": "S*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-01-01"
+    },
+    "S1": {
+      "id": "S1",
+      "name": "S1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M254",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-01-01"
+    },
+    "S1*": {
+      "id": "S1*",
+      "name": "S1*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-01-01"
+    },
+    "S1a": {
+      "id": "S1a",
+      "name": "S1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P57",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-01-01"
+    },
+    "S1b": {
+      "id": "S1b",
+      "name": "S1b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P61",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-01-01"
+    },
+    "S1c": {
+      "id": "S1c",
+      "name": "S1c",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P83",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-01-01"
+    },
+    "S1d": {
+      "id": "S1d",
+      "name": "S1d",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M226",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-01-01"
+    }
+  }
+}

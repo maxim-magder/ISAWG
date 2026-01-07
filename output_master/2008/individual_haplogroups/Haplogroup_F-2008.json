@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2008",
+    "type": "haplogroup",
+    "major_haplogroup": "F",
+    "root_haplogroup": "F",
+    "root_parent": "C,F",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 6
+  },
+  "tree": {
+    "F": {
+      "id": "F",
+      "name": "F",
+      "parent_id": "C,F",
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M89",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M213",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            ""
+          ]
+        },
+        {
+          "name": "P137",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M235",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P14",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P133",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P134",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P135",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P136",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P138",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P139",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P140",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P141",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P142",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P145",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P146",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P148",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P149",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P151",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P157",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P158",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P159",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P160",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P161",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P163",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P166",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P187",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P142. P145",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup F is the parent of all Y-DNA haplogroups G through T and contains more than 90% of the world�s population. Haplogroup F was in the original migration out of Africa, or else it was founded soon afterward, because F and its sub-haplogroups are primarily found outside, with very few inside, sub-Saharan Africa. The founder of F could have lived between 60,000 and 80,000 years ago, depending on the time of the out-of-Africa migration.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpF08.html",
+      "children": [
+        "G",
+        "H",
+        "IJK"
+      ],
+      "source_version": "2008",
+      "revision_date": "2008-12-23"
+    },
+    "F*": {
+      "id": "F*",
+      "name": "F*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-10-20"
+    },
+    "F1": {
+      "id": "F1",
+      "name": "F1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P91",
+          "status": "provisional",
+          "is_representative": false
+        },
+        {
+          "name": "P104",
+          "status": "provisional",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-10-20"
+    },
+    "F2": {
+      "id": "F2",
+      "name": "F2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M427",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M428",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-10-20"
+    },
+    "F3": {
+      "id": "F3",
+      "name": "F3",
+      "parent_id": null,
+      "depth": 1,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P96",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-10-20"
+    },
+    "F4": {
+      "id": "F4",
+      "name": "F4",
+      "parent_id": null,
+      "depth": 1,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P254",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-10-20"
+    }
+  }
+}

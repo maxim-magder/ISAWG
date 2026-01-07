@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2012",
+    "type": "haplogroup",
+    "major_haplogroup": "P",
+    "root_haplogroup": "P",
+    "root_parent": "K(xLT)",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 2
+  },
+  "tree": {
+    "P": {
+      "id": "P",
+      "name": "P",
+      "parent_id": "K(xLT)",
+      "depth": 10,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "92R7_1",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "92R7_2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L138",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L268",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L405",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L471",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L536",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L721",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L741",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L768",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L779",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L781",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M45",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M74",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "N12"
+          ]
+        },
+        {
+          "name": "P27.1_1",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P207"
+          ]
+        },
+        {
+          "name": "P27.1_2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P69",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P226",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P228",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P230",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA Haplogroup P and its Subclades - 2012 The entire work is identified by the Version Number and date given on the Main Page. Directions for citing the document are given at the bottom of the Main Page. Version History Last revision date for this specific page: 13 September 2012 Because of continuing research, the structure of the Y-DNA Haplogroup Tree changes and ISOGG does its best to keep the tree updated with the latest developments in the field. The viewer may observe other versions of the tree on the Web. Email Alice Fairhurst if the differences need clarification or if you find any broken links on this page.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpP12.html",
+      "children": [
+        "Q",
+        "R"
+      ],
+      "source_version": "2012",
+      "revision_date": "2012-12-01"
+    },
+    "P*": {
+      "id": "P*",
+      "name": "P*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2012",
+      "revision_date": "2012-09-13"
+    }
+  }
+}

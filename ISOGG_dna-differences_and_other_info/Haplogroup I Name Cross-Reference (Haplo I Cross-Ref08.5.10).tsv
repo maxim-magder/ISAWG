@@ -1,0 +1,20 @@
+Hg-SNP name	aka SNP	2008 ISOGG	2008 YCC - FTDNA/ysearch	2007 ISOGG	old YCC	NCBI (National Center for Biotechnology Information)	Y-position-mutation	Additional data
+Haplogroup I	"M170, M258, P38"	I	I	"I, (P38 was I1)"	I	rs2032597	A-13357186-C	"Y-position example:  M170 = y-position 13357186, mutation = A>C., cdmo29, 2008.5.10"
+I-M253	"M307, P30, S107"	I1	I1	I1a	I1a	rs9341296	C-13532101-T	
+I-M21		I1a	I1a	I1a2	I1a2	rs3912	A-20191727-T	
+I-M227		I1b	I1b	I1a1	I1a4	rs9341274	C-14100840-G	
+I-M72		I1b1	I1b1	I1a1a	I1a3	rs2032637	A-20353795-G	
+I-P109		I1c	I1c				G-13935399-A	
+I-P259		I1d	I1d				T-14100868-G	
+I-M438	"P215, S31"	I2	I2	I1b		rs17307294	A-15148198-G	
+I-P37.2		I2a	I2a	I1b1	I1b		T-13001692-C	
+I-M423		I2a1	 					"SNP M423 is reported on Underhill etal 2007b, but not on YCC Karafet etal 2008.  Y-position information is not available."
+I-P41.2	M359.2	I2a1a	I2a1	I1b1a	I1b1		T-13001679-C	
+I-M26		I2a2	I2a2	I1b1b	I1b2	rs2032629	G-20325209-A	
+I-M161		I2a2a	I2a2a	I1b1b1	I1b2a		C-20176903-A	
+I-M436	"P214, S33"	I2b	I2b	I1b2		rs17315680	G-17256887-C	"YCC Karafet etal 2008 includes M223 with P214 (same as M436) as I2b, whereas ISOGG shows M223 as a subclade of M436/P214, citing Underhill etal 2007b."
+I-M223	"P219, S24"	I2b1	I2b	I1b2a	"I1c, I2"		C-20176695-T	"YCC Karafet etal 2008 includes M223 with P214 (same as M436) as I2b, whereas ISOGG shows M223 as a subclade of M436/P214, citing Underhill etal 2007b."
+I-M284	null 425	I2b1a	I2b1	I1b2a1	"I1c1, I2a"		21159845-8delACAA	"I-M284 evidently originated in Scotland, and is associated with null 425."
+I-M379		I2b1b	I2b2	I1b2a2		rs2032636	13536923-4 del GT	
+I-P78		I2b1c	I2b3	I1b2a3			C-6800387-T	
+I-P95		I2b1d	I2b4	I1b2a4	I2b		G-13379100-T	

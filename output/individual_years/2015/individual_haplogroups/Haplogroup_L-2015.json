@@ -1,0 +1,988 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2015",
+    "type": "haplogroup",
+    "major_haplogroup": "L",
+    "root_haplogroup": "L",
+    "root_parent": null,
+    "extraction_date": "2026-01-07",
+    "total_subclades": 13
+  },
+  "tree": {
+    "LT [K1]": {
+      "id": "LT [K1]",
+      "name": "LT [K1]",
+      "parent_id": "K",
+      "depth": 12,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L298",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P326",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "CTS2888",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5543"
+          ]
+        },
+        {
+          "name": "CTS3648",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4783",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5548"
+          ]
+        },
+        {
+          "name": "CTS5175",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5549"
+          ]
+        },
+        {
+          "name": "CTS6888",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "CTS753",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5525"
+          ]
+        },
+        {
+          "name": "PF5519",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF5526",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF5531",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF5535",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF5536",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF5566",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF5586",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L811",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [
+        "L [K1a]"
+      ],
+      "source_version": "2015",
+      "revision_date": "2015-11-26"
+    },
+    "L [K1a]": {
+      "id": "L [K1a]",
+      "name": "L [K1a]",
+      "parent_id": "LT [K1]",
+      "depth": 13,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M20",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5570",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L855",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L863",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L878",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5524"
+          ]
+        },
+        {
+          "name": "L879",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5697"
+          ]
+        },
+        {
+          "name": "M11",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M61",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Page43"
+          ]
+        },
+        {
+          "name": "M185",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5755"
+          ]
+        },
+        {
+          "name": "PF5528",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5532",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5539",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5554",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5557",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5563",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5564",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5583",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5683",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5692",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5693",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5699",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5705",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5715",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5717",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5720",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5723",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5729",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5737",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5743",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5747",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5754",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5756",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5757",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5771",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5773",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5779",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5790",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5791",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5804",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5810",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5813",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5815",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5821",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5823",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5829",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5830",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5832",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5833",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5839",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpL15.html",
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-11-26"
+    },
+    "LTor K1": {
+      "id": "LTor K1",
+      "name": "LTor K1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L298",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P326",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "etc.",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_YDNATreeTrunk15.html",
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-01-01"
+    },
+    "Lor K1a": {
+      "id": "Lor K1a",
+      "name": "Lor K1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M20",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5570",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "etc.",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpL15.html",
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-01-01"
+    },
+    "L": {
+      "id": "L",
+      "name": "L",
+      "parent_id": null,
+      "depth": 0,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M20",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF5570",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L855",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L863",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L878",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5524"
+          ]
+        },
+        {
+          "name": "L879",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5697"
+          ]
+        },
+        {
+          "name": "M11",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M61",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Page43"
+          ]
+        },
+        {
+          "name": "M185",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF5755"
+          ]
+        },
+        {
+          "name": "PF5528",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5532",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5539",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5554",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5557",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5563",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5564",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5583",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5683",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5692",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5693",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5699",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5705",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5715",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5717",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5720",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5723",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5729",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5737",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5743",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5747",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5754",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5756",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5757",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5771",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5773",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5779",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5790",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5791",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5804",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5810",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5813",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5815",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5821",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5823",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5829",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5830",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5832",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5833",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF5839",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup L is found at low frequencies in the Middle East and Europe as paragroup L-M317 (L1b*, originally L2*), subgroup L-M349 (L1b1, originally L2a) and subgroup L-L595 (L2), and at significant frequencies in South Asia as subgroups L-M27 (L1a1, formerly L1a and originally L1) and L-M357 (L1a2, formerly L1c and originally L3).",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpK15.html",
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L1": {
+      "id": "L1",
+      "name": "L1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M22",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L656",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L1304",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M295",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Page121",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L1a": {
+      "id": "L1a",
+      "name": "L1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M2481",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "M2565",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "M2605",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "M2664",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Y5525",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Z20163",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Y5560",
+          "status": "new",
+          "is_representative": true
+        },
+        {
+          "name": "Z20168",
+          "status": "new",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L1a1": {
+      "id": "L1a1",
+      "name": "L1a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M27",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "M76",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P329",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L1a2": {
+      "id": "L1a2",
+      "name": "L1a2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M357",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L1307",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L1b": {
+      "id": "L1b",
+      "name": "L1b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M317",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "L655",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L1b1": {
+      "id": "L1b1",
+      "name": "L1b1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M349",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L1b2": {
+      "id": "L1b2",
+      "name": "L1b2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M274",
+          "status": "provisional",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    },
+    "L2": {
+      "id": "L2",
+      "name": "L2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L595",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2015",
+      "revision_date": "2015-10-15"
+    }
+  }
+}

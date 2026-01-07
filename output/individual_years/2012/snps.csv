@@ -1,0 +1,2182 @@
+name,haplogroup,status,aliases,rs_id,position_grch37,mutation,source_version
+002611,O3a1c,normal,IMS-JST002611,rs2075181,7606726,,2012
+021354,O3a2,normal,"IMS-JST021354, P201",rs2267801,2888196,,2012
+021355,D,normal,IMS-JST021355,rs2267802,2888425,,2012
+022454,O2b,normal,IMS-JST022454,rs2268588,22919969,,2012
+022457,D2a1b,normal,IMS-JST022457,rs2268591,22873985,,2012
+12f2.1,J,normal,,,,,2012
+12f2.2,D2,normal,,,,,2012
+47z,O2b1,normal,,,3496442,,2012
+50f2(C),K (Notes),normal,,,,,2012
+50f2(P),B2b,normal,,,21906455,,2012
+92R7_1,P,normal,,,6165720,,2012
+92R7_2,P,normal,,,10364337,,2012
+Apt,H2,normal,,,21905719,,2012
+DF1,R1b1a2a1a1b3a2,normal,"L513, S215",,7400450,,2012
+DF5,R1b1a2a1a1b3a7b1a,normal,S191,,16903208,,2012
+DF13,R1b1a2a1a1b3,normal,S521,,2896431,,2012
+DF17,R1b1a2a1a1b1a3,normal,,,6691746,,2012
+DF19,R1b1a2a1a1b5,normal,,,12811499,,2012
+DF21,R1b1a2a1a1b3a7,normal,S192,rs138322855,10488915,,2012
+DF23,R1b1a2a1a1b3a1a,normal,S193,,16283803,,2012
+DF25,R1b1a2a1a1b3a7b1,normal,S253,,2886066,,2012
+DF27,R1b1a2a1a1b1,normal,S250,,19839588,,2012
+DF29,I1a,normal,S438,,3686279,,2012
+DF41,R1b1a2a1a1b3a9,normal,S524,,15501996,,2012
+DF49,R1b1a2a1a1b3a1,normal,S474,,21144987,,2012
+DF63,R1b1a2a1a1b3b,normal,S522,,2943986,,2012
+DF73,R1b (Investigation),normal,,,7265902,,2012
+DYS257_1,O3a1a,normal,P27.2_1,rs9786896,8679538,,2012
+DYS257_2,O3a1a,normal,P27.2_2,rs9786896,8680377,,2012
+DYS271,E1b1a1,normal,"M2, SY81",rs9785941,12606577,,2012
+DYS391p,E1b1,normal,,,,,2012
+DYS413≤18,J2a1,normal,,,,,2012
+DYS445≤7,J2a1h2a,normal,,,,,2012
+DYS455≤9,J (Investigation),normal,,,,,2012
+DYS439-null,R (Notes),normal,"L1, S26",,13025258,,2012
+DYS643-null,E1b1b1a1b4,normal,L143,,15935511,,2012
+G1,B2a1b,normal,,rs79947741,20392314,,2012
+IMS-JST002611,O3a1c,normal,002611,rs2075181,7606726,,2012
+IMS-JST021354,O3a2,normal,"021354, P201",rs2267801,2888196,,2012
+IMS-JST021355,D,normal,021355,rs2267802,2888425,,2012
+IMS-JST022454,O2b,normal,022454,rs2268588,22919969,,2012
+IMS-JST022457,D2a1b,normal,022457,rs2268591,22873985,,2012
+KHS1479188,E1b1a1,normal,,rs16980435,21531096,,2012
+KL1,O3a1,normal,L465,rs17276338,17352235,,2012
+KL2,O3a1,normal,L467,rs17323322,21156174,,2012
+L1,R1b1a2a1a1a3a1a,normal,"DYS439-null, S26",,13025258,,2012
+L2,R1b1a2a1a1b2a,normal,S139,rs2566671,5815550,,2012
+L3,R1b (Private),normal,S216,,20165926,,2012
+L4,R1b1a2a1a1b2c1,normal,S178,,20199274,,2012
+L5,R1b (Private),normal,,,13329261,,2012
+L6,R1b (Private),normal,,,13329340,,2012
+L7,R1b (Private),normal,,,20616380,,2012
+L9,R1b (Private),normal,,,20616551,,2012
+L10,R1b (Private),normal,,,20616712,,2012
+L11,R1b1a2a1a1,normal,S127,rs9786076,16353412,,2012
+L12,R1a (Investigation),normal,,,,,2012
+L13,G2a1c2a1a1,normal,"S131, U13",rs9786706,13208948,,2012
+L14,G2a1c1a,normal,"Page57, S130, U16",rs35474563,21327383,,2012
+L15,IJK,normal,"M523, S137",rs9786139,6813519,,2012
+L16,IJK,normal,"M522, S138",rs9786714,7233143,,2012
+L17,E1b1b1a1b3,normal,,,13006664,,2012
+L18,E1b1b1a1,normal,,,13435883,,2012
+L19,E1b1b1b1,normal,V257,,12994604,,2012
+L20,R1b1a2a1a1b2a1a,normal,S144,rs7067305,12741292,,2012
+L21,R1b1a2a1a1b3,normal,"M529, S145",rs11799226,14163822,,2012
+L22,I1a2,normal,S142,rs34626372,8636009,,2012
+L23,R1b1a2a,normal,S141,rs9785971,6813511,,2012
+L24,J2a1h,normal,S286,rs35248080,12796528,,2012
+L25,J2a1h2,normal,S399,rs34534058,17646216,,2012
+L26,J2a1,normal,"Page55, S57",rs34459399,21352285,,2012
+L27,J2a1,normal,S396,rs34126399,21431366,,2012
+L29,E1b1b1b2a1a,normal,Page47,rs35394227,15445475,,2012
+L30,G2a1c,normal,S126,rs34134567,14114293,,2012
+L31,G2a,normal,S149,rs35617575,12538148,,2012
+L32,G2a1c,normal,"S148, U8",rs7892988,13202247,,2012
+L34,I2a2a,normal,S151,rs35604181,7776262,,2012
+L35,I2a2,normal,S150,rs7893064,21134767,,2012
+L36,I2a2a,normal,S152,rs35516764,16079993,,2012
+L37,I2a2,normal,S153,rs7067482,16025517,,2012
+L38,I2a2b,normal,S154,rs7892889,14177464,,2012
+L39,I2a2b,normal,S155,rs7893033,14708445,,2012
+L40,I2a2b,normal,S156,rs7893103,14711661,,2012
+L41,I,normal,,rs17249889,17557996,,2012
+L42,G2a1c2a1b1a1,normal,S146,rs34334142,15170153,,2012
+L43,G2a1c2a1b1a,normal,S147,rs35251548,16446759,,2012
+L44,R1b1a2a1a1a3b2a1,normal,S171,rs34738655,2952150,,2012
+L45,R1b1a2a1a1a3b2a1a1,normal,S353,rs35760092,13625532,,2012
+L46,R1b1a2a1a1a3b2a1a,normal,S172,rs13304625,17586803,,2012
+L47,R1b1a2a1a1a3b2a,normal,S170,rs34283263,20637957,,2012
+L48,R1b1a2a1a1a3b2,normal,S162,rs13303755,22021585,,2012
+L49.1,R1b1a2a,normal,S349,rs9786142,2902212,,2012
+L50,R (Private),normal,S136,rs13303711,7012023,,2012
+L51,R1b1a2a1a,normal,"M412, S167",rs9786140,8562236,,2012
+L52,R1b1a2a1a1,normal,,rs13304168,13151202,,2012
+L53,Q1a3a,normal,S326,rs34724285,20101684,,2012
+L54,Q1a3a,normal,,rs34954951,21702170,,2012
+L55,Q1a3a,normal,,rs35768544,17922729,,2012
+L56,Q1a3,normal,S324,rs34703625,8208869,,2012
+L57,Q1a3,normal,,rs34864948,14083496,,2012
+L58,N (Investigation),normal,,rs4027562,6730461,,2012
+L59,I2a2a,normal,,rs3097050,7173556,,2012
+L60,J,normal,S6,rs2008924,12747131,,2012
+L62,R1a,normal,M513,rs17222573,16400635,,2012
+L63,R1a,normal,M511,rs17307677,16672228,,2012
+L64,I1,normal,,rs17221531,10594932,,2012
+L65.1,I2a2b,normal,S159.1,rs7893015,15136011,,2012
+L65.2,J1b2b1a,normal,S159.2,rs7893015,15136011,,2012
+L66,E (Investigation),normal,,,8527002,,2012
+L67,E (Investigation),normal,,,15348956,,2012
+L68,I2,normal,S329,rs35547782,17209544,,2012
+L69,Removed from IJK,normal,S163,rs9786274,14320356,,2012
+L70,J2a1h2a1,normal,S287,rs34986875,16586410,,2012
+L72,G2b,normal,S315,,21653275,,2012
+L75,I1,normal,,rs111697819,17557999,,2012
+L78,G2a1c2a1a1,normal,M527,rs35285796,13381370,,2012
+L79,G2,normal,,,6813301,,2012
+L80,I1,normal,,rs35960273,13150724,,2012
+L81,I1,normal,,rs3906451,20923114,,2012
+L86.1,E1b1a1a1,normal,,rs9785801,15106310,,2012
+L86.2,R1b (Investigation),normal,,rs9785801,15106310,,2012
+L88.2,J2a1i,normal,,rs3966071,16105236,,2012
+L90,G2a1c1a,normal,"Page19, S133",rs35169834,20087688,,2012
+L91,G2a1b2,normal,S285,,20104943,,2012
+L92,J1b2a,normal,,,2948657,,2012
+L93,J1b2a,normal,,,2948661,,2012
+L94,E1a3,normal,,,13935113,,2012
+L95,R1b (Private),normal,,,20616651,,2012
+L96,R1b1a2a1a1b3a3,normal,,rs202177274,13411850,,2012
+L97,E1b1a1a1g1a1a,normal,,,12994336,,2012
+L99,E (Private),normal,,,6992676,,2012
+L100,R1b (Investigation),normal,,,20199566,,2012
+L116,G,normal,S284,rs9786537,13499115,,2012
+L117,E (Investigation),normal,Page15,rs34812786,13536027,,2012
+L118,I1,normal,,rs17307007,14009504,,2012
+L120,R1a1,normal,M516,rs17307105,14388411,,2012
+L121,I1,normal,S62,rs17222167,14886592,,2012
+L122,R1a1,normal,M448,rs17222202,15029838,,2012
+L123,I1,normal,,rs17307315,15202651,,2012
+L124,I1,normal,S64,rs17307586,16276156,,2012
+L125,I1,normal,S65,rs17249791,17269063,,2012
+L126,I2a2a1a1,normal,S165,rs34790845,13411027,,2012
+L127.1,O3a1,normal,,rs17269396,12798981,,2012
+L127.2,R1b (Private),normal,,rs17269396,12798981,,2012
+L128,R1b1a2a1a1a3a1c,normal,,rs9786068,13134262,,2012
+L129,R1b (Private),normal,,rs1583501,4448629,,2012
+L130,R1b (Private),normal,,,6813503,,2012
+L131,T1a2,normal,,rs2215828,17882202,,2012
+L132.1,F,normal,,rs7893044,15973591,,2012
+L132.2,R1b (Investigation),normal,,rs7893044,15973591,,2012
+L133,E1a4,normal,Page74,rs35573420,6992199,,2012
+L134,J,normal,,,13360329,,2012
+L135,R1b (Private),normal,,,13638642,,2012
+L136,J1b,normal,,,7630823,,2012
+L137,I2a2a1a1,normal,S166,rs34441307,10401250,,2012
+L138,P,normal,,rs9786091,2902214,,2012
+L139,G (Private),normal,,,13981304,,2012
+L140,G2a1c2a1,normal,S316,,7630859,,2012
+L141.1,G2a1c2,normal,,,2948607,,2012
+L141.2,R1b (Private),normal,,,2948607,,2012
+L142.1,E1b1b1a1b,normal,,,6813306,,2012
+L142.2,G2,normal,,,6813306,,2012
+L143,E1b1b1a1b4,normal,DYS643-null,,15935511,,2012
+L144,R1b1a2a1a1b3a4,normal,S175,rs9306842,21120848,,2012
+L145,R1a,normal,M449,rs17306692,12648745,,2012
+L146,R1a,normal,M420,rs17250535,21882589,,2012
+L147.1,J1b2b,normal,,rs72617687,6813258,,2012
+L147.2,I2a1b3a,normal,,rs72617687,6813258,,2012
+L147.3,R1b (Investigation),normal,,rs72617687,6813258,,2012
+L147.4,I2a2a3b,normal,,rs72617687,6813258,,2012
+L147.5,R1b (Private),normal,,rs72617687,6813258,,2012
+L147.6,L (Investigation),normal,,rs72617687,6813258,,2012
+L147.7,R1b (Investigation),normal,,rs72617687,6813258,,2012
+L147.8,R1b (Investigation),normal,,rs72617687,6813258,,2012
+L148,R1b1a2a1a1a3b2b1a1a1a,normal,S173,,15951058,,2012
+L149.1,G2a1,normal,,,8486380,,2012
+L149.2,N1c1a1a1a1,normal,,,8486380,,2012
+L150,R1b1a2a1,normal,,rs9785831,10618791,,2012
+L151,R1b1a2a1a1,normal,,rs2082033,15001941,,2012
+L152,J2a,normal,,rs2690775,20702954,,2012
+L154,G,normal,,rs35178723,8674138,,2012
+L156,G2,normal,,rs35190095,15684135,,2012
+L157.1,I1,normal,,rs17222657,17072101,,2012
+L158,I2a1a,normal,S433,,21905948,,2012
+L159.1,I2a1a,normal,S169.1,,14320358,,2012
+L159.2,R1b1a2a1a1b3a5a,normal,S169.2,,14320358,,2012
+L159.3,R1b (Investigation),normal,S169.3,,14320358,,2012
+L160,I2a1a1,normal,,,14711938,,2012
+L161.1,I2a1b2,normal,S185,,20923106,,2012
+L162,T1a1,normal,Page21,rs34179999,14528466,,2012
+L163,R1b1a2a1a1a3b2a1,normal,S352,rs35040605,7460278,,2012
+L164,R1b1a2a1a1a3b2a1a1,normal,S502,rs13305517,14211253,,2012
+L165,R1b1a2a1a1b1a2b,normal,S68,,20389703,,2012
+L166,G2a1b2a,normal,,,22399272,,2012
+L167,G2a1b2a,normal,,,22399291,,2012
+L168,R1a1a,normal,,,14711571,,2012
+L171,R1b (Private),normal,,,20616385,,2012
+L173,R1b (Private),normal,,,20616409,,2012
+L174.1,J (Private),normal,,,2948489,,2012
+L175,R1a (Private),normal,S467,,,,2012
+L176.1,R1a1a1b1a3a1,normal,S179.1,,,,2012
+L176.2,R1b1a2a1a1b1a2,normal,S179.2,,,,2012
+L177_1,G2a1c2b,normal,,,,,2012
+L177_2,G2a1c2b,normal,,,,,2012
+L177_3,G2a1c2b,normal,,,,,2012
+L178,I2a1b,normal,S328,,14083446,,2012
+L179,R1b (Private),normal,,,16291520,,2012
+L180,R1b (Private),normal,,,8636301,,2012
+L181,I2a2,normal,,,17587148,,2012
+L183,G2b,normal,,,8527136,,2012
+L184,G (Private),normal,,,17586994,,2012
+L185,G (Private),normal,,,20922998,,2012
+L186,I1,normal,,,16586687,,2012
+L187,I1,normal,,,16586691,,2012
+L188,R1b (Private),normal,,,20328039,,2012
+L190,G2a1c,normal,,,17269084,,2012
+L191,Q1a3a2,normal,,,2947379,,2012
+L192.1,R1b (Investigation),normal,,rs113781025,6813342,,2012
+L192.2,J2a1h2d,normal,,rs113781025,6813342,,2012
+L193,R1b1a2a1a1b3a2b,normal,S176,,6813344,,2012
+L194,R1b (Private),normal,,,20353460,,2012
+L195,R1b1a2a1a1b3a4,normal,S354,,,,2012
+L196,R1b1a2a1a1b2a2,normal,,,2947744,,2012
+L198,J2a1i,normal,,,16105255,,2012
+L199,R1b (Private),normal,,,13987142,,2012
+L200,R1b1a2a1a1a3b2c,normal,,,10618883,,2012
+L201,G1a1,normal,,,2718285,,2012
+L202,G1a1,normal,,,13001714,,2012
+L203,G1a1,normal,,,13001715,,2012
+L204,G,normal,,,5418991,,2012
+L205,I1a2b,normal,,,13987138,,2012
+L206,T1,normal,,,,,2012
+L207.1,J2a1h,normal,,,6813448,,2012
+L208,T1a1a,normal,Page2,rs35815655,6796443,,2012
+L209,R1b (Private),normal,,,20638261,,2012
+L210,J2a1b3,normal,,,15001591,,2012
+L211,I (Private),normal,,,13529017,,2012
+L212,J2a,normal,,,21120853,,2012
+L213,Q1a3a,normal,,rs34549365,8295033,,2012
+L214,Q1b1,normal,,rs34694026,20365995,,2012
+L215,Q1b1,normal,"Page82, S325",rs34601266,13399368,,2012
+L216,R1b (Investigation),normal,,,6813316,,2012
+L217.1,R1b1a2a1a1a1,normal,,,6813316,,2012
+L217.2,R1b (Private),normal,,,6813316,,2012
+L218,J2a1b3,normal,,,,,2012
+L220.1,R1b (Investigation),normal,,,,,2012
+L220.2,N (Investigation),normal,,,,,2012
+L221,R1b (Investigation),normal,,,17605737,,2012
+L222.1,E1b1a,normal,,rs9786587,,,2012
+L222.2,J1b2b1,normal,,rs9786587,,,2012
+L223,G2a1b,normal,,rs13304806,6405148,,2012
+L226,R1b1a2a1a1b3a6a,normal,S168,,17558118,,2012
+L227,J2a1b3,normal,,,6919963,,2012
+L228,J2,normal,S321,,7831358,,2012
+L229,J2a3h2b,normal,,,6813447,,2012
+L230,J2a3h2b,normal,,,20327921,,2012
+L231,J2a3h2c,normal,,,13524835,,2012
+L232,Q1,normal,S432,,16025489,,2012
+L233,I2a1c,normal,S183,,12997370,,2012
+L234,I (Investigation),normal,,,7707407,,2012
+L235,R1a (Investigation),normal,,,13395561,,2012
+L237,R1b1a2a1a1a3b2a1a1,normal,,rs13305070,14254036,,2012
+L238,R1b1a2a1a1b4,normal,S182,rs35199432,19712831,,2012
+L240,G,normal,,,3191153,,2012
+L241,E1b1b1a1b6,normal,,,4989687,,2012
+L242,I (Investigation),normal,,,20101777,,2012
+L243,J2a1h2b,normal,,,16586405,,2012
+L245,Q1b1a,normal,,,5735090,,2012
+L246,O (Investigation),normal,,,3756607,,2012
+L247,O (Investigation),normal,,,3605167,,2012
+L250,E1b1b1a1b7,normal,,,6813387,,2012
+L251,E1b1b1a1b7,normal,,,6813389,,2012
+L252,E1b1b1a1b7,normal,,,6813394,,2012
+L253,R1b (Investigation),normal,,,,,2012
+L254,J2a1h2c,normal,,,15002046,,2012
+L255,J1,normal,,,13447274,,2012
+L257,R1b1a2a1a1a2a1a,normal,S186,,14177422,,2012
+L258,I1a2c1,normal,S335,,20352014,,2012
+L259,R1b (Private),normal,S266,,13537032,,2012
+L260,R1a1a1b1a1a,normal,S222,,16758224,,2012
+L261,R2 (Investigation),normal,,,16079828,,2012
+L263,R2a2,normal,,,,,2012
+L264,J2a3h2b,normal,,,15784256,,2012
+L265,R1b1a2,normal,,rs9786882,8209348,,2012
+L266,R2a,normal,,,8486362,,2012
+L268,P,normal,,rs9786514,22779993,,2012
+L269,G,normal,,,13467612,,2012
+L270,J2a3h2g,normal,,,3605336,,2012
+L271,J2a1h2d1,normal,,,17586712,,2012
+L272.1,Q1b1a1,normal,,,3496239,,2012
+L272.2,O2b,normal,,,3496239,,2012
+L272.3,I2a2b,normal,,,3496239,,2012
+L273,Q1,normal,,,16105268,,2012
+L274,Q1,normal,,,16105269,,2012
+L275,Q1b,normal,,,17646282,,2012
+L276,R1b (Investigation),normal,,,6813376,,2012
+L277.1,R (Notes),normal,,rs2538852,10336023,,2012
+L278,R1b1,normal,,rs17249854,17423835,,2012
+L279,F3,normal,,,6992824,,2012
+L281,F3,normal,,,8413840,,2012
+L282,J2b,normal,,,5419116,,2012
+L283,J2b2a,normal,,,6992663,,2012
+L284,F3,normal,,,14114256,,2012
+L285,F3,normal,,,20329244,,2012
+L286,F3,normal,,,20349499,,2012
+L287,I1a2c,normal,,,7460134,,2012
+L288,R2 (Investigation),normal,,,19745655,,2012
+L289,R1b (Investigation),normal,,,14163605,,2012
+L291,R1a (Investigation),normal,,,22775884,,2012
+L292,R1b (Investigation),normal,,,,,2012
+L293,G2a1a,normal,,,10595022,,2012
+L294,R2a1a,normal,,,2948632,,2012
+L295,R2a1,normal,,,4989885,,2012
+L296,I1a2c1a,normal,,,20199577,,2012
+L297,G (Private),normal,,,15170096,,2012
+L298,LT,normal,P326,,8527290,,2012
+L299,T1a1,normal,,,22021860,,2012
+L300,I1a2d,normal,S241,,20352144,,2012
+L301,Q (Investigation),normal,,,13528066,,2012
+L302,R1b (Private),normal,S464,,21147192,,2012
+L314,Q1b,normal,,,14096968,,2012
+L315,Q (Investigation),normal,,,20329302,,2012
+L319.1,R1b (Private),normal,,,3496403,,2012
+L319.4,R (Notes),normal,,,3496403,,2012
+L320,R1b1a,normal,,rs2917400,4417591,,2012
+L321,J1,normal,,,7231834,,2012
+L325,R1b (Private),normal,,,14177442,,2012
+L326,R1b (Investigation),normal,,,14163614,,2012
+L327,Q (Investigation),normal,,,3496380,,2012
+L329,Q1a3a3a,normal,,,20301658,,2012
+L330,Q1a3a3,normal,,,16276201,,2012
+L331,Q1a3a,normal,,,16170620,,2012
+L332,Q1a3a3a,normal,,,14708289,,2012
+L333,Q1a3a3a,normal,,,13528967,,2012
+L334,Q1a3a3,normal,,,12992087,,2012
+L335,E1b1b1b1,normal,,,2770013,,2012
+L336,E1b1b1,normal,,rs112779735,20363241,,2012
+L338,I1a3a1a1,normal,,,17601992,,2012
+L339,E,normal,,rs9786225,6991856,,2012
+L342.2,R1a1a1b2a1,normal,S278.2,rs7892981,3496373,,2012
+L343,R1b (Investigation),normal,,,3496366,,2012
+L348.3,R (Notes),normal,,,3496409,,2012
+L349.2,R (Notes),normal,,,3496413,,2012
+L351,E (Private),normal,,,17072079,,2012
+L353_1,G2a1c2a1b,normal,,,19128339,,2012
+L353_2,G2a1c2a1b,normal,,,19434615,,2012
+L356,R1b (Investigation),normal,,,3496428,,2012
+L362,R1b1a2a1a1b3a7a1,normal,,,2948632,,2012
+L365,R1a1a1b1a2b,normal,S468,,20088055,,2012
+L366,R1a1a1b1a2c,normal,,,,,2012
+L368,I2a2a,normal,,,6991594,,2012
+L369,I2a2a1a1,normal,,,13359708,,2012
+L371,R1b1a2a1a1b3a8,normal,S300,,17165864,,2012
+L372,E (Investigation),normal,,,13379160,,2012
+L373,G (Investigation),normal,,,20702762,,2012
+L374,G (Investigation),normal,,,20702777,,2012
+L375,G (Investigation),normal,,,20702983,,2012
+L376,G (Investigation),normal,,,20702985,,2012
+L377,G (Investigation),normal,,,20703096,,2012
+L378,G (Investigation),normal,,,20703118,,2012
+L379,G (Investigation),normal,,,20703157,,2012
+L381,R2 (Investigation),normal,,,4840443,,2012
+L384,R2 (Investigation),normal,,,2948508,,2012
+L385,R2 (Investigation),normal,,,2948667,,2012
+L387.1,O (Investigation),normal,,,3496223,,2012
+L387.2,I (Investigation),normal,,,3496223,,2012
+L392,N1c1a1a,normal,,,6813265,,2012
+L395,N (Investigation),normal,,,17558119,,2012
+L396,J (Private),normal,,,6992813,,2012
+L397,J2a1h2a1,normal,,,21134453,,2012
+L398,J2a1h2a1,normal,,,21653285,,2012
+L399,R1a (Investigation),normal,,,17602059,,2012
+L400,Q (Investigation),normal,,,15784559,,2012
+L401,Q (Investigation),normal,,,,,2012
+L402,G,normal,,,13714102,,2012
+L405,P,normal,,rs9786602,27141305,,2012
+L408,R1b (Investigation),normal,,,13005257,,2012
+L409,R1b (Investigation),normal,,,13625296,,2012
+L410,I (Investigation),normal,,,13935148,,2012
+L411,A (Investigation),normal,,,2947740,,2012
+L412,A (Investigation),normal,,,3224640,,2012
+L413,BT,normal,,,6992831,,2012
+L414,A (Investigation),normal,,,7011990,,2012
+L415,I2b,normal,,,2948663,,2012
+L416,I2b,normal,,,6813273,,2012
+L417,I2b,normal,,,8486321,,2012
+L418,BT,normal,,,10618803,,2012
+L419,A1b1,normal,,,13714281,,2012
+L420,A (Investigation),normal,,,14388498,,2012
+L421,A (Investigation),normal,,,16105223,,2012
+L422,A (Investigation),normal,,,16105224,,2012
+L423,A (Investigation),normal,,,16105255,,2012
+L424,A (Investigation),normal,,,16105390,,2012
+L425,A (Investigation),normal,,,16105391,,2012
+L426,A (Investigation),normal,,,16105392,,2012
+L427,A (Investigation),normal,,,16105397,,2012
+L428,A (Investigation),normal,,,16105400,,2012
+L429,A (Investigation),normal,,,16105402,,2012
+L430,A (Investigation),normal,,,16105417,,2012
+L436,A (Investigation),normal,,,17587066,,2012
+L437,A (Investigation),normal,,,17602027,,2012
+L438,BT,normal,,,19712962,,2012
+L439,A (Investigation),normal,,,20616680,,2012
+L440,BT,normal,,,20638205,,2012
+L441,A (Investigation),normal,,,22399224,,2012
+L442,A (Investigation),normal,,,22885142,,2012
+L443,R1b (Investigation),normal,,,13987142,,2012
+L445,T,normal,,,3496384,,2012
+L446,T1a2b,normal,,,15170179,,2012
+L447,T (Investigation),normal,,,19542801,,2012
+L448,R1a1a1b1a3a,normal,S200,,6991809,,2012
+L449,R1a1a,normal,,,21376144,,2012
+L450,R1a (Investigation),normal,,,12798762,,2012
+L451,R1a (Investigation),normal,,,3496432,,2012
+L452,T,normal,,,12933807,,2012
+L453,T1a1,normal,,,13087217,,2012
+L454,T1a1,normal,,,13087280,,2012
+L455,T,normal,,,21658795,,2012
+L456,Q (Investigation),normal,,,8295064,,2012
+L457,R1a1a1,normal,,,14946266,,2012
+L458,R1a (Investigation),normal,,,12746813,,2012
+L459,R1b1a2a1a1b3,normal,,rs141984805,5335051,,2012
+L460,I2a,normal,S238,rs7892855,7939415,,2012
+L463,O2,normal,,,14810699,,2012
+L465,O3a1,normal,KL1,,17352235,,2012
+L466,O (Investigation),normal,,,20133456,,2012
+L467,O3a1,normal,KL2,,21156174,,2012
+L471,P,normal,,rs4141927,27021711,,2012
+L472,Q1a,normal,,,7074317,,2012
+L474,Q1a,normal,,,13543106,,2012
+L475,Q1a3a,normal,,,16656315,,2012
+L476,Q1a3a,normal,,,17814155,,2012
+L477,R1b1a2a1a1a3b2a1a1,normal,,rs13304552,2927288,,2012
+L485,E1b1a1a1f,normal,,rs9786118,8912858,,2012
+L486,G (Private),normal,,rs9786039,10341953,,2012
+L490,T1,normal,,,13039638,,2012
+L493,R1b1a2a1a1a3b2a1a1,normal,,rs13305913,14309720,,2012
+L496,G (Investigation),normal,,,15412445,,2012
+L497,G2a1c2a1b,normal,S317,rs35141399,15932714,,2012
+L504,E,normal,,rs9785767,19845112,,2012
+L507,E,normal,,rs9786550,21098119,,2012
+L511,E,normal,,rs9785991,21468979,,2012
+L513,R1b1a2a1a1b3a2,normal,"DF1, S215",,7400450,,2012
+L514,E1b1a1a1f1,normal,,rs9786371,13146466,,2012
+L515,E1b1a1a1f1b,normal,,rs9785694,8327895,,2012
+L516,E1b1a1a1f1b,normal,,rs9785973,17615120,,2012
+L517,E1b1a1a1f1b,normal,,rs9786805,20052858,,2012
+L518,G (Investigation),normal,,,,,2012
+L519,G,normal,,,8300725,,2012
+L520,G,normal,,,8760380,,2012
+L521,G,normal,,,10058354,,2012
+L522,G,normal,,,16042719,,2012
+L523,G,normal,,,17466602,,2012
+L524,G (Investigation),normal,,,14694475,,2012
+L526,R1b (Investigation),normal,,,15932864,,2012
+L527,Q1a3c,normal,,,16170697,,2012
+L528,Q1a3,normal,,,16538402,,2012
+L529,Q1a3c,normal,,,6991700,,2012
+L533,I (Investigation),normal,,,2947198,,2012
+L536,P,normal,,,7400314,,2012
+L537,E,normal,,rs9786374,6921075,,2012
+L540,E1b1b1a1b8,normal,,,10618738,,2012
+L542,E1b1b1a1b,normal,,,12741555,,2012
+L548,N (Investigation),normal,,,12178283,,2012
+L549,N (Investigation),normal,,,13146095,,2012
+L550,N1c1a1a1,normal,S431,,19745636,,2012
+L551,N1c1a1a1a1,normal,,,20923233,,2012
+L552,R1b (Investigation),normal,,,2947377,,2012
+L553,R1b (Investigation),normal,,,13087530,,2012
+L554,R1b1a2a1a1b3a6b,normal,,,13532171,,2012
+L555,R1b1a2a1a1b3a10,normal,,,7707335,,2012
+L556,J2a1b1a,normal,,,4840599,,2012
+L557,R1b (Investigation),normal,S394,,20923079,,2012
+L559,J2a,normal,,,20133715,,2012
+L560,J2a1b1a,normal,,,20359248,,2012
+L561,R1b (Investigation),normal,,,,,2012
+L562,R1b1a2a1a1b2a3a1,normal,,,10400893,,2012
+L563,R1b1a2a1a1b3a9b,normal,,,16538320,,2012
+L564,R1b (Investigation),normal,,,3496383,,2012
+L569,Q1a3a4,normal,,,20189215,,2012
+L570,Q1a3a4,normal,,,20303330,,2012
+L571,Q1a3a4,normal,,,21158648,,2012
+L573,I1a3a1c,normal,,,14529674,,2012
+L576,E1b1a1a,normal,TSC0860384,rs4081948,24828235,,2012
+L577,R1b (Investigation),normal,,,21151172,,2012
+L579,R1a (Investigation),normal,,,13536848,,2012
+L580,R1b (Investigation),normal,,,20133517,,2012
+L581,J2a2,normal,S398,,13379508,,2012
+L583,R1b (Investigation),normal,,,20392402,,2012
+L584,R1b1a2a1b,normal,,,27141305,,2012
+L591,N1c1a1a1a2,normal,,,12648490,,2012
+L592,I (Private),normal,,,20133576,,2012
+L594,R1b (Investigation),normal,,,15784437,,2012
+L595,L2,normal,,,20199039,,2012
+L596,I2c,normal,S292,,12707631,,2012
+L597,I2c,normal,S333,,17397282,,2012
+L600,A (Investigation),normal,,,2932849,,2012
+L601,A (Investigation),normal,,,7653049,,2012
+L602,A (investigation),normal,,,15092301,,2012
+L603,A (Investigation),normal,,,15427088,,2012
+L604,BT,normal,,,21526542,,2012
+L605,G,normal,,,16902930,,2012
+L609,E (Investigation),normal,,,12538149,,2012
+L611,E (Investigation),normal,,,17587040,,2012
+L614,E,normal,,rs9786023,21658766,,2012
+L617,R1b1a2a1a1b1b,normal,,,8526862,,2012
+L618,E (Investigation),normal,,,13849091,,2012
+L621,I2a1b3,normal,S392,,17269475,,2012
+L622,I2a2a,normal,,,12178315,,2012
+L623,I2a2a3b,normal,,,14711884,,2012
+L625,R1b (Private),normal,,,5419157,,2012
+L626,R1b (Private),normal,,,15001923,,2012
+L627,R1b1a2a1a1b3a7b1a1,normal,,,16080243,,2012
+L628,R1b (Investigation),normal,,,5335014,,2012
+L629,R1b (Investigation),normal,,,12997031,,2012
+L631,E (Investigation),normal,,,12178334,,2012
+L632,E (Investigation),normal,,,13527889,,2012
+L633,E1a,normal,,,13006863,,2012
+L634,E (Investigation),normal,,,14309527,,2012
+L635,E (Investigation),normal,,,4283484,,2012
+L636,E (Investigation),normal,,,6800306,,2012
+L637,E (Investigation),normal,,,13540193,,2012
+L638,E (Investigation),normal,,,20938249,,2012
+L640,G2a1c2a1c1a,normal,,,16903082,,2012
+L641,R1b (Investigation),normal,,rs1236454,14605718,,2012
+L642,R1b (Investigation),normal,,rs1236455,14605724,,2012
+L643,R1b (Investigation),normal,,,20355466,,2012
+L644,R1b1a2a1a1b5a,normal,,,3496347,,2012
+L645,G2a1c1b,normal,,,2948673,,2012
+L646,N (Private),normal,,,14529574,,2012
+L648,N (Private),normal,,,21160523,,2012
+L649,E (Investigation),normal,,,2947197,,2012
+L650,E (Investigation),normal,,,13381308,,2012
+L651,E (Investigation),normal,,,13407511,,2012
+L653,R1b (Private),normal,,,21702428,,2012
+L654.1,R1b (Investigation),normal,,,2948600,,2012
+L654.2,G (Investigation),normal,,,2948600,,2012
+L655,L1b,normal,,,4934269,,2012
+L656,L1b1,normal,,,6991538,,2012
+L657,R1a1a1b2a1a,normal,S347,,12669864,,2012
+L658,R1b1a2a1a1b3a7b1a2,normal,,,8192368,,2012
+L659,R1b (Investigation),normal,,,17884655,,2012
+L660,G2a1c2a1d,normal,,,12511525,,2012
+L661,G (Private),normal,,,13499319,,2012
+L662,G2a1c2a1d,normal,,,16446702,,2012
+L664,R1a1a1a,normal,S298,,15784441,,2012
+L665,N1c2b2,normal,,,7830928,,2012
+L666,N1c2,normal,,,7630816,,2012
+L671,R1b (Investigation),normal,,,14085457,,2012
+L672,I (Investigation),normal,S327,,20688016,,2012
+L673,I (Investigation),normal,,,15001776,,2012
+L674,E (Investigation),normal,,,7606864,,2012
+L675,E (Investigation),normal,,,13987142,,2012
+L677,E (Investigation),normal,,,17466453,,2012
+L679,R1b (Investigation),normal,,,21653237,,2012
+L681,O (Investigation),normal,,,20363165,,2012
+L682,O2b1b,normal,,,20389501,,2012
+L690,O2,normal,,,8856086,,2012
+L693,R1b (Private),normal,,,3202347,,2012
+L694,G2a1c2a2,normal,,,5734986,,2012
+L695,G (Private),normal,,,20353668,,2012
+L696,R1b (Private),normal,,,15170143,,2012
+L699,I2a2a2b,normal,,,2723920,,2012
+L700,I (Investigation),normal,,,2810000,,2012
+L701,I2a2a2,normal,,,6813316,,2012
+L702,I2a2a2,normal,,,7689205,,2012
+L703,I2a2a2b,normal,,,12798983,,2012
+L704,I2a2a2b1,normal,,,16105360,,2012
+L705.1,I (Investigation),normal,,,3496215,,2012
+L705.2,R1b1a2a1a1b3a2c1,normal,,,3496215,,2012
+L706.1,I (Investigation),normal,,,3496218,,2012
+L706.2,R1b1a2a1a1b3a2c,normal,,,3496218,,2012
+L708,N1c1a1,normal,,,7689512,,2012
+L709,N (Private),normal,,,15979665,,2012
+L710,N (Private),normal,,,15979666,,2012
+L711,N (Private),normal,,,17587175,,2012
+L720,R1b1a2a1a1b3a7c,normal,S299,,7136958,,2012
+L721,P,normal,,rs9786124,8576929,,2012
+L722,R2 (Investigation),normal,,,6920508,,2012
+L726,R2 (Investigation),normal,,,21658896,,2012
+L729,N1c,normal,,,17941002,,2012
+L731,N1b1,normal,,,15001848,,2012
+L732,N1b,normal,,,16656379,,2012
+L733,N1b1,normal,,,17352482,,2012
+L737,R1b (Investigation),normal,,,3496339,,2012
+L738,R1b (Investigation),normal,,,,,2012
+L739,R1b (Investigation),normal,,,14938194,,2012
+L741,P,normal,,rs9786789,20270496,,2012
+L743,R1b (Investigation),normal,,,7306779,,2012
+L744,R1b1a2a1a1b3a9a,normal,S388,,7652433,,2012
+L745,R1b1a2a1a1b3a9a1,normal,S463,,7652439,,2012
+L746,R1b1a2a1a1b3a9a,normal,S310,,13025458,,2012
+L768,P,normal,,rs9785894,21752097,,2012
+L769,G,normal,,,21468884,,2012
+L770,G,normal,,,2923466,,2012
+L779,P,normal,,rs9306837,13989941,,2012
+L781,P,normal,,rs3853055,8756594,,2012
+L782,R1b (Investigation),normal,,,16656288,,2012
+L784,R1a1a1b1a2e,normal,,,4962514,,2012
+L788,E (Investigation),normal,,,8300582,,2012
+L789,E (Investigation),normal,,,7121459,,2012
+L790,E (Investigation),normal,,,21134513,,2012
+L791,E1b1b1b2a1d,normal,,,12746879,,2012
+L792,E1b1b1b2a1d,normal,,,16456808,,2012
+L793,E (Investigation),normal,,,16671861,,2012
+L795,E (Investigation),normal,,,14177571,,2012
+L797,E (Investigation),normal,Z1146,,8111123,,2012
+L801,I2a2a3a,normal,S390,,20223143,,2012
+L803,I1a3a1d,normal,,,16108928,,2012
+L804,Q (Investigation),normal,,,12538228,,2012
+L805,Q (Investigation),normal,,,15208685,,2012
+L807,Q (Investigation),normal,,,20360334,,2012
+L810,T,normal,,,16153568,,2012
+L811,LT,normal,,,19824096,,2012
+L812,I2a2a4a1,normal,S391,,13359429,,2012
+L813,I1a2e,normal,Z719,,7719777,,2012
+L830,G1c,normal,,,6923908,,2012
+L831,G1c,normal,,,6991562,,2012
+L832,G1c,normal,,,12796626,,2012
+L833,G1,normal,,,14050611,,2012
+L834,G1b,normal,,,16019950,,2012
+L835,G1b,normal,,,16291409,,2012
+L836,G,normal,,,15405542,,2012
+L837,G,normal,,,16362639,,2012
+L839,N1c1a1,normal,,,21384171,,2012
+L840,I1,normal,,,19294091,,2012
+L849,E (Investigation),normal,,,15784401,,2012
+L850,E (Investigation),normal,,,21159928,,2012
+L852,E (Investigation),normal,,,22399187,,2012
+L853,E (Investigation),normal,,,19869035,,2012
+L854,E (Investigation),normal,,,21419379,,2012
+L855,L,normal,,,21419435,,2012
+L856,E,normal,,rs9786823,8545542,,2012
+L863,L,normal,,,2833163,,2012
+L864,L (Investigation),normal,,,4960202,,2012
+L865,L (Investigation),normal,,,6813372,,2012
+L866,L (Investigation),normal,,,7656305,,2012
+L867,L (Investigation),normal,,,8527272,,2012
+L868,L (Investigation),normal,,,14114311,,2012
+L869,L (Investigation),normal,,,15929589,,2012
+L870,L (Investigation),normal,,,16586453,,2012
+L877,L (Investigation),normal,,,15296735,,2012
+L878,L,normal,,,6945788,,2012
+L879,L,normal,,,7121548,,2012
+L880,I (Investigation),normal,,,3496270,,2012
+L894,R1b (Investigation),normal,,,12581061,,2012
+L895,R1b (Investigation),normal,,,20224582,,2012
+L896,A0b,normal,,,20166014,,2012
+L904,E (Investigation),normal,,,16586618,,2012
+L905,T1a1a,normal,,,6719212,,2012
+L906,T (Investigation),normal,,,6991957,,2012
+L907,T (Investigation),normal,,,15874286,,2012
+L908,R1b (Investigation),normal,,,6938297,,2012
+L909,R1b (Investigation),normal,,,15784203,,2012
+L930,E (Investigation),normal,,,16122070,,2012
+L931,E (Investigation),normal,,,15647645,,2012
+L947,T (Investigation),normal,,,6719212,,2012
+L957,BT,normal,,,12589528,,2012
+L962,BT,normal,,,16019767,,2012
+L968,A1b1a1,normal,"M29, P3, PN3",,20069973,,2012
+L969,BT,normal,,,20133613,,2012
+L970,BT,normal,,,20133766,,2012
+L971,BT,normal,,rs113447656,20688071,,2012
+L977,BT,normal,,,21711777,,2012
+L979,A (Investigation),normal,,,3496364,,2012
+L980,A (Investigation),normal,,,3496387,,2012
+L981,A (Investigation),normal,,,6954187,,2012
+L982,A0b,normal,,,27021836,,2012
+L983,A (Investigation),normal,,,7011904,,2012
+L984,A0b,normal,,,7121505,,2012
+L985,A1,normal,,,7434927,,2012
+L986,A0b,normal,,,8147059,,2012
+L987,A (Investigation),normal,,,7643448,,2012
+L988,A (Investigation),normal,,,8300494,,2012
+L989,A1,normal,,,21960391,,2012
+L990,A1,normal,,,12511289,,2012
+L991,A0b,normal,,,13007067,,2012
+L993,A0b,normal,,,12979380,,2012
+L994,A (Investigation),normal,,,13411811,,2012
+L995,A0b,normal,,,13414541,,2012
+L997,A0b,normal,,,,,2012
+L998,A0b,normal,,,13946200,,2012
+L999,A0b,normal,,,13947281,,2012
+L1000,A0b,normal,,,14084737,,2012
+L1001,A0b,normal,,,14901994,,2012
+L1002,A1,normal,,,14902250,,2012
+L1003,A1,normal,,,,,2012
+L1004,A1,normal,,,15283186,,2012
+L1005,A0b,normal,,,16225617,,2012
+L1006,A0b,normal,,,16283616,,2012
+L1007,A (Investigation),normal,,,15929319,,2012
+L1008,A0b,normal,,,16627408,,2012
+L1009,A1,normal,,,16689688,,2012
+L1010,A0b,normal,,,19502834,,2012
+L1011,A (Investigation),normal,,,19748116,,2012
+L1012,A0b,normal,,,19940817,,2012
+L1013,A1,normal,,,20105965,,2012
+L1014,A (Investigation),normal,,,20201685,,2012
+L1015,A (Investigation),normal,,,20349061,,2012
+L1016,A0b,normal,,,20355437,,2012
+L1017,A (Investigation),normal,,,20383724,,2012
+L1018,A0b,normal,,,21718571,,2012
+L1019,E (Investigation),normal,,,15148146,,2012
+L1020,E (Investigation),normal,,,20688050,,2012
+L1022,N1c1a1a2,normal,,,4960098,,2012
+L1025,N1c1a1a1a,normal,,,12636006,,2012
+L1026,N1c1a1a,normal,Z1973,,,,2012
+L1027,N1c1a1a1a3,normal,,,21160230,,2012
+L1029,R1a1a1b1a1b,normal,,,16446654,,2012
+L1034,N1c1a1a3b,normal,,,20105786,,2012
+L1053,A1,normal,,,17269102,,2012
+L1066,R1b1a2a1a1b3a6c1,normal,,,7325766,,2012
+L1069,R2a3,normal,,,7653759,,2012
+L1193,I2a2a1a2,normal,,,10058484,,2012
+L1195,I2a2a1a,normal,,,17374714,,2012
+L1198,I2a2a3a2a,normal,,,16915182,,2012
+L1199,R1b (Investigation),normal,,,16276000,,2012
+L1200,R1b (Investigation),normal,,,17776704,,2012
+L1228,I2a2a5,normal,,,13955439,,2012
+L1229,I2a2a4,normal,,,13447222,,2012
+L1230,I2a2a4b,normal,,,3496442,,2012
+L1231,R1b (Investigation),normal,,,4933643,,2012
+L1237,I1a4a,normal,,,20201472,,2012
+L1254,T (Private),normal,,,20212492,,2012
+L1255,T1a3,normal,,,20385531,,2012
+L1256,G (Investigation),normal,,,20133462,,2012
+L1257,G (Investigation),normal,,,17715116,,2012
+L1258,G,normal,,,17940828,,2012
+L1259,G (Investigation),normal,,,14124734,,2012
+L1260,G (Investigation),normal,,,15021872,,2012
+L1261,G (Investigation),normal,,,6954567,,2012
+L1262,G (Investigation),normal,,,7657202,,2012
+L1263,G2a1c2a1a1a,normal,,,8111187,,2012
+L1264,G2a1c2a1a2a,normal,,,7704368,,2012
+L1265,G2a1c2a1a2a,normal,,,12741229,,2012
+L1266,G2a1c2a1a2,normal,,,15412419,,2012
+L1268,G2a1c2a1a2a,normal,,,20081319,,2012
+L1269,G (Investigation),normal,,,13536129,,2012
+L1270,G (Investigation),normal,,,14027543,,2012
+L1271,G (Investigation),normal,,,21547913,,2012
+L1274,I (Investigation),normal,,,6813377,,2012
+L1275,I (Investigation),normal,,,22036484,,2012
+L1280,R1a1a1b1a2f,normal,,,16914999,,2012
+L1304,L,normal,,,16586351,,2012
+L1305,L,normal,,,17256205,,2012
+L1306,L,normal,,,17749340,,2012
+L1307,L,normal,,,21905784,,2012
+L1308,R1b (Private),normal,,,13039413,,2012
+L1323,G (Investigation),normal,,,6969339,,2012
+L1324,G (Investigation),normal,,,8543661,,2012
+L1325,G (Investigation),normal,,,12991617,,2012
+L1326,G (Investigation),normal,,,16903938,,2012
+L1327,G (Investigation),normal,,,17749396,,2012
+L1328,G (Investigation),normal,,,20687911,,2012
+LINE1,O (Notes),normal,,,,,2012
+LLY22g.1_1,N1,normal,,,22124037,,2012
+LLY22g.1_2,N1,normal,,,22432174,,2012
+LLY22g.2_1,N (Investigation),normal,,,22124037,,2012
+LLY22g.2_2,N (Investigation),normal,,,22432174,,2012
+M1,DE,normal,YAP,,,,2012
+M2,E1b1a1,normal,"DYS271, SY81",rs9785941,12606577,,2012
+M3,Q1a3a1,normal,,rs3894,17605757,,2012
+M4,M1,normal,,rs3895,2804628,,2012
+M5,M1,normal,P73,rs3896,20069334,,2012
+M6,A1b1a1a,normal,,rs3897,17080420,,2012
+M7,O3a2b,normal,,rs3898,4138217,,2012
+M8,C1,normal,,rs3899,7351534,,2012
+M9,K,normal,,rs3900,20189645,,2012
+M10,E1b1a1a1e,normal,,rs3901,20182386,,2012
+M11,L,normal,,rs3902,20190035,,2012
+M12,J2b,normal,,rs3903,7643480,,2012
+M13,A1b1b2b,normal,,rs3904,20181486,,2012
+M14,A1b1a1,normal,,rs3905,20181656,,2012
+M15,D1,normal,,rs3906,,,2012
+M16,M1b1a,normal,,rs3907,20069689,,2012
+M17,R1a1a,normal,,rs3908,20192556,,2012
+M18,R1b1c1,normal,,rs3909,20192550,,2012
+M19,Q1a3a1a,normal,,rs3910,20192619,,2012
+M20,L,normal,,rs3911,20192842,,2012
+M21,I (Private),normal,,rs3912,20191727,,2012
+M22,L1,normal,,rs3913,13299557,,2012
+M23,A1b1a1,normal,,,20195627,,2012
+M25,Q1a2,normal,,,20326052,,2012
+M26,I2a1a,normal,,rs2032629,20325209,,2012
+M27,L1a,normal,,,20199034,,2012
+M28,A1b1b1,normal,,,20189227,,2012
+M29,A1b1a1,normal,"P3, PN3, L968",,20069973,,2012
+M30,B2b3,normal,,,20199203,,2012
+M31,A1a,normal,,,20199142,,2012
+M32,A1b1b,normal,,,20199824,,2012
+M33,E1a,normal,,,20199838,,2012
+M34,E1b1b1b2a1,normal,,,20200104,,2012
+M35.1,E1b1b1,normal,,,20201091,,2012
+M35.2,E1b1b1a1b5,normal,,,20201091,,2012
+M36,H1a1,normal,,,20210397,,2012
+M37,R1b (Private),normal,,,20210939,,2012
+M38,C2,normal,,,20201546,,2012
+M39,H1a3,normal,,,20201636,,2012
+M40,E,normal,"SRY4064, SRY8299",rs9786608,2723943,,2012
+M41,E2a,normal,P210,,2723889,,2012
+M42,BT,normal,,rs2032630,20326228,,2012
+M43,B2a2a,normal,,,7643271,,2012
+M44,E1a1,normal,,,20212032,,2012
+M45,P,normal,,rs2032631,20327175,,2012
+M46,N1c1,normal,"Page70, Tat",rs34442126,13431977,,2012
+M47,J2a1a,normal,,,20210718,,2012
+M48,C3a3,normal,,,20209269,,2012
+M49,A1b1a1a,normal,Page41,rs2032633,20328114,,2012
+M50,O1a2,normal,,rs2032632,20328060,,2012
+M51,A1b1b2a,normal,Page42,rs34078768,20328251,,2012
+M52,H1,normal,,,20212587,,2012
+M54,E2b,normal,,rs2032620,20328652,,2012
+M55,D2,normal,,rs2032621,20332126,,2012
+M56,R1a (Private),normal,,rs2032622,20332274,,2012
+M57,D2,normal,,,20211305,,2012
+M58,E1b1a1a1a,normal,,,20195692,,2012
+M59,A (Private),normal,,,20328164,,2012
+M60,B,normal,,rs2032623,,,2012
+M61,L,normal,Page43,rs34289137,20210837,,2012
+M62,J (Private),normal,,,7643254,,2012
+M63,A1b1b2b,normal,,rs2032625,20330026,,2012
+M64.1,D2,normal,Page44.1,rs2032626,20362771,,2012
+M64.2,R1a (Private),normal,Page44.2,rs2032626,20362771,,2012
+M65,R1b (Private),normal,,,20365653,,2012
+M66,E1b1a1a1e,normal,,rs2032627,20340961,,2012
+M67,J2a1b,normal,S51,rs2032628,20338197,,2012
+M68,J2a1c,normal,,,20338088,,2012
+M69,H,normal,Page45,rs2032673,20353446,,2012
+M70,T1a,normal,Page46,rs2032672,20353269,,2012
+M71,A1b1a1,normal,,rs2032638,20353835,,2012
+M72,I1a1a,normal,,rs2032637,20353795,,2012
+M73,R1b1a1,normal,,rs2032634,,,2012
+M74,P,normal,N12,rs2032635,20349155,,2012
+M75,E2,normal,,rs2032639,20349565,,2012
+M76,L1a,normal,,,20216704,,2012
+M77,C3a3a,normal,,,20218526,,2012
+M78,E1b1b1a1,normal,,,20352691,,2012
+M81,E1b1b1b1a,normal,,rs2032640,20351960,,2012
+M82,H1a,normal,,rs2032675,20353562,,2012
+M83,M1b1b,normal,,rs2032641,20332675,,2012
+M84,E1b1b1b2a1a,normal,,rs2032642,20357751,,2012
+M85,E2b1,normal,,rs2032616,20355604,,2012
+M86,C3a3a,normal,,rs2032643,20365305,,2012
+M87,R1a (Private),normal,,rs2032644,20365497,,2012
+M88,O2a1a,normal,,rs2032645,20360237,,2012
+M89,F,normal,,rs2032652,20376701,,2012
+M90,E2b,normal,,rs2032646,20383717,,2012
+M91,BT,normal,,rs2032651,20366926,,2012
+M92,J2a1b1,normal,,rs2032648,20363411,,2012
+M93,C3a1,normal,,,20361893,,2012
+M94,BT,normal,,rs2032647,20397546,,2012
+M95,O2a1,normal,,rs2032650,20397832,,2012
+M96,E,normal,,rs9306841,20238386,,2012
+M97,H1a2,normal,,,20238101,,2012
+M98,E2b,normal,,,20238622,,2012
+M99,J (Private),normal,,,20238683,,2012
+M101,O1a1a,normal,,,20176860,,2012
+M102,J2b,normal,,rs2032608,20385500,,2012
+M103,O1a2,normal,,rs2032609,20395526,,2012
+M104_1,M1b1,normal,P22_1,,8679592,,2012
+M104_2,M1b1,normal,P22_2,,8680324,,2012
+M105,C1,normal,,rs2032612,20325879,,2012
+M106,M1,normal,,rs2032611,20325812,,2012
+M107,E1b1b1b1a1,normal,,rs2032613,20391026,,2012
+M108.1,B2a2,normal,,rs2032679,20392323,,2012
+M108.2,B2b3a,normal,,rs2032679,20392323,,2012
+M109,B2a1a,normal,,,20233568,,2012
+M110,O1a2,normal,,,20366485,,2012
+M111,O2a1a,normal,,,,,2012
+M112,B2b,normal,,,20227347,,2012
+M113,O3a2b1,normal,,,20227521,,2012
+M114,A1b1a1a1a,normal,,,20225151,,2012
+M115,B2b2,normal,,,20225698,,2012
+M116.1,D2a,normal,,,20224669,,2012
+M116.2,E1b1a1a1b,normal,,,20224669,,2012
+M117,O3a2c1a,normal,,,,,2012
+M118,A1b1b2b1,normal,,,20223353,,2012
+M119,O1a,normal,,,20222073,,2012
+M120,Q1a1,normal,,,20366782,,2012
+M121,O3a1a,normal,,,20366558,,2012
+M122,O3,normal,,,20224062,,2012
+M123,E1b1b1b2a,normal,,,20223974,,2012
+M124,R2a,normal,,,20223889,,2012
+M125,D2a1,normal,,rs2032614,20389675,,2012
+M126,R1b (Private),normal,,rs2032615,,,2012
+M127,A1b1b2b,normal,,,20222661,,2012
+M128,N1c2a,normal,,,,,2012
+M129,B2b3,normal,,,20177105,,2012
+M130,C,normal,"Page51, RPS4Y711",rs35284970,2794854,,2012
+M131,C1,normal,,,,,2012
+M132,E1a,normal,,rs2032617,20355649,,2012
+M133,O3a2c1a,normal,,,20175715,,2012
+M134,O3a2c1,normal,,,20175606,,2012
+M135,A1b1a1,normal,,,20175681,,2012
+M136,E1b1b1b2a1a1,normal,,rs2032618,20353141,,2012
+M137,J2a1h2a1a,normal,,,20223846,,2012
+M138,H1a3,normal,,,20172243,,2012
+M139,BT,normal,,,,,2012
+M141,A1b1a1,normal,,,20165365,,2012
+M143,Q1a2,normal,,,20349206,,2012
+M144,A1b1b2,normal,,rs2032619,20384888,,2012
+M145,DE,normal,P205,rs3848982,20176596,,2012
+M146,B1a,normal,,,20238639,,2012
+M147,K (Private),normal,,,20221469,,2012
+M148,E1b1b1a1c1,normal,,,20355481,,2012
+M149,E1b1a1a1c,normal,,,20355636,,2012
+M150,B2a,normal,,,20328907,,2012
+M151,D2a2,normal,,,20352022,,2012
+M152,B2a1a,normal,Page60,rs35681523,20327456,,2012
+M153,R1b1a2a1a1b1a1a1a,normal,,,20165748,,2012
+M154,E1b1a1a1g1c,normal,,,20352065,,2012
+M155,E1b1a1a1d,normal,,,20195719,,2012
+M156,E1b1a1a1e,normal,,,20176615,,2012
+M157.1,R1a (Private),normal,,,20327242,,2012
+M158,J2a1h1,normal,,,20175754,,2012
+M159,O3a2a,normal,Page96,,20210828,,2012
+M160,R1b (Private),normal,,,20348253,,2012
+M161,I (Private),normal,,,20176903,,2012
+M162_1,O3a2c1a1,normal,,,8679632,,2012
+M162_2,O3a2c1a1,normal,,,8680283,,2012
+M163,J (Private),normal,,,20189745,,2012
+M164,O3a1b,normal,,,20216694,,2012
+M165,E1b1b1b1a2a,normal,,,20326063,,2012
+M166,J2a1b2,normal,,,20224082,,2012
+M167,R1b1a2a1a1b1a2a1,normal,SRY2627,rs1800865,2718271,,2012
+M168,CT,normal,,rs2032595,13323385,,2012
+M169,B2b2,normal,,rs2032594,13323111,,2012
+M170,I,normal,,rs2032597,13357186,,2012
+M171,A (Private),normal,,,13323454,,2012
+M172,J2,normal,Page28,rs2032604,13479028,,2012
+M173,R1,normal,"P241, Page29",rs2032624,13535818,,2012
+M174,D,normal,Page30,rs2032602,13463674,,2012
+M175,O,normal,,rs2032678,,,2012
+M176,O2b,normal,"Page63, SRY465",rs11575897,2715180,,2012
+M177,M2a,normal,SRY9138,,2718869,,2012
+M178,N1c1a,normal,,,20201143,,2012
+M179,D2,normal,Page31,rs2032596,13348094,,2012
+M180,E1b1a1a1,normal,P88,rs2032598,13359735,,2012
+M181,B,normal,Page32,rs2032599,13360948,,2012
+M182,B2,normal,,rs2032601,13378470,,2012
+M183,E1b1b1b1a2,normal,Page33,rs2032600,13398177,,2012
+M184,T,normal,"Page34, USP9Y+3178",rs20320,13407557,,2012
+M185,L,normal,,rs2032607,13414253,,2012
+M186,M1,normal,,rs2032681,13432855,,2012
+M188,O3a2b1,normal,,rs2032605,13434263,,2012
+M189,M1,normal,,rs2032606,13455099,,2012
+M190,A1b1b2,normal,Page35,rs2032603,13477921,,2012
+M191,E1b1a1a1f1a,normal,P86,rs2032590,13529007,,2012
+M192,B2b,normal,,rs2032662,13523656,,2012
+M193,T1,normal,,rs2032676,13523899,,2012
+M194,Q1a3a1b,normal,,rs2032677,13523944,,2012
+M195,E1b1a1a1e,normal,,rs2032680,13525930,,2012
+M196,A1b1a1a,normal,,rs2032591,13540076,,2012
+M197,H1a1,normal,,rs2032610,13534992,,2012
+M198,R1a1a,normal,,rs2020857,13540146,,2012
+M199,Q1a3a1c,normal,,rs2032589,13540504,,2012
+M200,E2b1a,normal,,rs2032593,13540810,,2012
+M201,G,normal,,rs2032636,13536923,,2012
+M202,A1b1b2b,normal,,rs2032649,13538886,,2012
+M203,DE,normal,Page36,rs2032653,14100931,,2012
+M204,R1a (Private),normal,,rs2032655,14100595,,2012
+M205,J2b1,normal,,rs2032657,14096903,,2012
+M206,A1b1a1,normal,,rs2032656,14096856,,2012
+M207,R,normal,"Page37, UTY2",rs2032658,14091377,,2012
+M208,C2a,normal,,rs2032659,14085597,,2012
+M209,O3a2b1,normal,,rs2032661,14085184,,2012
+M210,C4a,normal,,rs2032660,14085174,,2012
+M211,B2b4b,normal,,rs2032663,14054008,,2012
+M212,A1b1a1a1,normal,,rs2032664,14036089,,2012
+M213,F,normal,"P137, Page38",rs2032665,14036145,,2012
+M214,NO,normal,Page39,rs2032674,13981319,,2012
+M215,E1b1b,normal,Page40,rs2032654,13977218,,2012
+M216,C,normal,,rs2032666,13946958,,2012
+M217,C3,normal,,rs2032668,13946727,,2012
+M218,B2a1,normal,,rs2032671,13946457,,2012
+M219,A1b1b2b,normal,,rs2032669,13946309,,2012
+M220,A1b1b2,normal,,rs2032670,13946444,,2012
+M221,J2b,normal,,rs2032667,13945710,,2012
+M222,R1b1a2a1a1b3a1a1,normal,"Page84, USP9Y+3636",rs20321,13411808,,2012
+M223,I2a2a,normal,,,20176695,,2012
+M224,E1b1b1a1a1,normal,,,20352687,,2012
+M226,S1d,normal,,rs9341275,14100841,,2012
+M227,I1a1,normal,,rs9341274,14100840,,2012
+M228.1,R1b (Investigation),normal,,rs9341273,14100839,,2012
+M228.2,R1b (Private),normal,,rs9341273,14100839,,2012
+M230,S,normal,,rs9341277,13990766,,2012
+M231,N,normal,Page91,rs9341278,13979118,,2012
+M235,F,normal,Page80,rs7067496,13342014,,2012
+M236,B1,normal,,,2709696,,2012
+M241,J2b2,normal,,rs8179022,13527853,,2012
+M242,Q,normal,,rs8179021,13527976,,2012
+M243,E1b1b1,normal,,rs9341286,13528486,,2012
+M247,B,normal,P85,rs9341290,13529972,,2012
+M253,I1,normal,,rs9341296,13532101,,2012
+M254,S1,normal,,rs9341297,13532156,,2012
+M258,I,normal,,rs9341301,13532758,,2012
+M260,J2a1b1,normal,Page14,rs9341303,13534900,,2012
+M263.2,E1b1a1a1f1b,normal,,rs9306836,13525832,,2012
+M265,Q1a1,normal,N14,rs3212294,13540044,,2012
+M267,J1,normal,,rs9341313,21151206,,2012
+M268,O2,normal,,rs13447443,21148689,,2012
+M269,R1b1a2,normal,,rs9786153,21148755,,2012
+M272,T,normal,,rs9341308,21148163,,2012
+M274,L1b1b,normal,,rs9341310,21147189,,2012
+M276,A1b1a1,normal,P247,rs9341312,21151116,,2012
+M277,A1b1a1,normal,P248,rs9341314,21151209,,2012
+M280,J (Private),normal,,rs13447367,20338150,,2012
+M281,E1b1b2,normal,,rs13447370,20223888,,2012
+M282,F3,normal,,,20223819,,2012
+M283,G2b1,normal,,rs2032592,13540779,,2012
+M284,I2a2a1,normal,,,,,2012
+M285,G1,normal,,rs13447378,21151128,,2012
+M286,G2a1b1,normal,,rs13447379,21151187,,2012
+M287,G (Private),normal,,rs13447380,21151158,,2012
+M288,B1,normal,,,2709694,,2012
+M289,J (Private),normal,,rs13447368,20338096,,2012
+M290,E1b1b1b2a1b,normal,,rs13447369,20338213,,2012
+M291,E1b1a1,normal,,rs7067423,21152985,,2012
+M293,E1b1b1b2b,normal,,rs9341316,21154327,,2012
+M294,CT,normal,,rs9341317,21154333,,2012
+M295,L1,normal,,rs9341318,21154439,,2012
+M296,M1,normal,,rs9341319,21154509,,2012
+M297,O (Private),normal,,rs13447345,21156077,,2012
+M299,BT,normal,,rs13447347,21157894,,2012
+M300,O3a3,normal,,rs13447348,21158586,,2012
+M302,O2b,normal,,,21159050,,2012
+M304,J,normal,Page16,rs13447352,21159241,,2012
+M305,A1b1b2,normal,Page17,rs13447353,21159562,,2012
+M306,R1,normal,S1,rs1558843,21159971,,2012
+M307.1,O1a1,normal,P203.1,rs13447354,21160339,,2012
+M307.2,I1,normal,P203.2,rs13447354,21160339,,2012
+M310,E1b1b1b1,normal,,rs13447357,21161251,,2012
+M312,O2b1,normal,,,21162099,,2012
+M314,J2b,normal,,rs13447442,21162467,,2012
+M317,L1b,normal,,rs13447360,21164059,,2012
+M318,J2a1h2a1b,normal,,rs13447372,21154381,,2012
+M319,J2a1d,normal,,rs13447373,13977179,,2012
+M320,T (Private),normal,,rs13447374,13540161,,2012
+M321,J (Private),normal,,rs13447375,13540272,,2012
+M322,J2a1a,normal,,rs13447376,13979134,,2012
+M323,Q1a3b,normal,,rs13447377,20327106,,2012
+M324,O3a,normal,,rs13447361,2881786,,2012
+M327,J (Private),normal,,,20363475,,2012
+M329,E1b1a2,normal,,,2935527,,2012
+M333,O3a4,normal,,,,,2012
+M334,R1a (Private),normal,,,2973777,,2012
+M335,R1b1b,normal,,,13535789,,2012
+M339,J2a1e,normal,,,2941367,,2012
+M340,J2a2a1,normal,,,20338087,,2012
+M342,G1,normal,,,21653330,,2012
+M343,R1b,normal,,rs9786184,2947824,,2012
+M346,Q1a3,normal,,,2947156,,2012
+M347,C4,normal,,,2937479,,2012
+M349,L1b1a,normal,,,2953277,,2012
+M353,M2,normal,,,15818661,,2012
+M356,C5,normal,,,2948203,,2012
+M357,L1c,normal,,,2948252,,2012
+M359.1,D2,normal,P41.1,,13001679,,2012
+M359.2,I2a1b1,normal,P41.2,,13001679,,2012
+M365.1,J1a,normal,,,2948678,,2012
+M365.4,R1b1a2a1a1a3b2b1a1c,normal,,,2948678,,2012
+M367.1,J (Private),normal,,,2948628,,2012
+M367.2,R2 (Investigation),normal,,,2948628,,2012
+M368.1,J (Private),normal,,,2948632,,2012
+M368.2,R2 (Investigation),normal,,,2948632,,2012
+M369,J (Private),normal,,,2948477,,2012
+M370,H,normal,,,2948598,,2012
+M377,G2b,normal,,,13536827,,2012
+M378,Q1b1,normal,Page100,,13536901,,2012
+M379,I (Private),normal,,rs2032636,,,2012
+M387,M2,normal,,,2800274,,2012
+M390,J (Private),normal,,,2948678,,2012
+M405,R1b1a2a1a1a,normal,"S21, U106",rs16981293,8856078,,2012
+M406,G2a1c1,normal,,,2809995,,2012
+M407,C3a4,normal,,,2810408,,2012
+M410,J2a,normal,,,2811678,,2012
+M412,R1b1a2a1a,normal,"L51, S167",rs9786140,8562236,,2012
+M415,R1b1,normal,,rs9786194,9230545,,2012
+M417,R1a1a1,normal,,rs17316771,8593735,,2012
+M419,J2a1f,normal,,,,,2012
+M420,R1a,normal,L146,rs17250535,21882589,,2012
+M423,I2a1b,normal,,,17605485,,2012
+M426,G (Private),normal,,,17605367,,2012
+M427,F2,normal,,,17601991,,2012
+M428,F2,normal,,,17601953,,2012
+M429,IJ,normal,P125,rs17306671,12541334,,2012
+M434,R1a (Private),normal,,,13447386,,2012
+M436,I2a2,normal,"P214, S33",rs17315680,17256887,,2012
+M438,I2,normal,"P215, S31",rs17307294,15148198,,2012
+M448,R1a1,normal,L122,rs17222202,15029838,,2012
+M449,R1a,normal,L145,rs17306692,12648745,,2012
+M450,I1,normal,S109,rs17316597,7608915,,2012
+M458,R1a1a1b1a1,normal,,,22775852,,2012
+M459,R1a1,normal,,rs17316227,6966074,,2012
+M461,G (Investigation),normal,,,17596537,,2012
+M467,R1b1a2a1a1a3b1,normal,"S29, U198",rs17222279,15348893,,2012
+M478,R1b1a1,normal,,,21853442,,2012
+M479,R2,normal,,,19294055,,2012
+M481,F4,normal,,,13006395,,2012
+M485,G2a1c,normal,,,17576528,,2012
+M507,I (Private),normal,P259,,14100868,,2012
+M511,R1a,normal,L63,rs17307677,16672228,,2012
+M512,R1a1a,normal,,rs17222146,14824547,,2012
+M513,R1a,normal,L62,rs17222573,16400635,,2012
+M514,R1a1a,normal,,rs17315926,17884688,,2012
+M515,R1a1a,normal,,rs17221601,12564623,,2012
+M516,R1a1,normal,L120,rs17307105,14388411,,2012
+M520,R1b1a2,normal,,rs9786486,4506430,,2012
+M521,E1b1b1a1e,normal,,,6882948,,2012
+M522,IJK,normal,"L16, S138",rs9786714,7233143,,2012
+M523,IJK,normal,"L15, S137",rs9786139,6813519,,2012
+M526,K(xLT),normal,,rs2033003,21960312,,2012
+M527,G2a1c2a1a1,normal,L78,rs35285796,13381370,,2012
+M529,R1b1a2a1a1b3,normal,"L21, S145",rs11799226,14163822,,2012
+M547,G Investigation,normal,,,17569616,,2012
+MEH1,A1b1a1,normal,,,21906644,,2012
+MEH2,Q1a,normal,,rs4252209,4985637,,2012
+MSY2.1,B2b4b,normal,,,13524894,,2012
+MSY2.2,O1,normal,,,13524894,,2012
+N1,D1a,normal,,rs3212291,13360920,,2012
+N2,D (Private),normal,,rs3212287,20359276,,2012
+N3,D (Private),normal,,,,,2012
+N4,O (Private),normal,,rs3212290,20397920,,2012
+N5,O3a2b1a,normal,,rs3212292,13360932,,2012
+N6,O (Private),normal,,,20348924,,2012
+N7,O (Private),normal,,,20356751,,2012
+N8,O (Private),normal,,,20367036,,2012
+N9,O (Private),normal,,,14100886,,2012
+N10,O (Private),normal,,,20359735,,2012
+N11,O (Private),normal,,,20357667,,2012
+N12,P,normal,M74,rs2032635,20349155,,2012
+N14,Q1a1,normal,M265,rs3212294,13540044,,2012
+P1,E1b1a1,normal,PN1,rs73626946,20071555,,2012
+P2,E1b1,normal,PN2,rs9785756,20070219,,2012
+P3,A1b1a1,normal,"L968, M29, PN3",,20069973,,2012
+P4,A1b1a1,normal,,,21907102,,2012
+P5,A1b1a1,normal,,,20303745,,2012
+P6,B2b1,normal,,,6828265,,2012
+P7_1,B2b4,normal,,,23396434,,2012
+P7_2,B2b4,normal,,,25030182,,2012
+P7_3,B2b4,normal,,,25750996,,2012
+P8_1,B2b4a,normal,,,21958753,,2012
+P8_2,B2b4a,normal,,,22456047,,2012
+P8_3,B2b4a,normal,,,22720971,,2012
+P9.1,CT,normal,,,13435843,,2012
+P9.2,E1b1a1a1f1a1a,normal,,,13435843,,2012
+P12_1,D2a1a1,normal,,,23396458,,2012
+P12_2,D2a1a1,normal,,,25030206,,2012
+P12_3,D2a1a1,normal,,,25750972,,2012
+P14,F,normal,,rs9786420,15907992,,2012
+P15,G2a,normal,,,21653414,,2012
+P16_1,G2a1a1,normal,,,19128376,,2012
+P16_2,G2a1a1,normal,,,19434578,,2012
+P17,Withdrawn from G,normal,,,,,2012
+P18_1,G2a1a1a,normal,,,23396212,,2012
+P18_2,G2a1a1a,normal,,,25029960,,2012
+P18_3,G2a1a1a,normal,,,25751218,,2012
+P19_1,I,normal,,,22076149,,2012
+P19_2,I,normal,,,22076609,,2012
+P19_3,I,normal,,,22456064,,2012
+P19_4,I,normal,,,22720987,,2012
+P19_5,I,normal,,,22976505,,2012
+P20_1,G1a,normal,,,23396162,,2012
+P20_2,G1a,normal,,,25029910,,2012
+P20_3,G1a,normal,,,25751269,,2012
+P21_1,N (Private),normal,,,23397415,,2012
+P21_2,N (Private),normal,,,25031163,,2012
+P21_3,N (Private),normal,,,25750015,,2012
+P22_1,M1b1,normal,M104_1,,8679592,,2012
+P22_2,M1b1,normal,M104_2,,8680324,,2012
+P25_1,R1b1,normal,,rs150173,23396453,,2012
+P25_2,R1b1,normal,,rs150173,25030201,,2012
+P25_3,R1b1,normal,,rs150173,25750977,,2012
+P27.1_1,P,normal,P207,rs9786896,8679538,,2012
+P27.1_2,P,normal,,rs9786896,8680377,,2012
+P27.2_1,O3a1a,normal,DYS257_1,rs9786896,8679538,,2012
+P27.2_2,O3a1a,normal,DYS257_2,rs9786896,8680377,,2012
+P28,A1b1a1a1b,normal,,,20340503,,2012
+P29,E,normal,,rs60115999,13007215,,2012
+P30,I1,normal,,,13006761,,2012
+P31,O2,normal,,,13005251,,2012
+P32,B2a1a,normal,,,13005252,,2012
+P33_1,C2a1,normal,,,23397375,,2012
+P33_2,C2a1,normal,,,25031123,,2012
+P33_3,C2a1,normal,,,25750056,,2012
+P34_1,M1a,normal,,,22076575,,2012
+P34_2,M1a,normal,,,22100115,,2012
+P34_3,M1a,normal,,,22456098,,2012
+P34_4,M1a,normal,,,22976471,,2012
+P34_5,M1a,normal,,,22976508,,2012
+P35_1,M1,normal,,,23396647,,2012
+P35_2,M1,normal,,,25030395,,2012
+P35_3,M1,normal,,,25750785,,2012
+P36.1,A1b1a1,normal,,,13006449,,2012
+P36.2,Q1,normal,,,13006449,,2012
+P37.1,D2,normal,,,13001692,,2012
+P37.2,I2a1,normal,,,13001692,,2012
+P38,I,normal,,,12994387,,2012
+P39,C3a2,normal,,,12994589,,2012
+P40,I1,normal,,,12994402,,2012
+P41.1,D2,normal,M359.1,,13001679,,2012
+P41.2,I2a1b1,normal,M359.2,,13001679,,2012
+P42,D2a1a,normal,,,12991739,,2012
+P43,N1c2b,normal,,,20340361,,2012
+P44,C3,normal,,,13005259,,2012
+P45,E2b1a1,normal,,,20340136,,2012
+P46,E (Notes),normal,,,20340240,,2012
+P47,D3a,normal,,,13007176,,2012
+P48,Removed from Q,normal,,,,,2012
+P49,O2b,normal,,,13006415,,2012
+P50,B2a1a,normal,,,13005250,,2012
+P51,M1a1,normal,,,13002050,,2012
+P53.1,C3a5,normal,,,13001657,,2012
+P53.2,D2a1b1,normal,,,13001657,,2012
+P54,C2a2,normal,,,13001667,,2012
+P55,C (Private),normal,,,12998960,,2012
+P56,J1b1,normal,,,12997346,,2012
+P57,S1a,normal,,,12997074,,2012
+P58,J1b2,normal,Page8,rs34043621,12996675,,2012
+P59,E1b1a1a1g1b,normal,,,12994545,,2012
+P60,K1,normal,,,12994479,,2012
+P61,S1b,normal,,,12992202,,2012
+P62,C3a6,normal,,,,,2012
+P63,N1c2b1,normal,,,,,2012
+P65_1,E1b1b1a1b2,normal,,,23396514,,2012
+P65_2,E1b1b1a1b2,normal,,,25030262,,2012
+P65_3,E1b1b1a1b2,normal,,,25750916,,2012
+P66_1,R1b1a2a1a1b3a2a,normal,,,23396573,,2012
+P66_2,R1b1a2a1a1b3a2a,normal,,,25030321,,2012
+P66_3,R1b1a2a1a1b3a2a,normal,,,25750857,,2012
+P67_1,N (Private),normal,,,23396610,,2012
+P67_2,N (Private),normal,,,25030358,,2012
+P67_3,N (Private),normal,,,25750820,,2012
+P68,E2,normal,,,13435749,,2012
+P69,P,normal,,rs7892898,13435814,,2012
+P70,B2b4a,normal,,,20071656,,2012
+P71,A1b1b2a1,normal,,,20071466,,2012
+P72,E1b1b1b2b1,normal,,,20070241,,2012
+P73,M1,normal,M5,rs3896,20069334,,2012
+P75,E1b2,normal,,,20340386,,2012
+P76,G (Private),normal,,,20340415,,2012
+P77,T1a1a1,normal,,,13435596,,2012
+P78,I2a2a2a,normal,,,6800387,,2012
+P79,K2,normal,,,6800377,,2012
+P80,H2a,normal,,,6799899,,2012
+P81,J2a1g,normal,,,6799856,,2012
+P82,A1a,normal,,,6799826,,2012
+P83,S1c,normal,,,6799772,,2012
+P84,J (Private),normal,,,6799767,,2012
+P85,B,normal,M247,rs9341290,13529972,,2012
+P86,E1b1a1a1f1a,normal,M191,rs2032590,13529007,,2012
+P87,M1b,normal,,,13529113,,2012
+P88,E1b1a1a1,normal,M180,rs2032598,13359735,,2012
+P89.1,Q (Private),normal,,,13359859,,2012
+P89.2,R1b1a2a1a1a3a1b,normal,,,13359859,,2012
+P90,B,normal,,,13359973,,2012
+P91,F1,normal,,,13359993,,2012
+P92,C5a,normal,,,13360247,,2012
+P93,O3a,normal,Page79,rs34248257,13378896,,2012
+P94,M1a2,normal,,,13379075,,2012
+P95,I2a2a3a1,normal,,,13379100,,2012
+P96,F3,normal,,,13379137,,2012
+P97,BT,normal,,,13395667,,2012
+P98,R1a (Private),normal,,,13395751,,2012
+P99,D3,normal,,,13395780,,2012
+P100,A1b1b2,normal,,,20362081,,2012
+P101,O3a2c1b,normal,,,20362006,,2012
+P102,A1b1b2a1,normal,,,13987411,,2012
+P103,O3a1c1,normal,,,13987225,,2012
+P104,F1,normal,,,13987219,,2012
+P105,N1c1,normal,,,13932356,,2012
+P106,Q1a3a1c,normal,,,13932316,,2012
+P107,R1b (Private),normal,,,13329287,,2012
+P108,A1b,normal,,,13935642,,2012
+P109,I1a2a,normal,,,13935399,,2012
+P110,E1a2,normal,,,13935117,,2012
+P111,B2a2a,normal,,,13935056,,2012
+P112,B2c,normal,,,20340313,,2012
+P113,E1b1a1a1f1a1c1,normal,,,6800171,,2012
+P114,A0a1,normal,,,13530049,,2012
+P115,E1b1a1a1f1a1b,normal,,,13378644,,2012
+P116,E1b1a1a1f1a1c,normal,,,13379084,,2012
+P117,M3,normal,,,13329087,,2012
+P118,M3,normal,,,13529200,,2012
+P119,N (Private),normal,,,13435650,,2012
+P120,D2a3,normal,,,13935394,,2012
+P121,C1a,normal,,,6799857,,2012
+P122,C1,normal,,,13360126,,2012
+P123,IJ,normal,,rs17315821,17676255,,2012
+P124,IJ,normal,,rs17315772,17547696,,2012
+P125,IJ,normal,M429,rs17306671,12541334,,2012
+P126,IJ,normal,,rs17250163,19685158,,2012
+P127,IJ,normal,,rs7892893,8650752,,2012
+P128,K,normal,,rs17250121,19296941,,2012
+P129,IJ,normal,,rs17306699,12654593,,2012
+P130,IJ,normal,S22,rs17250887,8618969,,2012
+P131,K,normal,,rs9786043,13982257,,2012
+P132,K,normal,,rs3853054,8739843,,2012
+P133,F,normal,,rs16980711,10476740,,2012
+P134,F,normal,,rs9786877,7455806,,2012
+P135,F,normal,,rs9786502,20078244,,2012
+P136,F,normal,,rs9785908,21450035,,2012
+P137,F,normal,"M213, Page38",rs2032665,14036145,,2012
+P138,F,normal,,rs16980478,12709284,,2012
+P139,F,normal,,rs16980459,15416077,,2012
+P140,F,normal,,rs9786636,15821369,,2012
+P141,F,normal,,rs9306845,7001218,,2012
+P142,F,normal,,rs4988808,7278079,,2012
+P143,CF,normal,,rs4141886,12707867,,2012
+P144,DE,normal,,rs9786431,15520850,,2012
+P145,F,normal,,rs17842387,8484089,,2012
+P146,F,normal,,rs16981340,8662415,,2012
+P147,E1,normal,,rs16980577,19542808,,2012
+P148,F,normal,,rs16980396,17859009,,2012
+P149,F,normal,,rs16980391,17087870,,2012
+P150,E,normal,,rs9786893,15355833,,2012
+P151,F,normal,,rs9786707,8740661,,2012
+P152,E,normal,,rs9786634,13174651,,2012
+P153,DE,normal,,rs9786479,17070436,,2012
+P154,E,normal,,rs9786357,18009501,,2012
+P155,E,normal,,rs9786301,14847931,,2012
+P156,E,normal,,rs9786126,15929411,,2012
+P157,F,normal,,rs9786095,22769319,,2012
+P158,F,normal,,rs9785913,16002907,,2012
+P159,F,normal,,rs9785905,16606645,,2012
+P160,F,normal,,rs9306848,8534189,,2012
+P161,F,normal,,rs16980495,16687485,,2012
+P162,E,normal,,rs7067483,6060464,,2012
+P163,F,normal,,rs4589047,14751710,,2012
+P164,O3a2c,normal,,rs17316007,12511232,,2012
+P165,DE,normal,,rs16980598,17880310,,2012
+P166,F,normal,,rs16980499,15765412,,2012
+P167,DE,normal,,rs9786489,10461457,,2012
+P168,E,normal,,rs16980574,20077971,,2012
+P169,E,normal,Page54,rs16980548,21327965,,2012
+P170,E,normal,,rs9786025,13530916,,2012
+P171,E,normal,,rs17842518,21853359,,2012
+P172,E,normal,,rs16981311,7025215,,2012
+P173,E,normal,,rs7893107,7055523,,2012
+P174,E,normal,,rs16980360,14318720,,2012
+P175,E,normal,,rs9786191,13313471,,2012
+P176,E,normal,,rs7067279,14444918,,2012
+P177,E1b,normal,,rs16980473,12669846,,2012
+P178,E1b1,normal,,rs9786105,7461836,,2012
+P179,E1b1,normal,,rs16980621,12570308,,2012
+P180,E1b1,normal,,rs9786035,17110668,,2012
+P181,E1b1,normal,,rs9785940,15903505,,2012
+P182,E1b1a1a1,normal,,rs16980394,17745841,,2012
+P183,DE,normal,,rs16980749,7392132,,2012
+P184,C,normal,,,7278128,,2012
+P186,O,normal,,rs16981290,7628568,,2012
+P187,F,normal,,rs17174528,9168252,,2012
+P188,NO,normal,,rs16980610,22043750,,2012
+P189.1,E1b1a1,normal,,rs9786819,12707977,,2012
+P189.2,N1a,normal,,rs9786819,12707977,,2012
+P190,D2,normal,,,16606643,,2012
+P191,O,normal,,rs16980601,13924509,,2012
+P192,NO,normal,,rs16980641,17789159,,2012
+P193,NO,normal,,rs16980426,20673609,,2012
+P194,NO,normal,,rs16980363,14712374,,2012
+P195,NO,normal,,rs2196155,21074650,,2012
+P196,O,normal,,rs917759,14263707,,2012
+P197,O3a,normal,,rs17276358,17688857,,2012
+P198,O3,normal,,rs17269816,15563165,,2012
+P199,O3a,normal,,rs17269928,17156436,,2012
+P200,O3a,normal,,rs17316592,17069399,,2012
+P201,O3a2,normal,"021354, IMS-JST021354",rs2267801,2888196,,2012
+P202,S,normal,,,12511024,,2012
+P203.1,O1a1,normal,M307.1,rs13447354,21160339,,2012
+P203.2,I1,normal,M307.2,rs13447354,21160339,,2012
+P204,S,normal,,,3605172,,2012
+P205,DE,normal,M145,rs3848982,20176596,,2012
+P207,P,normal,P27.1_1,rs9786896,8679538,,2012
+P209,J,normal,,rs17315835,17688729,,2012
+P210,E2a,normal,M41,,2723889,,2012
+P211,E (Notes),normal,,,2723707,,2012
+P212,I,normal,,,3605070,,2012
+P214,I2a2,normal,"M436, S33",rs17315680,17256887,,2012
+P215,I2,normal,"M438, S31",rs17307294,15148198,,2012
+P216,I2a2,normal,S30,rs17306657,12502338,,2012
+P217,I2a2,normal,S23,rs7892900,7688484,,2012
+P218,I2a2,normal,S32,rs7067532,16003024,,2012
+P219,I2a2a,normal,S24,rs17221964,14027245,,2012
+P220,I2a2a,normal,S119,rs17316910,22885057,,2012
+P221,I2a2a,normal,S120,rs17316729,8413707,,2012
+P222,I2a2a,normal,"S118, U250",rs17315723,17397594,,2012
+P223,I2a2a,normal,S117,rs17222244,15208728,,2012
+P224,R,normal,,rs17307398,15795387,,2012
+P225,R1,normal,,rs17307070,14099736,,2012
+P226,P,normal,,rs17250992,8905380,,2012
+P227,R,normal,,rs4481791,19869094,,2012
+P228,P,normal,,rs17222419,16017731,,2012
+P229,R,normal,,rs9786915,8110994,,2012
+P230,P,normal,,rs9786781,15979506,,2012
+P231,R1,normal,,rs9786465,10599615,,2012
+P232,R,normal,,rs9786261,21444520,,2012
+P233,R1,normal,,rs9786232,19625746,,2012
+P234,R1,normal,,rs9786197,19577276,,2012
+P235,P,normal,,rs9786119,17707606,,2012
+P236,R1,normal,,rs9785959,16291572,,2012
+P237,P,normal,,rs9785740,8394875,,2012
+P238,R1,normal,,rs9785717,7831131,,2012
+P239,P,normal,,rs8181264,16390624,,2012
+P240,P,normal,,rs6530605,13108816,,2012
+P241,R1,normal,"M173, Page29",rs2032624,13535818,,2012
+P242,R1,normal,,rs7067478,7707357,,2012
+P243,P,normal,,rs4141564,8745083,,2012
+P244,P,normal,,rs2740981,12943108,,2012
+P245,R1,normal,,rs3853052,8693545,,2012
+P247,A1b1a1,normal,M276,rs9341312,21151116,,2012
+P248,A1b1a1,normal,M277,rs9341314,21151209,,2012
+P249,R2a,normal,,,8395203,,2012
+P252,E1b1a1a1f1a1,normal,U174,rs16980586,14760751,,2012
+P253,E1b1a1a1f1a,normal,U247,rs2068150,17348769,,2012
+P254,H3,normal,,rs35699596,3604898,,2012
+P255,C,normal,P325,,8745038,,2012
+P256,M,normal,,,8745230,,2012
+P257,G,normal,U6,rs2740980,12942936,,2012
+P258,E2b1a2,normal,,,13540552,,2012
+P259,I (Private),normal,M507,,14100868,,2012
+P260,C,normal,P324,,15795400,,2012
+P261,K3,normal,,,12502279,,2012
+P262,A1b1a1a1c,normal,,,6992148,,2012
+P263,K3,normal,,,19625357,,2012
+P266,H2b,normal,,,6799738,,2012
+P267,R2a,normal,,,16538063,,2012
+P268,E1b1a1a1h,normal,,,22399065,,2012
+P269,E1b1a1a1h,normal,,,22399066,,2012
+P277,E1b1a1a1g1,normal,,rs16980558,14088609,,2012
+P278.1,E1b1a1a1g1,normal,,rs7067418,8527053,,2012
+P278.2,R1a1a1b1a2a,normal,,rs7067418,8527053,,2012
+P279,J2a2a,normal,,,2941377,,2012
+P280,R,normal,,rs891407,20302478,,2012
+P281,P,normal,,rs17315758,17473657,,2012
+P282,P,normal,,rs17307656,16538055,,2012
+P283,P,normal,,rs3865828,20553879,,2012
+P284,P,normal,,rs4116821,20531728,,2012
+P285,R,normal,,rs17249974,17776738,,2012
+P286,R1,normal,,rs1118473,16225645,,2012
+P287,G2,normal,,rs4116820,20531485,,2012
+P289,A1b1b2,normal,,,8527082,,2012
+P291,A1b1b2a1,normal,,,8526988,,2012
+P292,Q1a3a1c,normal,,,13540161,,2012
+P293,E1b1a1,normal,,rs16981297,8835178,,2012
+P294,R1,normal,,rs1005041,7630822,,2012
+P295,P,normal,S8,rs895530,8023031,,2012
+P297,R1b1a,normal,,rs9785702,17165902,,2012
+P298,N1c1a,normal,,,20080952,,2012
+P299,K2,normal,,,6800377,,2012
+P303,G2a1c2a,normal,"Page108, S135",,20104736,,2012
+P304,K1,normal,,,7295368,,2012
+P305,A0,normal,,,2770154,,2012
+P307,K2,normal,,,2721836,,2012
+P308,K1,normal,,,13918967,,2012
+P309,C4,normal,,,,,2012
+P310,R1b1a2a1a1,normal,S129,rs9786283,17416630,,2012
+P311,R1b1a2a1a1,normal,S128,rs9785659,16758092,,2012
+P312,R1b1a2a1a1b,normal,S116,rs34276300,20616699,,2012
+P314.1,H2a,normal,S220.1,,2948672,,2012
+P314.2,R1b1a2a1a1b3a7a,normal,S220.2,,2948672,,2012
+P316,F,normal,,,15349035,,2012
+P317,T1a1a2a,normal,,,14529767,,2012
+P321,T1a1a2,normal,,,14528120,,2012
+P322,T1a2a,normal,,,12510929,,2012
+P324,C,normal,P260,,15795400,,2012
+P325,C,normal,P255,,8745038,,2012
+P326,LT,normal,L298,,8527290,,2012
+P327,T1b1a,normal,,,17256799,,2012
+P328,T1a2a,normal,,,20303699,,2012
+P329,L1a,normal,,,8526781,,2012
+P330,T1a1c,normal,,,14528411,,2012
+P386,O (Private),normal,,,12511054,,2012
+Page SNPs,,normal,PS# or PAGES0000#,,,,2012
+Page1,M1,normal,,rs34820858,6796812,,2012
+Page2,T1a1a,normal,L208,rs35815655,6796443,,2012
+Page3,D,normal,,rs2071394,6796154,,2012
+Page4,R2 (Investigation),normal,,rs34551924,6800704,,2012
+Page6,L (Investigation),normal,,rs35816667,13163111,,2012
+Page7,R1a1a1,normal,,rs34297606,13008998,,2012
+Page8,J1b2,normal,P58,rs34043621,12996675,,2012
+Page10,A (Investigation),normal,,,12992985,,2012
+Page14,J2a1b1,normal,M260,rs9341303,13534900,,2012
+Page15,E (Investigation),normal,L117,rs34812786,13536027,,2012
+Page16,J,normal,M304,rs13447352,21159241,,2012
+Page17,A1b1b2,normal,M305,rs13447353,21159562,,2012
+Page18,B2a,normal,,rs35036633,20080579,,2012
+Page19,G2a1c1a,normal,"L90, S133",rs35169834,20087688,,2012
+Page20,O1a,normal,,rs34948194,20081394,,2012
+Page21,T1a1,normal,L162,rs34179999,14528466,,2012
+Page23,O3a2c1a,normal,,rs34893929,14508638,,2012
+Page25,G (Investigation),normal,,rs34977142,20104521,,2012
+Page27,E1b1a1a1a,normal,,rs35860478,20106063,,2012
+Page28,J2,normal,M172,rs2032604,13479028,,2012
+Page29,R1,normal,"M173, P241",rs2032624,13535818,,2012
+Page30,D,normal,M174,rs2032602,13463674,,2012
+Page31,D2,normal,M179,rs2032596,13348094,,2012
+Page32,B,normal,M181,rs2032599,13360948,,2012
+Page33,E1b1b1b1a2,normal,M183,rs2032600,13398177,,2012
+Page34,T,normal,"M184, USP9Y+3178",rs20320,13407557,,2012
+Page35,A1b1b2,normal,M190,rs2032603,13477921,,2012
+Page36,DE,normal,M203,rs2032653,14100931,,2012
+Page37,R,normal,"M207, UTY2",rs2032658,14091377,,2012
+Page38,F,normal,"M213, P137",rs2032665,14036145,,2012
+Page39,NO,normal,M214,rs2032674,13981319,,2012
+Page40,E1b1b,normal,M215,rs2032654,13977218,,2012
+Page41,A1b1a1a,normal,M49,rs2032633,20328114,,2012
+Page42,A1b1b2a,normal,M51,rs34078768,20328251,,2012
+Page43,L,normal,M61,rs34289137,20210837,,2012
+Page44.1,D2,normal,M64.1,rs2032626,20362771,,2012
+Page44.2,R1a (Private),normal,M64.2,rs2032626,20362771,,2012
+Page45,H,normal,M69,rs2032673,20353446,,2012
+Page46,T1a,normal,M70,rs2032672,20353269,,2012
+Page47,E1b1b1b2a1a,normal,L29,rs35394227,15445475,,2012
+Page50,A1b1b2,normal,,rs35195174,7295379,,2012
+Page51,C,normal,"M130, RPS4Y711",rs35284970,2794854,,2012
+Page52.1,G (Investigation),normal,,rs34402762,2770309,,2012
+Page52.2,J (Investigation),normal,,rs34402762,2770309,,2012
+Page52.3,A (Investigation),normal,,rs34402762,2770309,,2012
+Page53,A1b1b2b,normal,,,21331517,,2012
+Page54,E,normal,P169,rs16980548,21327965,,2012
+Page55,J2a1,normal,"L26, S57",rs34459399,21352285,,2012
+Page56,N,normal,S323,rs34581739,21331156,,2012
+Page57,G2a1c1a,normal,"L14, S130, U16",rs35474563,21327383,,2012
+Page59,O (Investigation),normal,,rs35247789,20329311,,2012
+Page60,B2a1a,normal,M152,rs35681523,20327456,,2012
+Page63,O2b,normal,"M176, SRY465",rs11575897,2715180,,2012
+Page65.1,BT,normal,"SRY1532.1, SRY10831.1",rs2534636,2717176,,2012
+Page65.2,R1a1,normal,"SRY1532.2, SRY10831.2",rs2534636,2717176,,2012
+Page66,E1b1a1a1,normal,,rs9786326,16188087,,2012
+Page67,M1b1,normal,,rs35852845,16188197,,2012
+Page68,R1a (Investigation),normal,,rs34351054,16170772,,2012
+Page69,O (Investigation),normal,,rs35557642,16172872,,2012
+Page70,N1c1,normal,"M46, Tat",rs34442126,13431977,,2012
+Page71,A1b1a1,normal,,rs35623864,7014470,,2012
+Page72,B2b,normal,,rs34137545,7018165,,2012
+Page74,E1a4,normal,L133,rs35573420,6992199,,2012
+Page76,I (Notes),normal,,rs36044179,6998665,,2012
+Page77,A1b1b2b,normal,V10,rs34555473,6953093,,2012
+Page78,T1a,normal,,rs34941773,13358044,,2012
+Page79,O3a,normal,P93,rs34248257,13378896,,2012
+Page80,F,normal,M235,rs7067496,13342014,,2012
+Page82,Q1b1,normal,"L215, S325",rs34601266,13399368,,2012
+Page83,P,normal,,rs13305774,13407488,,2012
+Page84,R1b1a2a1a1b3a1a1,normal,"M222, USP9Y+3636",rs20321,13411808,,2012
+Page85,C,normal,,rs35906235,13434037,,2012
+Page86,B2b4b,normal,,rs35050879,13434011,,2012
+Page87,A1b1a1,normal,,rs35361051,13439545,,2012
+Page90,O (Investigation),normal,,rs35460572,13477843,,2012
+Page91,N,normal,M231,rs9341278,13979118,,2012
+Page92,O2b,normal,,rs34141256,13919206,,2012
+Page93,M,normal,S322,rs34486382,13990829,,2012
+Page94,G,normal,U17,rs34742138,2906401,,2012
+Page95,A1b1a1,normal,,,13006126,,2012
+Page96,O3a3a,normal,M159,,20210828,,2012
+Page99,G (Investigation),normal,,,13534318,,2012
+Page100,Q1b1,normal,M378,,13536901,,2012
+Page101,O (Investigation),normal,,rs72625359,13537570,,2012
+Page103,O (Investigation),normal,,rs72625361,21155655,,2012
+Page108,G2a1c2a,normal,"P303, S135",,20104736,,2012
+Page109,O (Investigation),normal,,rs72625366,20103656,,2012
+Page110,A (Investigation),normal,,,15451791,,2012
+Page113,L (Investigation),normal,,rs72625369,2773589,,2012
+Page115,O (Investigation),normal,,rs72625371,2794776,,2012
+Page116,L (Investigation),normal,,rs72625372,20353252,,2012
+Page121,L1,normal,,rs72625377,16170780,,2012
+Page123,I (Notes),normal,,,13407777,,2012
+Page124,O (Investigation),normal,,rs72625380,13437395,,2012
+Page125,O (Investigation),normal,,rs72625381,13462091,,2012
+Page127,O (Investigation),normal,,rs72625383,13477923,,2012
+Page129,T,normal,,,13981957,,2012
+Page130,O (Investigation),normal,,rs72625386,13924027,,2012
+PK1,A (Investigation),normal,,,20992895,,2012
+PK2,C3a,normal,,,21078608,,2012
+PK3,L (Private),normal,,,21078913,,2012
+PK4,O2a,normal,,,19745350,,2012
+PK5,R1a (Private),normal,,,21717383,,2012
+PN1,E1b1a1,normal,P1,rs73626946,20071555,,2012
+PN2,E1b1,normal,P2,rs9785756,20070219,,2012
+PN3,A1b1a1,normal,"L968, M29, P3",,20069973,,2012
+RPS4Y711,C,normal,"M130, Page51",rs35284970,2794854,,2012
+S1,R1,normal,M306,rs1558843,21159971,,2012
+S2,IJ,normal,,rs1498335,21478911,,2012
+S3,R1b1a2,normal,,rs877756,17228959,,2012
+S4,R,normal,,rs1348733,16575550,,2012
+S6,J,normal,L60,rs2008924,12747131,,2012
+S8,P,normal,P295,rs895530,8023031,,2012
+S9,R,normal,,rs1865680,6928118,,2012
+S10,R1b1a2,normal,,rs2058276,2728456,,2012
+S13,R1b1a2,normal,,rs9786876,16676797,,2012
+S17,R1b1a2,normal,,rs66915044,16496081,,2012
+S21,R1b1a2a1a1a,normal,"M405, U106",rs16981293,8856078,,2012
+S22,IJ,normal,P130,rs17250887,8618969,,2012
+S23,I2a2,normal,P217,rs7892900,7688484,,2012
+S24,I2a2a,normal,P219,rs17221964,14027245,,2012
+S26,R1b1a2a1a1a3a1a,normal,"DYS439-null, L1",,13025258,,2012
+S28,R1b1a2a1a1b2,normal,U152,rs1236440,13842543,,2012
+S29,R1b1a2a1a1a3b1,normal,"M467, U198",rs17222279,15348893,,2012
+S30,I2a2,normal,P216,rs17306657,12502338,,2012
+S31,I2,normal,"M438, P215",rs17307294,15148198,,2012
+S32,I2a2,normal,P218,rs7067532,16003024,,2012
+S33,I2a2,normal,"M436, P214",rs17315680,17256887,,2012
+S34,J,normal,,rs17316547,7352720,,2012
+S35,J,normal,,rs17250845,8478927,,2012
+S42,R1b (Private),normal,,,20165860,,2012
+S44,R1b (Private),normal,,,20210860,,2012
+S47,R1b1a2a1a1b2c2,normal,,,13025048,,2012
+S50,R1b (Private),normal,,,20389582,,2012
+S51,J2a1b,normal,M67,rs2032628,20338197,,2012
+S57,J2a1,normal,"L26, Page55",rs34459399,21352285,,2012
+S62,I1,normal,L121,rs17222167,14886592,,2012
+S63,I1,normal,,rs17307252,14987914,,2012
+S64,I1,normal,L124,rs17307586,16276156,,2012
+S65,I1,normal,L125,rs17249791,17269063,,2012
+S66,I1,normal,,rs871626,21323766,,2012
+S68,R1b1a2a1a1b1a2b,normal,L165,,20389703,,2012
+S79,I (Private),normal,,,21323741,,2012
+S86,F (Private),normal,,,20210821,,2012
+S107,I1,normal,,rs17250310,6737619,,2012
+S108,I1,normal,,rs17316192,6741479,,2012
+S109,I1,normal,M450,rs17316597,7608915,,2012
+S110,I1,normal,,rs17316639,7712844,,2012
+S111,I1,normal,,rs17316702,8168722,,2012
+S116,R1b1a2a1a1b,normal,P312,rs34276300,20616699,,2012
+S117,I2a2a,normal,P223,rs17222244,15208728,,2012
+S118,I2a2a,normal,"P222, U250",rs17315723,17397594,,2012
+S119,I2a2a,normal,P220,rs17316910,22885057,,2012
+S120,I2a2a,normal,P221,rs17316729,8413707,,2012
+S126,G2a1c,normal,L30,rs34134567,14114293,,2012
+S127,R1b1a2a1a1,normal,L11,rs9786076,16353412,,2012
+S128,R1b1a2a1a1,normal,P311,rs9785659,16758092,,2012
+S129,R1b1a2a1a1,normal,P310,rs9786283,17416630,,2012
+S130,G2a1c1a,normal,"L14, Page57, U16",rs35474563,21327383,,2012
+S131,G2a1c2a1a1,normal,"L13, U13",rs9786706,13208948,,2012
+S133,G2a1c1a,normal,"L90, Page19",rs35169834,20087688,,2012
+S135,G2a1c2a,normal,"P303, Page108",,20104736,,2012
+S136,R1b (Private),normal,L50,rs13303711,7012023,,2012
+S137,IJK,normal,"L15, M523",rs9786139,6813519,,2012
+S138,IJK,normal,"L16, M522",rs9786714,7233143,,2012
+S139,R1b1a2a1a1b2a,normal,L2,rs2566671,5815550,,2012
+S141,R1b1a2a,normal,L23,rs9785971,6813511,,2012
+S142,I1a2,normal,L22,rs34626372,8636009,,2012
+S144,R1b1a2a1a1b2a1a,normal,L20,rs7067305,12741292,,2012
+S145,R1b1a2a1a1b3,normal,"L21, M529",rs11799226,14163822,,2012
+S146,G2a1c2a1b1a1,normal,L42,rs34334142,15170153,,2012
+S147,G2a1c2a1b1a,normal,L43,rs35251548,16446759,,2012
+S148,G2a1c,normal,"L32, U8",rs7892988,13202247,,2012
+S149,G2a,normal,L31,rs35617575,12538148,,2012
+S150,I2a2,normal,L35,rs7893064,21134767,,2012
+S151,I2a2a,normal,L34,rs35604181,7776262,,2012
+S152,I2a2a,normal,L36,rs35516764,16079993,,2012
+S153,I2a2,normal,L37,rs7067482,16025517,,2012
+S154,I2a2b,normal,L38,rs7892889,14177464,,2012
+S155,I2a2b,normal,L39,rs7893033,14708445,,2012
+S156,I2a2b,normal,L40,rs7893103,14711661,,2012
+S159.1,I2a2b,normal,L65.1,rs7893015,15136011,,2012
+S159.2,J1b2b1a,normal,L65.2,rs7893015,15136011,,2012
+S162,R1b1a2a1a1a3b2,normal,L48,rs13303755,22021585,,2012
+S163,Removed from IJK,normal,L69,rs9786274,14320356,,2012
+S169.3,R1b (Investigation),normal,L159.3,,14320358,,2012
+S165,I2a2a1a1,normal,L126,rs34790845,13411027,,2012
+S166,I2a2a1a1,normal,L137,rs34441307,10401250,,2012
+S167,R1b1a2a1a,normal,"L51, M412",rs9786140,8562236,,2012
+S168,R1b1a2a1a1b3a6a,normal,L226,,17558118,,2012
+S169.1,I2a1a,normal,L159.1,,14320358,,2012
+S169.2,R1b1a2a1a1b3a5a,normal,L159.2,,14320358,,2012
+S170,R1b1a2a1a1a3b2a,normal,L47,rs34283263,20637957,,2012
+S171,R1b1a2a1a1a3b2a1,normal,L44,rs34738655,2952150,,2012
+S172,R1b1a2a1a1a3b2a1a,normal,L46,rs13304625,17586803,,2012
+S173,R1b1a2a1a1a3b2b1a1a1a,normal,L148,,15951058,,2012
+S175,R1b1a2a1a1b3a4,normal,L144,rs9306842,21120848,,2012
+S176,R1b1a2a1a1b3a2b,normal,L193,,6813344,,2012
+S178,R1b1a2a1a1b2c1,normal,L4,,20199274,,2012
+S179.1,R1a1a1b1a3a1,normal,L176.1,,,,2012
+S179.2,R1b1a2a1a1b1a2,normal,L176.2,,,,2012
+S182,R1b1a2a1a1b4,normal,L238,rs35199432,19712831,,2012
+S183,I2a1c,normal,L233,,12997370,,2012
+S185,I2a1b2,normal,L161.1,,20923106,,2012
+S186,R1b1a2a1a1a2a1a,normal,L257,,14177422,,2012
+S190,R1b1a2a1a1b3g4,normal,,,,,2012
+S191,R1b1a2a1a1b3a7b1a,normal,DF5,,16903208,,2012
+S192,R1b1a2a1a1b3a7,normal,DF21,rs138322855,10488915,,2012
+S193,R1b1a2a1a1b3a1a,normal,DF23,,16283803,,2012
+S198,R1a1a1b1a,normal,Z282,,14097795,,2012
+S200,R1a1a1b1a3a,normal,L448,,6991809,,2012
+S201,R1a1a1b1a3b1,normal,Z87,,8428729,,2012
+S202,R1a1a1b2,normal,Z93,,7612356,,2012
+S204,R1a1a1b1a2,normal,Z91,,14984187,,2012
+S205,R1a1a1b1a2d,normal,Z92,,16094395,,2012
+S206,R1b1a2a1a1b2b,normal,Z36,,5021118,,2012
+S211,R1b1a2a1a1b2a3a,normal,Z142,,15296933,,2012
+S215,R1b1a2a1a1b3a2,normal,"DF1, L513",,7400450,,2012
+S216,R1b (Private),normal,L3,,20165926,,2012
+S218,R1b1a2a1a1b3a6,normal,Z253,,7253034,,2012
+S219,R1b (Investigation),normal,Z255,,14212169,,2012
+S220.1,H2a,normal,P314.1,,2948672,,2012
+S220.2,R1b1a2a1a1b3a7a,normal,P314.2,,2948672,,2012
+S221,R1a1a1b1a3,normal,Z284,,8777196,,2012
+S222,R1a1a1b1a1a,normal,L260,,16758224,,2012
+S223,R1a1a1b1a3b,normal,Z287,,15802487,,2012
+S224,R1a1a1b,normal,Z645,,8305045,,2012
+S225,R1b (Investigation),normal,Z225,,8663396,,2012
+S227,R1b (Investigation),normal,Z195,,16431460,,2012
+S230,R1b1a2a1a1b1a1,normal,Z209,,14017534,,2012
+S238,I2a,normal,L460,rs7892855,7939415,,2012
+S241,I1a2d,normal,L300,,20352144,,2012
+S243,I1a4,normal,Z63,,12911494,,2012
+S244,I1a3,normal,Z58,,10457423,,2012
+S246,I1a3a,normal,Z59,,15311754,,2012
+S250,R1b1a2a1a1b1,normal,DF27,,19839588,,2012
+S253,R1b1a2a1a1b3a7b1,normal,DF25,,2886066,,2012
+S255,R1b1a2a1a1b2a1,normal,Z367,rs7067387,10420794,,2012
+S261,R1b (Investigation),normal,Z16,,5646731,,2012
+S263,R1b1a2a1a1a3,normal,Z381,rs34001725,7306726,,2012
+S264,R1b1a2a1a1a3a,normal,Z156,,14289735,,2012
+S266,R1b (Private),normal,L259,,13537032,,2012
+S268,R1b1a2a1a1a3b2b,normal,Z9,,6848390,,2012
+S269,R1b (Investigation),normal,Z328,,7798049,,2012
+S272,R1b1a2a1a1a3b2b1a,normal,Z7,,15900954,,2012
+S274,R1b1a2a1a1a3b2b1a1a,normal,Z11,,14700274,,2012
+S276,R1b1a2a1a1a3b2b1a1b1,normal,Z6,,14757917,,2012
+S278.2,R1a1a1b2a1,normal,L342.2,rs7892981,3496373,,2012
+S279,R1b (Investigation),normal,Z249,,5878205,,2012
+S280,R1b1a2a1a1b3a7b,normal,Z246,,7121380,,2012
+S281,R1b (Investigation),normal,Z248,,12917740,,2012
+S284,G,normal,L116,rs9786537,13499115,,2012
+S285,G2a1b2,normal,L91,,20104943,,2012
+S286,J2a1h,normal,L24,rs35248080,12796528,,2012
+S287,J2a1h2a1,normal,L70,rs34986875,16586410,,2012
+S292,I2c,normal,L596,,12707631,,2012
+S294,I (Investigation),normal,Z106,,10058420,,2012
+S296,I1a3b,normal,Z138,,14220734,,2012
+S298,R1a1a1a,normal,L664,,15784441,,2012
+S299,R1b1a2a1a1b3a7c,normal,L720,,7136958,,2012
+S300,R1b1a2a1a1b3a8,normal,L371,,17165864,,2012
+S302,R1b (Investigation),normal,,,,,2012
+S303,R1b (Investigation),normal,,,,,2012
+S308,R1b1a2a1a1b3a7d1,normal,,,,,2012
+S309,R1b1a2a1a1b3a7d1,normal,,,,,2012
+S310,R1b1a2a1a1b3a9a,normal,L746,,13025458,,2012
+S314,G,normal,U2,rs9786712,13087185,,2012
+S315,G2b,normal,L72,,21653275,,2012
+S316,G2a1c2a1,normal,L140,,7630859,,2012
+S317,G2a1c2a1b,normal,L497,rs35141399,15932714,,2012
+S321,J2,normal,L228,,7831358,,2012
+S322,M,normal,Page93,rs34486382,13990829,,2012
+S323,N,normal,Page56,rs34581739,21331156,,2012
+S324,Q1a3,normal,L56,rs34703625,8208869,,2012
+S325,Q1b1,normal,"L215, Page82",rs34601266,13399368,,2012
+S326,Q1a3a,normal,L53,rs34724285,20101684,,2012
+S327,I (Investigation),normal,L672,,20688016,,2012
+S328,I2a1b,normal,L178,,14083446,,2012
+S329,I2,normal,L68,rs35547782,17209544,,2012
+S333,I2c,normal,L597,,17397282,,2012
+S344,R1a1a1b1a2d<,normal,Z660,,2784506,,2012
+S335,I1a2c1,normal,L258,,20352014,,2012
+S336,I (Investigation),normal,Z75,,20676119,,2012
+S337,I1a3a1,normal,Z60,,16743982,,2012
+S339,R1a1a1b1,normal,Z283,,20435691,,2012
+S342,R1a1a1b1a3b1,normal,Z88,,15464206,,2012
+S345,R1a1a1b1a3b,normal,Z288,,16685159,,2012
+S347,R1a1a1b2a1a,normal,L657,,12669864,,2012
+S348,R1b1a2a1a1b1a1a1,normal,Z214,,20287182,,2012
+S349,R1b1a2a,normal,L49.1,rs9786142,2902212,,2012
+S352,R1b1a2a1a1a3b2a1,normal,L163,rs35040605,7460278,,2012
+S353,R1b1a2a1a1a3b2a1a1,normal,L45,rs35760092,13625532,,2012
+S354,R1b1a2a1a1b3a4,normal,L195,,,,2012
+S355,R1b1a2a1a1b1a,normal,Z196,,,,2012
+S356,R1b1a2a1a1b1a1,normal,Z220,,14820099,,2012
+S359,R1b (Investigation),normal,Z229,,8529661,,2012
+S368,R1b1a2a1a1b2a1b,normal,Z34,,16915258,,2012
+S375,R1b1a2a1a1a2a1,normal,Z372,,20497603,,2012
+S376,R1b1a2a1a1a3a1,normal,Z305,,21014551,,2012
+S380,R1b (Investigation),normal,Z329,,7852995,,2012
+S381,R1b (Investigation),normal,Z81,,12782938,,2012
+S385,R1b1a2a1a1a3b2b1a1a1,normal,Z12,,19940842,,2012
+S387,R1b1a2a1a1a3b2b1a1b2a,normal,Z343,,8485088,,2012
+S388,R1b1a2a1a1b3a9a,normal,L744,,7652433,,2012
+S390,I2a2a3a,normal,L801,,20223143,,2012
+S391,I2a2a4a1,normal,L812,,13359429,,2012
+S392,I2a1b3,normal,L621,,17269475,,2012
+S394,R1b (Investigation),normal,L557,,20923079,,2012
+S396,J2a1,normal,L27,rs34126399,21431366,,2012
+S398,J2a2,normal,L581,,13379508,,2012
+S399,J2a1h2,normal,L25,rs34534058,17646216,,2012
+S420,R1b (Private),normal,,,,,2012
+S421,R1b (Investigation),normal,,,,,2012
+S422,R1b (Investigation),normal,,,,,2012
+S424,R1b1a2a1a1b3a7d,normal,,,,,2012
+S426,R1b1a2a1a1b3a7d,normal,,,,,2012
+S427,R1b1a2a1a1b3a7d1,normal,,,,,2012
+S431,N1c1a1a1,normal,L550,,19745636,,2012
+S432,Q1,normal,L232,,16025489,,2012
+S433,I2a1a,normal,L158,,21905948,,2012
+S438,I1a,normal,DF29,,3686279,,2012
+S439,I1a3a1,normal,Z61,,17839321,,2012
+S441,R1a1a1b,normal,Z647,,7743058,,2012
+S443,R1a1a1b1a3,normal,Z289,,17762597,,2012
+S446,R1a1a1b1a2d<,normal,Z661,,16591902,,2012
+S450,R1b (Investigation),normal,Z268,,7631621,,2012
+S463,R1b1a2a1a1b3a9a1,normal,L745,,7652439,,2012
+S464,R1b (Private),normal,L302,,21147192,,2012
+S466,R1a1a1b1a2,normal,Z280,,6289881,,2012
+S467,R1a (Private),normal,L175,,,,2012
+S468,R1a1a1b1a2b,normal,L365,,20088055,,2012
+S471,R1b (Investigation),normal,Z252,,20880623,,2012
+S473,R1b (Investigation),normal,Z261,,16577525,,2012
+S474,R1b1a2a1a1b3a1,normal,DF49,,21144987,,2012
+S483,R1b1a2a1a1b2c3,normal,Z146,,22036677,,2012
+S492,R1b (Investigation),normal,Z384,rs28819996,15229407,,2012
+S493,R1b1a2a1a1a2,normal,Z18,,13501129,,2012
+S500,R1b (Investigation),normal,Z153,,14909967,,2012
+S502,R1b1a2a1a1a3b2a1a1,normal,L164,rs13305517,14211253,,2012
+S505,R1b (Investigation),normal,Z330,,15095388,,2012
+S506,R1b (Investigation),normal,Z82,,14174585,,2012
+S512,R1b1a2a1a1a3b2b1a1b2,normal,Z346,,16122246,,2012
+S515,R1b1a2a1a1a3b2b1a1,normal,Z8,,20650532,,2012
+S521,R1b1a2a1a1b3,normal,DF13,,2896431,,2012
+S522,R1b1a2a1a1b3b,normal,DF63,,2943986,,2012
+S524,R1b1a2a1a1b3a9,normal,DF41,,15501996,,2012
+SRY465,O2b,normal,"M176, Page63",rs11575897,2715180,,2012
+SRY1532.1,BT,normal,"Page65.1, SRY10831.1",rs2534636,2717176,,2012
+SRY1532.2,R1a1,normal,"Page65.2, SRY10831.2",rs2534636,2717176,,2012
+SRY2627,R1b1a2a1a1b1a2a1,normal,M167,rs1800865,2718271,,2012
+SRY4064,E,normal,"M40, SRY8299",rs9786608,2723943,,2012
+SRY8299,E,normal,"M40, SRY4064",rs9786608,2723943,,2012
+SRY9138,M2a,normal,M177,,2718869,,2012
+SRY10831.1,BT,normal,"Page65.1, SRY1532.1",rs2534636,2717176,,2012
+SRY10831.2,R1a1,normal,"Page65.2, SRY1532.2",rs2534636,2717176,,2012
+SY81,E1b1a1,normal,"DYS271, M2",rs9785941,12606577,,2012
+Tat,N1c1,normal,"M46, Page70",rs34442126,13431977,,2012
+TSC0077541,E1b1a,normal,V38,rs768983,6878291,,2012
+TSC0424987,E1b1a,normal,,rs1971755,15087466,,2012
+TSC0860384,E1b1a1a,normal,L576,rs4081948,24828235,,2012
+TSC1640819,E1b1a1a1f1a,normal,Z1712.1,rs3991109,20185776,,2012
+U1,G2a1c2a1a,normal,,rs9785956,13568272,,2012
+U2,G,normal,S314,rs9786712,13087185,,2012
+U3,G,normal,,rs11799152,13502752,,2012
+U5,G2a,normal,,rs2178500,22382982,,2012
+U6,G,normal,P257,rs2740980,12942936,,2012
+U7,G,normal,,rs7067251,13595577,,2012
+U8,G2a1c,normal,"L32, S148",rs7892988,13202247,,2012
+U12,G,normal,,rs9786640,13149436,,2012
+U13,G2a1c2a1a1,normal,"L13, S131",rs9786706,13208948,,2012
+U16,G2a1c1a,normal,"L14, Page57, S130",rs35474563,21327383,,2012
+U17,G,normal,Page94,rs34742138,2906401,,2012
+U20,G,normal,,rs16648,,,2012
+U21,G,normal,,rs9786910,13714104,,2012
+U23,G,normal,,rs9786460,12933864,,2012
+U33,G,normal,,rs1125978,13784594,,2012
+U106,R1b1a2a1a1a,normal,"M405, S21",rs16981293,8856078,,2012
+U152,R1b1a2a1a1b2,normal,S28,rs1236440,13842543,,2012
+U174,E1b1a1a1f1a1,normal,P252,rs16980586,14760751,,2012
+U175,E1b1a1a1g,normal,,rs16980588,14763088,,2012
+U179,I,normal,,rs2319818,14864102,,2012
+U181,E1b1a1a1g1a1,normal,,rs16980589,14883820,,2012
+U186,E1b1a1a1f1a,normal,,rs16980370,14987946,,2012
+U198,R1b1a2a1a1a3b1,normal,"M467, S29",rs17222279,15348893,,2012
+U209,E1b1a1a1g1,normal,,rs16980502,15804352,,2012
+U247,E1b1a1a1f1a,normal,P253,rs2068150,17348769,,2012
+U250,I2a2a,normal,"P222, S118",rs17315723,17397594,,2012
+U290,E1b1a1a1g1a,normal,,rs16980406,20105446,,2012
+USP9Y+3178,T,normal,"M184, Page34",rs20320,13407557,,2012
+USP9Y+3636,R1b1a2a1a1b3a1a1,normal,"M222, Page84",rs20321,13411808,,2012
+UTY2,R,normal,"M207, Page37",rs2032658,14091377,,2012
+V1,A (Investigation),normal,,rs188681655,6837077,,2012
+V4,A1a,normal,,,6906482,,2012
+V6,E1b1b1c,normal,,,6992007,,2012
+V7,R1b (Private),normal,,,6992105,,2012
+V8,R1b (Private),normal,,,6992176,,2012
+V10,A1b1b2b,normal,Page77,rs34555473,6953093,,2012
+V12,E1b1b1a1a,normal,Z1216,,6883099,,2012
+V13,E1b1b1a1b,normal,,,6902263,,2012
+V14,A1a,normal,,rs185900322,6950869,,2012
+V15,A (Investigation),normal,,rs186143316,6908153,,2012
+V16,E1b1b2,normal,,,6911471,,2012
+V19,E1b1b1a1c2,normal,,,20355588,,2012
+V19,E1b1b1a1c2,normal,,,20355588,,2012
+V20,C (Investigation),normal,,,6905955,,2012
+V23,E1b1b1b2a1c,normal,,,6920272,,2012
+V25,A1a,normal,,rs181305401,6954625,,2012
+V26,A (Investigation),normal,,,6954819,,2012
+V27,E1b1b1a1b1,normal,,,6956051,,2012
+V28,A (Investigation),normal,,rs190787816,6965202,,2012
+V29,BT,normal,,rs187335757,6968261,,2012
+V30,A (Investigation),normal,,,6992824,,2012
+V31,BT,normal,,,6992831,,2012
+V32,E1b1b1a1a2,normal,,,6992821,,2012
+V35,R1b1c2,normal,,,6872012,,2012
+V36,E1b1b1a1b,normal,,,6874246,,2012
+V38,E1b1a,normal,TSC0077541,rs768983,6878291,,2012
+V39,E1b1a1a1g1d,normal,,,14791776,,2012
+V40,A (Investigation),normal,,,14938430,,2012
+V42,E1b1b1b2c,normal,,,14946738,,2012
+V43,E1b1a1,normal,,rs73621792,15201216,,2012
+V45,Removed from R,normal,,,,,2012
+V48,A (Investigation),normal,,,15405751,,2012
+V50,A1b1a,normal,,,6905936,,2012
+V51,A (Investigation),normal,,rs181717787,15975699,,2012
+V53,A (Investigation),normal,,rs190133259,16024818,,2012
+V56,A (Investigation),normal,,rs184238787,16432954,,2012
+V57,A (Investigation),normal,,rs186564287,14702482,,2012
+V58,A (Investigation),normal,,,14802066,,2012
+V59,BT,normal,,rs182674919,15547373,,2012
+V60,A (Investigation),normal,,,15711535,,2012
+V61,A (Investigation),normal,,,15711534,,2012
+V63,A (Investigation),normal,,rs188411414,15711215,,2012
+V64,BT,normal,,,15796788,,2012
+V65,E1b1b1a1d,normal,,,15797262,,2012
+V66,A (Investigation),normal,,,16153819,,2012
+V67,A (Investigation),normal,,,16154835,,2012
+V68,E1b1b1a,normal,,,16174165,,2012
+V69,R1b1c3,normal,,rs185037316,16608448,,2012
+V70,A (Investigation),normal,,rs184053677,14690885,,2012
+V72,A (Investigation),normal,,rs193010425,15092727,,2012
+V79,A (Investigation),normal,,rs180981568,6939761,,2012
+V80,A (Investigation),normal,,rs181981298,6947414,,2012
+V81,A (Investigation),normal,,rs190958866,6955092,,2012
+V82,A1b1a,normal,,rs182712174,6955470,,2012
+V88,R1b1c,normal,,rs180946844,4922861,,2012
+V89,A (Investigation),normal,,,4962306,,2012
+V92,E1b1b1d,normal,,,4933798,,2012
+V95,E1b1a1,normal,,,5334968,,2012
+V97,A (Investigation),normal,,,,,2012
+V98,A (Investigation),normal,,,5427905,,2012
+V100,E1b1a,normal,,,5395763,,2012
+V148,A0,normal,,,6848191,,2012
+V149,A0,normal,,,6903151,,2012
+V150,A (Investigation),normal,,rs183144993,6907842,,2012
+V151,A (Investigation),normal,,,6911720,,2012
+V152,A0a,normal,,,,,2012
+V153,A (Investigation),normal,,rs192028702,6928881,,2012
+V154,A0,normal,,rs189443481,6937891,,2012
+V155,A (Investigation),normal,,,6945631,,2012
+V156,A (Investigation),normal,,rs192830874,6936484,,2012
+V157,A (Investigation),normal,,rs186711202,6959793,,2012
+V158,A (Investigation),normal,,,6937314,,2012
+V159,A (Investigation),normal,,,6992829,,2012
+V160,A (Investigation),normal,,,6967838,,2012
+V161,A1,normal,,,14690541,,2012
+V162,A (Investigation),normal,,,15427258,,2012
+V164,A0,normal,,rs181016083,16765208,,2012
+V165,A (Investigation),normal,,,14786199,,2012
+V166,A0,normal,,,14802260,,2012
+V167,A (Investigation),normal,,,16108496,,2012
+V168,A1,normal,,,16457066,,2012
+V169,A (Investigation),normal,,,4922725,,2012
+V170,A (Investigation),normal,,,4980473,,2012
+V171,A1,normal,,rs2524861,4958665,,2012
+V172,A0,normal,,,4960600,,2012
+V173,A0,normal,,,4991338,,2012
+V174,A1,normal,,rs35996397,5017608,,2012
+V176,A (Investigation),normal,,rs190548065,6906615,,2012
+V177,A0,normal,,rs184049485,6923229,,2012
+V180,A (Investigation),normal,,,17979383,,2012
+V181,A (Investigation),normal,,,12759732,,2012
+V187,BT,normal,,,2816519,,2012
+V188,A (Investigation),normal,,,2838617,,2012
+V190,A0,normal,,rs190007270,2932583,,2012
+V191,A (Investigation),normal,,,2932610,,2012
+V192,A (Investigation),normal,,,2750677,,2012
+V193,A (Investigation),normal,,,2751796,,2012
+V194,A (Investigation),normal,,,13168132,,2012
+V195,A (Investigation),normal,,rs186145795,,,2012
+V196,A0,normal,,rs189342322,21526955,,2012
+V198,A1b1a,normal,,,2813086,,2012
+V200,A (Investigation),normal,,,2842815,,2012
+V201,A (Investigation),normal,,,2848626,,2012
+V202,BT,normal,,,2850584,,2012
+V203,A1,normal,,,7649303,,2012
+V204,A (Investigation),normal,,rs191604033,2923367,,2012
+V214,A (Investigation),normal,,rs190761342,2928496,,2012
+V215,A (Investigation),normal,,,2928499,,2012
+V218.1,A (Investigation),normal,,rs112137450,6722712,,2012
+V218.2,I (Investigation),normal,,rs112137450,6722712,,2012
+V221,A1b,normal,,,2860714,,2012
+V223,A0,normal,,rs185081318,7652457,,2012
+V224,A1b1a,normal,,rs190238924,7653921,,2012
+V225,A0,normal,,rs181848931,7656315,,2012
+V228,A (Investigation),normal,,rs181270813,7664310,,2012
+V229,A0,normal,,,7666633,,2012
+V230,A (Investigation),normal,,rs189870503,7685116,,2012
+V231,P,normal,,rs7892927,7688900,,2012
+V233,A0,normal,,rs191772785,7704475,,2012
+V235,BT,normal,,rs113399380,7705425,,2012
+V236,A (Investigation),normal,,rs192529153,7705477,,2012
+V238,A1,normal,,rs186764807,7711556,,2012
+V239,A0,normal,,,7714353,,2012
+V241,A1,normal,,rs184836128,7718712,,2012
+V242,A (Investigation),normal,,rs190535494,7719715,,2012
+V243,A (Investigation),normal,,rs193269118,7755867,,2012
+V250,A1,normal,,rs191193873,16154729,,2012
+V257,E1b1b1b1,normal,L19,,12994604,,2012
+VL29,N (Investigation),normal,,,13080432,,2012
+YAP,DE,normal,M1,,,,2012
+Z1,R1b1a2a1a1a3b2b1a1b,normal,,,4627631,,2012
+Z2,R1b1a2a1a1a3b2b1,normal,,,7943339,,2012
+Z5,R1b1a2a1a1a3b2b1a1,normal,,,14431281,,2012
+Z6,R1b1a2a1a1a3b2b1a1b1,normal,S276,,14757917,,2012
+Z7,R1b1a2a1a1a3b2b1a,normal,S272,,15900954,,2012
+Z8,R1b1a2a1a1a3b2b1a1,normal,S515,,20650532,,2012
+Z9,R1b1a2a1a1a3b2b,normal,S268,,6848390,,2012
+Z10,R1b1a2a1a1a3b2b,normal,,,9987658,,2012
+Z11,R1b1a2a1a1a3b2b1a1a,normal,S274,,14700274,,2012
+Z12,R1b1a2a1a1a3b2b1a1a1,normal,S385,,19940842,,2012
+Z14,R1b1a2a1a1a2a,normal,,,,,2012
+Z15,R1b (Investigation),normal,,,17941002,,2012
+Z16,R1b (Investigation),normal,S261,,5646731,,2012
+Z18,R1b1a2a1a1a2,normal,S493,,13501129,,2012
+Z19,R1b1a2a1a1a2,normal,,,17885608,,2012
+Z34,R1b1a2a1a1b2a1b,normal,S368,,16915258,,2012
+Z35,R1b1a2a1a1b2a1b1,normal,,,22285502,,2012
+Z36,R1b1a2a1a1b2b,normal,S206,,5021118,,2012
+Z49,R1b1a2a1a1b2a3,normal,,,26871625,,2012
+Z56,R1b1a2a1a1b2c,normal,,,17357549,,2012
+Z58,I1a3,normal,S244,,10457423,,2012
+Z59,I1a3a,normal,S246,,15311754,,2012
+Z60,I1a3a1,normal,S337,,16743982,,2012
+Z61,I1a3a1,normal,S439,,17839321,,2012
+Z62,I1a3a1,normal,,,14126135,,2012
+Z63,I1a4,normal,S243,,12911494,,2012
+Z73,I1a3a1b,normal,,,13733985,,2012
+Z75,I (Investigation),normal,S336,,20676119,,2012
+Z77,I2a2a,normal,,,6820516,,2012
+Z78,I2a2a3a2,normal,,,9214908,,2012
+Z79,I2a2a3a2a1a,normal,,,15657115,,2012
+Z80,R1b (Investigation),normal,,,7415837,,2012
+Z81,R1b (Investigation),normal,S381,,12782938,,2012
+Z82,R1b (Investigation),normal,S506,,14174585,,2012
+Z83,R1b (Investigation),normal,,,14829166,,2012
+Z87,R1a1a1b1a3b1,normal,S201,,8428729,,2012
+Z88,R1a1a1b1a3b1,normal,S342,,15464206,,2012
+Z91,R1a1a1b1a2,normal,S204,,14984187,,2012
+Z92,R1a1a1b1a2d,normal,S205,,16094395,,2012
+Z93,R1a1a1b2,normal,S202,,7612356,,2012
+Z94,R1a1a1b2a,normal,,,19502836,,2012
+Z106,I (Investigation),normal,S294,,10058420,,2012
+Z109,I (Investigation),normal,,,13409927,,2012
+Z112,I (Investigation),normal,,,15400069,,2012
+Z118,I (Investigation),normal,,,19294115,,2012
+Z119,I (Investigation),normal,,,20010197,,2012
+Z124,I (Investigation),normal,,,21384314,,2012
+Z125,I (Investigation),normal,,,21416720,,2012
+Z131,I1b,normal,,,5905252,,2012
+Z138,I1a3b,normal,S296,,14220734,,2012
+Z139,I1a3b,normal,,,19748043,,2012
+Z140,I1a3a1a,normal,,,16372749,,2012
+Z141,I1a3a1a,normal,,,7590813,,2012
+Z142,R1b1a2a1a1b2a3a,normal,S211,,15296933,,2012
+Z144,R1b1a2a1a1b2c3,normal,,,13054138,,2012
+Z145,R1b1a2a1a1b2c3,normal,,,14964149,,2012
+Z146,R1b1a2a1a1b2c3,normal,S483,,22036677,,2012
+Z153,R1b (Investigation),normal,S500,,14909967,,2012
+Z154,R1b (Investigation),normal,,,20108166,,2012
+Z155,R1b (Investigation),normal,,,13727764,,2012
+Z156,R1b1a2a1a1a3a,normal,S264,,14289735,,2012
+Z159,R1b1a2a1a1a3b2a2,normal,,,21167537,,2012
+Z161,I2a2a3,normal,,,2756497,,2012
+Z190,I2a2a3a2a1,normal,,,15983360,,2012
+Z195,R1b (Investigation),normal,S227,,16431460,,2012
+Z196,R1b1a2a1a1b1a,normal,S355,,,,2012
+Z198,R1b (Investigation),normal,,,15103228,,2012
+Z209,R1b1a2a1a1b1a1,normal,S230,,14017534,,2012
+Z214,R1b1a2a1a1b1a1a1,normal,S348,,20287182,,2012
+Z216,R1b1a2a1a1b1a1a,normal,,,16530744,,2012
+Z220,R1b1a2a1a1b1a1,normal,S356,,14820099,,2012
+Z225,R1b (Investigation),normal,S225,,8663396,,2012
+Z229,R1b (Investigation),normal,S359,,8529661,,2012
+Z245,R1b (Investigation),normal,,rs150034296,20660172,,2012
+Z246,R1b1a2a1a1b3a7b,normal,S280,,7121380,,2012
+Z248,R1b (Investigation),normal,S281,,12917740,,2012
+Z249,R1b (Investigation),normal,S279,,5878205,,2012
+Z252,R1b (Investigation),normal,S471,,20880623,,2012
+Z253,R1b1a2a1a1b3a6,normal,S218,,7253034,,2012
+Z255,R1b (Investigation),normal,S219,,14212169,,2012
+Z258,R1b (Investigation),normal,,rs9785865,20896486,,2012
+Z261,R1b (Investigation),normal,S473,,16577525,,2012
+Z262,R1b1a2a1a1b1a2a,normal,,,14829591,,2012
+Z268,R1b (Investigation),normal,S450,,7631621,,2012
+Z275,R1b (Investigation),normal,,,17922660,,2012
+Z276,R1b (Investigation),normal,,,19008153,,2012
+Z278,R1b1a2a1a1b1a1a,normal,,rs1469371,16676873,,2012
+Z280,R1a1a1b1a2,normal,S466,,6289881,,2012
+Z282,R1a1a1b1a,normal,S198,,14097795,,2012
+Z283,R1a1a1b1,normal,S339,,20435691,,2012
+Z284,R1a1a1b1a3,normal,S221,,8777196,,2012
+Z287,R1a1a1b1a3b,normal,S223,,15802487,,2012
+Z288,R1a1a1b1a3b,normal,S345,,16685159,,2012
+Z289,R1a1a1b1a3,normal,S443,,17762597,,2012
+Z291,R1b (Investigation),normal,,,21983913,,2012
+Z301,R1b1a2a1a1a3b,normal,,,12691107,,2012
+Z305,R1b1a2a1a1a3a1,normal,S376,,21014551,,2012
+Z306,R1b1a2a1a1a3a1,normal,,,21197166,,2012
+Z307,R1b1a2a1a1a3a1,normal,,,17556526,,2012
+Z326,R1b1a2a1a1a3b2b2,normal,,,22382755,,2012
+Z327,R1b (Investigation),normal,,,7217050,,2012
+Z328,R1b (Investigation),normal,S269,,7798049,,2012
+Z329,R1b (Investigation),normal,S380,,7852995,,2012
+Z330,R1b (Investigation),normal,S505,,15095388,,2012
+Z331,R1b (Investigation),normal,,,15884498,,2012
+Z332,R1b (Investigation),normal,,,17048476,,2012
+Z333,R1b (Investigation),normal,,,17229410,,2012
+Z334,R1b (Investigation),normal,,,17517369,,2012
+Z335,R1b (Investigation),normal,,,17859299,,2012
+Z336,R1b (Investigation),normal,,,19609615,,2012
+Z343,R1b1a2a1a1a3b2b1a1b2a,normal,S387,,8485088,,2012
+Z346,R1b1a2a1a1a3b2b1a1b2,normal,S512,,16122246,,2012
+Z367,R1b1a2a1a1b2a1,normal,S255,rs7067387,10420794,,2012
+Z372,R1b1a2a1a1a2a1,normal,S375,,20497603,,2012
+Z381,R1b1a2a1a1a3,normal,S263,rs34001725,7306726,,2012
+Z382,I1a3a2,normal,,,3740849,,2012
+Z383,R1b (Investigation),normal,,rs34173183,24405862,,2012
+Z384,R1b (Investigation),normal,S492,rs28819996,16720013,,2012
+Z631,J2b2a1a1,normal,,,2879161,,2012
+Z639,J2b2a1a1,normal,,,15945594,,2012
+Z645,R1a1a1b,normal,S224,,8305045,,2012
+Z647,R1a1a1b,normal,S441,,7743058,,2012
+Z660,R1a1a1b1a2d<,normal,S344,,2784506,,2012
+Z661,R1a1a1b1a2d<,normal,S446,,16591902,,2012
+Z709,T (Investigation),normal,,,6950722,,2012
+Z718,I (Investigation),normal,,,7412846,,2012
+Z719,I1a2e,normal,L813,,7719777,,2012
+Z724,G2a1c2a1c1,normal,,,6895545,,2012
+Z725,G2a1c2a1b1,normal,,,7957070,,2012
+Z827,E1b1b1b,normal,,,7350454,,2012
+Z830,E1b1b1b2,normal,,,7789622,,2012
+Z1101,E1b1a1,normal,,rs9786252,2971033,,2012
+Z1107,E1b1a1,normal,,rs9785861,7461585,,2012
+Z1111,E1b1a1a1,normal,,rs9306846,7872445,,2012
+Z1116,E1b1a1,normal,,rs9786574,8647013,,2012
+Z1120,E1b1a1,normal,,rs9785851,14019884,,2012
+Z1122,E1b1a1,normal,,rs9786581,14492408,,2012
+Z1123,E1b1a1,normal,,rs16980467,15150780,,2012
+Z1124,E1b1a1,normal,,rs9786216,15327317,,2012
+Z1125,E1b1a1,normal,,rs9786376,15436476,,2012
+Z1127,E1b1a1,normal,,rs9785895,15925094,,2012
+Z1130,E1b1a1,normal,,rs9786735,19741859,,2012
+Z1132,E1b1a1a1,normal,,rs9785819,20147688,,2012
+Z1133,E1b1a1,normal,,rs9786042,20640809,,2012
+Z1135,E1b1a1,normal,,rs9786905,21193740,,2012
+Z1146,E (Investigation),normal,L797,,8111123,,2012
+Z1216,E1b1b1a1a,normal,V12,,6883099,,2012
+Z1296,J2b2a1,normal,,,17115707,,2012
+Z1297,J2b2a1a,normal,,,19950300,,2012
+Z1298,J2b2a1a,normal,,,20663839,,2012
+Z1300,C3b1,normal,,,7861788,,2012
+Z1338,C3b,normal,,,16353395,,2012
+Z1453,C3,normal,,,17529760,,2012
+Z1476,D (Investigation),normal,,,7646844,,2012
+Z1504,D (Investigation),normal,,,20375862,,2012
+Z1704,E1b1a1a1f1a1d,normal,,,16312631,,2012
+Z1712.1,E1b1a1a1f1a,normal,TSC1640819,rs3991109,20185776,,2012
+Z1725,E1b1a1a1g1a2,normal,,,2788042,,2012
+Z1893,E1b1a1a1f1b1,normal,,rs9786637,10489569,,2012
+Z1894,E (Investigation),normal,,rs9786855,13396612,,2012
+Z1901,G (Investigation),normal,,,2770341,,2012
+Z1902,E (Investigation),normal,,,21232543,,2012
+Z1903,G2a1c2a1c,normal,,,15106340,,2012
+Z1919,E (Investigation),normal,,,14008966,,2012
+Z1920,E (Investigation),normal,,,14011879,,2012
+Z1925,N1c1a1a3a,normal,,,7306954,,2012
+Z1935,N1c1a1a3a,normal,,,17729115,,2012
+Z1936,N1c1a1a3,normal,,,19922714,,2012
+Z1940,N1c1a1a3a1a,normal,,,7819895,,2012
+Z1941,N1c1a1a3a1,normal,,,8617714,,2012
+Z1973,N1c1a1a,normal,L1026,,,,2012
+Z1991,G (Investigation),normal,,,6798741,,2012
+Z1992,G (Investigation),normal,,,6919064,,2012
+Z1993,G (Investigation),normal,,,7137897,,2012
+Z2003,G (Investigation),normal,,,11982098,,2012
+Z2005,G (Investigation),normal,,,12123906,,2012
+Z2006,G (Investigation),normal,,,12308648,,2012
+Z2013,G (Investigation),normal,,,14270985,,2012
+Z2014,G (Investigation),normal,,,14727684,,2012
+Z2022,G (Investigation),normal,,,17644075,,2012
+Z2024,G (Investigation),normal,,,20331909,,2012
+Z2041,I (Investigation),normal,,,16080410,,2012
+Z2047,G (Investigation),normal,,,12791832,,2012
+Z2054,I2a2a4a,normal,,,3040725,,2012
+Z2183,R1b (Investigation),normal,,,13371302,,2012
+Z2184,R1b (Investigation),normal,,,13849251,,2012
+Z2185,R1b1a2a1a1b3a6c,normal,,,17689859,,2012
+Z2534,R1b (Investigation),normal,,,17543211,,2012

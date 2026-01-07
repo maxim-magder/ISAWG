@@ -1,0 +1,414 @@
+id,name,parent_id,depth,status,is_paragroup,defining_snps,source_version
+A,A,,0,normal,False,"M91, P97",2011
+A*,A*,,1,normal,True,,2011
+A1,A1,,1,normal,False,P108,2011
+A1*,A1*,,2,normal,True,,2011
+A1a,A1a,,2,normal,False,"M31, P82",2011
+A1b,A1b,,2,normal,False,"P114, P305",2011
+A2,A2,,1,normal,False,"M6, M14, M23, M29, M49, Page41, M71, M135, M141, M196, M206, M212, M276",2011
+A2*,A2*,,2,normal,True,,2011
+A2a,A2a,,2,normal,False,M114,2011
+A2b,A2b,,2,normal,False,P28,2011
+A2c,A2c,,2,normal,False,P262,2011
+A3,A3,,1,normal,False,M32,2011
+A3*,A3*,,2,normal,True,,2011
+A3a,A3a,,2,normal,False,"M28, M59",2011
+A3b,A3b,,2,normal,False,"M144, M190, Page35, M220, P289, Page50",2011
+A3b*,A3b*,,3,normal,True,,2011
+A3b1,A3b1,,3,normal,False,"M51, Page42, P100, P291",2011
+A3b1*,A3b1*,,4,normal,True,,2011
+A3b1a,A3b1a,,4,normal,False,"P71, P102",2011
+A3b2,A3b2,,3,normal,False,"M13, M127, M202, M219, M305, Page17, Page53, Page77, V10",2011
+A3b2*,A3b2*,,4,normal,True,,2011
+A3b2a,A3b2a,,4,normal,False,M171,2011
+A3b2b,A3b2b,,4,normal,False,M118,2011
+B,B,,0,normal,False,"M60, M181, Page32, M247, , P90",2011
+B*,B*,,1,normal,True,,2011
+B1,B1,,1,normal,False,"M236, M288",2011
+B1*,B1*,,2,normal,True,,2011
+B1a,B1a,,2,normal,False,M146,2011
+B2,B2,,1,normal,False,M182,2011
+B2*,B2*,,2,normal,True,,2011
+B2a,B2a,,2,normal,False,"M150, Page18",2011
+B2a*,B2a*,,3,normal,True,,2011
+B2a1,B2a1,,3,normal,False,M218,2011
+B2a1*,B2a1*,,4,normal,True,,2011
+B2a1a,B2a1a,,4,normal,False,"M109, M152, Page60, P32, P50",2011
+B2a2,B2a2,,3,normal,False,M108.1,2011
+B2a2*,B2a2*,,4,normal,True,,2011
+B2a2a,B2a2a,,4,normal,False,"M43, P111",2011
+B2b,B2b,,2,normal,False,"M112, M192, 50f2(P), Page72",2011
+B2b*,B2b*,,3,normal,True,,2011
+B2b1,B2b1,,3,normal,False,P6,2011
+B2b2,B2b2,,3,normal,False,"M115, M169",2011
+B2b3,B2b3,,3,normal,False,"M30, M129",2011
+B2b3*,B2b3*,,4,normal,True,,2011
+B2b3a,B2b3a,,4,normal,False,M108.2,2011
+B2b4,B2b4,,3,normal,False,"P7_1, P7_2, P7_3",2011
+B2b4*,B2b4*,,4,normal,True,,2011
+B2b4a,B2b4a,,4,normal,False,"P8_1, P8_2, P8_3, P70",2011
+B2b4b,B2b4b,,4,normal,False,"MSY2.1, M211, Page86",2011
+B2c,B2c,,2,normal,False,P112,2011
+C,C,,0,normal,False,"M130, Page51, ",2011
+C*,C*,,1,normal,True,,2011
+C1,C1,,1,normal,False,"M8, M105, M131, P122",2011
+C1*,C1*,,2,normal,True,,2011
+C1a,C1a,,2,normal,False,P121,2011
+C2,C2,,1,normal,False,M38,2011
+C2*,C2*,,2,normal,True,,2011
+C2a,C2a,,2,normal,False,M208,2011
+C2a*,C2a*,,3,normal,True,,2011
+C2a1,C2a1,,3,normal,False,"P33_1, P33_2, P33_3",2011
+C2a2,C2a2,,3,normal,False,P54,2011
+C3,C3,,1,normal,False,"M217, P44, PK2",2011
+C3*,C3*,,2,normal,True,,2011
+C3a,C3a,,2,normal,False,M93,2011
+C3b,C3b,,2,normal,False,P39,2011
+C3c,C3c,,2,normal,False,"M48, M77",2011
+C3c*,C3c*,,3,normal,True,--,2011
+C3c1,C3c1,,3,normal,False,M86,2011
+C3d,C3d,,2,normal,False,M407,2011
+C3e,C3e,,2,normal,False,P53.1,2011
+C3f,C3f,,2,normal,False,P62,2011
+C4,C4,,1,normal,False,"M347, P309",2011
+C4*,C4*,,2,normal,True,,2011
+C4a,C4a,,2,normal,False,M210,2011
+C5,C5,,1,normal,False,M356,2011
+C5*,C5*,,2,normal,True,,2011
+C5a,C5a,,2,normal,False,P92,2011
+C6,C6,,1,normal,False,P55,2011
+E,E,,0,normal,False,"L339, L504, L507, L511, L537, L614, L856, M40, M96, P29, P150, P152",2011
+E*,E*,,1,normal,True,,2011
+E1,E1,,1,normal,False,P147,2011
+E1*,E1*,,2,normal,True,,2011
+E1a,E1a,,2,normal,False,"L633, M33, M132",2011
+E1a*,E1a*,,3,normal,True,,2011
+E1a1,E1a1,,3,normal,False,M44,2011
+E1a2,E1a2,,3,normal,False,P110,2011
+E1a3,E1a3,,3,renamed,False,L94,2011
+E1a4,E1a4,,3,renamed,False,"L133, Page74",2011
+E1b,E1b,,2,normal,False,P177,2011
+E1b*,E1b*,,3,normal,True,,2011
+E1b1,E1b1,,3,normal,False,"DYS391p, P2, P179, P180, P181",2011
+E1b1*,E1b1*,,4,normal,True,,2011
+E1b1a,E1b1a,,4,renamed,False,"L222.1, V38, V100",2011
+E1b1a*,E1b1a*,,5,renamed,True,,2011
+E1b1a1,E1b1a1,,5,renamed,False,"DYS271, M291, P1, P189, P293, V43, V95",2011
+E1b1a1*,E1b1a1*,,6,renamed,True,,2011
+E1b1a1a,E1b1a1a,,6,renamed,False,L576,2011
+E1b1a1a*,E1b1a1a*,,7,new,True,,2011
+E1b1a1a1,E1b1a1a1,,7,new,False,"L86.1, M180, P182, Page66, Z1111, Z1132",2011
+E1b1a1a1*,E1b1a1a1*,,8,new,True,,2011
+E1b1a1a1a,E1b1a1a1a,,8,new,False,"M58, Page27",2011
+E1b1a1a1b,E1b1a1a1b,,8,new,False,M116.2,2011
+E1b1a1a1c,E1b1a1a1c,,8,new,False,M149,2011
+E1b1a1a1d,E1b1a1a1d,,8,new,False,M155,2011
+E1b1a1a1e,E1b1a1a1e,,8,new,False,"M10, M66, M156, M195",2011
+E1b1a1a1f,E1b1a1a1f,,8,new,False,L485,2011
+E1b1a1a1f*,E1b1a1a1f*,,9,new,True,,2011
+E1b1a1a1f1,E1b1a1a1f1,,9,new,False,L514,2011
+E1b1a1a1f1*,E1b1a1a1f1*,,10,new,True,,2011
+E1b1a1a1f1a,E1b1a1a1f1a,,10,new,False,"M191, U186, P253",2011
+E1b1a1a1f1a*,E1b1a1a1f1a*,,11,new,True,,2011
+E1b1a1a1f1a1,E1b1a1a1f1a1,,11,new,False,P252,2011
+E1b1a1a1f1a1*,E1b1a1a1f1a1*,,12,new,True,,2011
+E1b1a1a1f1a1a,E1b1a1a1f1a1a,,12,new,False,P9.2,2011
+E1b1a1a1f1a1b,E1b1a1a1f1a1b,,12,new,False,P115,2011
+E1b1a1a1f1a1c,E1b1a1a1f1a1c,,12,new,False,P116,2011
+E1b1a1a1f1a1c*,E1b1a1a1f1a1c*,,13,new,True,,2011
+E1b1a1a1f1a1c1,E1b1a1a1f1a1c1,,13,new,False,P113,2011
+E1b1a1a1f1b,E1b1a1a1f1b,,10,new,False,"L515, L516, L517, M263.2",2011
+E1b1a1a1f1b*,E1b1a1a1f1b*,,11,new,True,,2011
+E1b1a1a1f1b1,E1b1a1a1f1b1,,11,new,False,Z1893,2011
+E1b1a1a1g,E1b1a1a1g,,8,new,False,U175,2011
+E1b1a1a1g*,E1b1a1a1g*,,9,new,True,,2011
+E1b1a1a1g1,E1b1a1a1g1,,9,new,False,"P277, P278.1, U209",2011
+E1b1a1a1g1*,E1b1a1a1g1*,,10,new,True,,2011
+E1b1a1a1g1a,E1b1a1a1g1a,,10,new,False,U290,2011
+E1b1a1a1g1a*,E1b1a1a1g1a*,,11,new,True,,2011
+E1b1a1a1g1a1,E1b1a1a1g1a1,,11,new,False,U181,2011
+E1b1a1a1g1a1*,E1b1a1a1g1a1*,,12,new,True,,2011
+E1b1a1a1g1a1a,E1b1a1a1g1a1a,,12,new,False,L97,2011
+E1b1a1a1g1b,E1b1a1a1g1b,,10,new,False,P59,2011
+E1b1a1a1g1c,E1b1a1a1g1c,,10,new,False,M154,2011
+E1b1a1a1g1d,E1b1a1a1g1d,,10,new,False,V39,2011
+E1b1a1a1h,E1b1a1a1h,,8,new,False,"P268, P269",2011
+E1b1a2,E1b1a2,,5,renamed,False,M329,2011
+E1b1b,E1b1b,,4,normal,False,"M215, Page40",2011
+E1b1b*,E1b1b*,,5,normal,True,,2011
+E1b1b1,E1b1b1,,5,normal,False,"L336, M35, .1, M243",2011
+E1b1b1*,E1b1b1*,,6,normal,True,,2011
+E1b1b1a,E1b1b1a,,6,renamed,False,V68,2011
+E1b1b1a*,E1b1b1a*,,7,renamed,True,,2011
+E1b1b1a1,E1b1b1a1,,7,renamed,False,"L18, M78",2011
+E1b1b1a1*,E1b1b1a1*,,8,renamed,True,,2011
+E1b1b1a1a,E1b1b1a1a,,8,renamed,False,V12,2011
+E1b1b1a1a*,E1b1b1a1a*,,9,new,True,,2011
+E1b1b1a1a1,E1b1b1a1a1,,9,new,False,M224,2011
+E1b1b1a1a2,E1b1b1a1a2,,9,new,False,V32,2011
+E1b1b1a1b,E1b1b1a1b,,8,renamed,False,"L142.1, L542, V13, V36",2011
+E1b1b1a1b*,E1b1b1a1b*,,9,new,True,,2011
+E1b1b1a1b1,E1b1b1a1b1,,9,new,False,V27,2011
+E1b1b1a1b2,E1b1b1a1b2,,9,new,False,"P65_1, P65_2, P65_3",2011
+E1b1b1a1b3,E1b1b1a1b3,,9,new,False,L17,2011
+E1b1b1a1b4,E1b1b1a1b4,,9,new,False,"DYS643-null, L143",2011
+E1b1b1a1b5,E1b1b1a1b5,,9,new,False,M35.2,2011
+E1b1b1a1b6,E1b1b1a1b6,,9,new,False,L241,2011
+E1b1b1a1b7,E1b1b1a1b7,,9,new,False,"L250, L251, L252",2011
+E1b1b1a1b8,E1b1b1a1b8,,9,new,False,L540,2011
+E1b1b1a1c,E1b1b1a1c,,8,new,False,V22,2011
+E1b1b1a1c*,E1b1b1a1c*,,9,new,True,,2011
+E1b1b1a1c1,E1b1b1a1c1,,9,new,False,M148,2011
+E1b1b1a1c2,E1b1b1a1c2,,9,new,False,V19,2011
+E1b1b1a1d,E1b1b1a1d,,8,new,False,V65,2011
+E1b1b1a1e,E1b1b1a1e,,8,new,False,M521,2011
+E1b1b1b,E1b1b1b,,6,renamed,False,"L19, V257, L335, M310",2011
+E1b1b1b*,E1b1b1b*,,7,renamed,True,,2011
+E1b1b1b1,E1b1b1b1,,7,renamed,False,M81,2011
+E1b1b1b1*,E1b1b1b1*,,8,new,True,,2011
+E1b1b1b1a,E1b1b1b1a,,8,new,False,M107,2011
+E1b1b1b1b,E1b1b1b1b,,8,new,False,"M183, Page33",2011
+E1b1b1b1b*,E1b1b1b1b*,,9,new,True,,2011
+E1b1b1b1b1,E1b1b1b1b1,,9,new,False,M165,2011
+E1b1b1c,E1b1b1c,,6,normal,False,M123,2011
+E1b1b1c*,E1b1b1c*,,7,normal,True,,2011
+E1b1b1c1,E1b1b1c1,,7,normal,False,M34,2011
+E1b1b1c1*,E1b1b1c1*,,8,normal,True,,2011
+E1b1b1c1a,E1b1b1c1a,,8,normal,False,"M84, L29, Page47",2011
+E1b1b1c1a*,E1b1b1c1a*,,9,normal,True,,2011
+E1b1b1c1a1,E1b1b1c1a1,,9,normal,False,M136,2011
+E1b1b1c1b,E1b1b1c1b,,8,normal,False,M290,2011
+E1b1b1c1c,E1b1b1c1c,,8,new,False,V23,2011
+E1b1b1d,E1b1b1d,,6,renamed,False,V6,2011
+E1b1b1e,E1b1b1e,,6,renamed,False,M293,2011
+E1b1b1e*,E1b1b1e*,,7,new,True,,2011
+E1b1b1e1,E1b1b1e1,,7,new,False,P72,2011
+E1b1b1f,E1b1b1f,,6,renamed,False,V42,2011
+E1b1b1g,E1b1b1g,,6,renamed,False,V92,2011
+E1b1b2,E1b1b2,,5,new,False,"M281, V16",2011
+E1b2,E1b2,,3,normal,False,P75,2011
+E2,E2,,1,normal,False,"M75, P68",2011
+E2*,E2*,,2,normal,True,,2011
+E2a,E2a,,2,normal,False,M41,2011
+E2b,E2b,,2,normal,False,"M54, M90, M98",2011
+E2b*,E2b*,,3,normal,True,,2011
+E2b1,E2b1,,3,normal,False,M85,2011
+E2b1*,E2b1*,,4,normal,True,,2011
+E2b1a,E2b1a,,4,normal,False,M200,2011
+E2b1a*,E2b1a*,,5,normal,True,,2011
+E2b1a1,E2b1a1,,5,normal,False,P45,2011
+E2b1a2,E2b1a2,,5,normal,False,P258,2011
+G,G,,0,normal,False,"L116, L154, L204, L240, L269, L402, L520, L521, L522, L523, L605, L769, L770",2011
+G*,G*,,1,normal,True,,2011
+G1,G1,,1,normal,False,"M285, M342",2011
+G1*,G1*,,2,normal,True,,2011
+G1a,G1a,,2,normal,False,"P20_1, P20_2, P20_3",2011
+G1a*,G1a*,,3,normal,True,*,2011
+G1a1,G1a1,,3,normal,False,"L201, L202, L203",2011
+G1b,G1b,,2,normal,False,P76,2011
+G1c,G1c,,2,normal,False,"L830, L831, L832, L834, L835",2011
+G2,G2,,1,normal,False,"L79, L142.2, L156, P287",2011
+G2*,G2*,,2,normal,True,,2011
+G2a,G2a,,2,normal,False,"L31, L149.1, P15, U5",2011
+G2a*,G2a*,,3,normal,True,,2011
+G2a1,G2a1,,3,normal,False,"P16_1, P16_2",2011
+G2a1*,G2a1*,,4,normal,True,,2011
+G2a1a,G2a1a,,4,normal,False,"P18_1, P18_2, P18_3",2011
+G2a2,G2a2,,3,normal,False,M286,2011
+G2a3,G2a3,,3,normal,False,"L30, L32, L190",2011
+G2a3*,G2a3*,,4,normal,True,,2011
+G2a3a,G2a3a,,4,normal,False,M406,2011
+G2a3a*,G2a3a*,,5,normal,True,,2011
+G2a3a1,G2a3a1,,5,normal,False,"L14, L90, Page19, ",2011
+G2a3a2,G2a3a2,,5,new,False,L645,2011
+G2a3b,G2a3b,,4,normal,False,"L141, .1",2011
+G2a3b*,G2a3b*,,5,normal,True,,2011
+G2a3b1,G2a3b1,,5,normal,False,"P303, Page108, ",2011
+G2a3b1*,G2a3b1*,,6,normal,True,,2011
+G2a3b1a,G2a3b1a,,6,normal,False,L140,2011
+G2a3b1a*,G2a3b1a*,,7,normal,True,,2011
+G2a3b1a1,G2a3b1a1,,7,normal,False,U1,2011
+G2a3b1a1*,G2a3b1a1*,,8,normal,True,,2011
+G2a3b1a1a,G2a3b1a1a,,8,normal,False,"L13, L78",2011
+G2a3b1a2,G2a3b1a2,,7,renamed,False,L497,2011
+G2a3b1a2*,G2a3b1a2*,,8,renamed,True,,2011
+G2a3b1a2a,G2a3b1a2a,,8,renamed,False,L43,2011
+G2a3b1a2a*,G2a3b1a2a*,,9,new,True,,2011
+G2a3b1a2a1,G2a3b1a2a1,,9,new,False,L42,2011
+G2a3b1a3,G2a3b1a3,,7,new,False,L640,2011
+G2a3b1a4,G2a3b1a4,,7,new,False,"L660, L662",2011
+G2a3b1b,G2a3b1b,,6,new,False,L694,2011
+G2a3b2,G2a3b2,,5,normal,False,"L177_1, L177_2, L177_3",2011
+G2a4,G2a4,,3,normal,False,L91,2011
+G2a5,G2a5,,3,new,False,L293,2011
+G2b,G2b,,2,normal,False,M287,2011
+G2c,G2c,,2,normal,False,"L72, L183, M377",2011
+G2c*,G2c*,,3,normal,True,,2011
+G2c1,G2c1,,3,normal,False,M283,2011
+I,I,,0,normal,False,"L41, M170, M258, P19_1, P19_2, P19_3, P19_4, P19_5, P38, P212, U179",2011
+I*,I*,,1,normal,True,- (unobserved),2011
+I1,I1,,1,normal,False,"L64, L75, L80, L81, L118, L121, L123, L124, L125, L157, .1, L186, L187, M253",2011
+I1*,I1*,,2,normal,True,,2011
+I1a,I1a,,2,normal,False,M21,2011
+I1b,I1b,,2,normal,False,M227,2011
+I1b*,I1b*,,3,normal,True,,2011
+I1b1,I1b1,,3,normal,False,M72,2011
+I1c,I1c,,2,normal,False,"M507, P259",2011
+I1d,I1d,,2,normal,False,L22,2011
+I1d*,I1d*,,3,normal,True,,2011
+I1d1,I1d1,,3,normal,False,P109,2011
+I1d2,I1d2,,3,new,False,L205,2011
+I1d3,I1d3,,3,new,False,L287,2011
+I1d3*,I1d3*,,4,new,True,,2011
+I1d3a,I1d3a,,4,new,False,"L258, I1d4 - indent 3",2011
+I1d4,I1d4,,7,new,False,L300,2011
+I1e,I1e,,2,renamed,False,L211,2011
+I1f,I1f,,2,new,False,Z58,2011
+I1f*,I1f*,,3,new,True,,2011
+I1f1,I1f1,,3,new,False,L338,2011
+I1f2,I1f2,,3,new,False,Z139,2011
+I1g,I1g,,2,new,False,Z63,2011
+I2,I2,,1,normal,False,"L68, M438",2011
+I2*,I2*,,2,normal,True,,2011
+I2a,I2a,,2,renamed,False,L460,2011
+I2a*,I2a*,,3,renamed,True,,2011
+I2a1,I2a1,,3,renamed,False,P37.2,2011
+I2a1*,I2a1*,,4,renamed,True,,2011
+I2a1a,I2a1a,,4,renamed,False,"L158, L159, .1, S169.1, M26",2011
+I2a1a*,I2a1a*,,5,renamed,True,,2011
+I2a1a1,I2a1a1,,5,renamed,False,L160,2011
+I2a1a1*,I2a1a1*,,6,new,True,,2011
+I2a1a1a,I2a1a1a,,6,new,False,M161,2011
+I2a1b,I2a1b,,4,new,False,"L178, M423",2011
+I2a1b*,I2a1b*,,5,new,True,,2011
+I2a1b1,I2a1b1,,5,new,False,M359.2,2011
+I2a1b2,I2a1b2,,5,new,False,"L161, .1",2011
+I2a1c,I2a1c,,4,new,False,L233,2011
+I2a2,I2a2,,3,renamed,False,"L35, S150, L37, S153, L181, M436, P216, P217, P218",2011
+I2a2*,I2a2*,,4,renamed,True,,2011
+I2a2a,I2a2a,,4,renamed,False,"L34, S151, L36, S152, L59, L368, L622, M223, P219, P220, P221",2011
+I2a2a*,I2a2a*,,5,renamed,True,,2011
+I2a2a1,I2a2a1,,5,renamed,False,M284,2011
+I2a2a1*,I2a2a1*,,6,new,True,,2011
+I2a2a1a,I2a2a1a,,6,new,False,"L126, L137",2011
+I2a2a1a*,I2a2a1a*,,7,new,True,,2011
+I2a2a1a1,I2a2a1a1,,7,new,False,L369,2011
+I2a2a2,I2a2a2,,5,new,False,M379,2011
+I2a2a3,I2a2a3,,5,new,False,P78,2011
+I2a2a4,I2a2a4,,5,new,False,P95,2011
+I2a2b,I2a2b,,4,renamed,False,"L38, L39, L40, L65.1, L272.3",2011
+I2b,I2b,,2,renamed,False,"L415, L416, L417",2011
+I2c,I2c,,2,new,False,"L596, L597",2011
+M,M,,0,normal,False,"P256, Page93",2011
+M*,M*,,1,normal,True,,2011
+M1,M1,,1,normal,False,"M4, M5, M106, M186, M189, M296, P35_1, P35_2, P35_3, Page1",2011
+M1*,M1*,,2,normal,True,,2011
+M1a,M1a,,2,normal,False,"P34_1, P34_2, P34_3, P34_4, P34_5",2011
+M1a*,M1a*,,3,normal,True,,2011
+M1a1,M1a1,,3,normal,False,P51,2011
+M1a2,M1a2,,3,normal,False,P94,2011
+M1b,M1b,,2,normal,False,P87,2011
+M1b*,M1b*,,3,normal,True,,2011
+M1b1,M1b1,,3,normal,False,"M104_1, Page67",2011
+M1b1*,M1b1*,,4,normal,True,,2011
+M1b1a,M1b1a,,4,normal,False,M16,2011
+M1b1b,M1b1b,,4,normal,False,M83,2011
+M2,M2,,1,normal,False,"M353, M387",2011
+M2*,M2*,,2,normal,True,,2011
+M2a,M2a,,2,normal,False,M177,2011
+M3,M3,,1,normal,False,"P117, P118",2011
+O,O,,0,normal,False,"M175, P186, P191, P196",2011
+O*,O*,,1,normal,True,,2011
+O1,O1,,1,normal,False,MSY2.2,2011
+O1*,O1*,,2,normal,True,,2011
+O1a,O1a,,2,normal,False,"M119, Page20",2011
+O1a*,O1a*,,3,normal,True,,2011
+O1a1,O1a1,,3,normal,False,M307.1,2011
+O1a1*,O1a1*,,4,normal,True,,2011
+O1a1a,O1a1a,,4,normal,False,M101,2011
+O1a2,O1a2,,3,normal,False,"M50, M103, M110",2011
+O2,O2,,1,normal,False,"L463, L690, P31, M268",2011
+O2*,O2*,,2,normal,True,,2011
+O2a,O2a,,2,renamed,False,PK4,2011
+O2a*,O2a*,,3,renamed,True,,2011
+O2a1,O2a1,,3,renamed,False,M95,2011
+O2a1*,O2a1*,,4,renamed,True,,2011
+O2a1a,O2a1a,,4,renamed,False,"M88, M111",2011
+O2a1b,O2a1b,,4,renamed,False,M297,2011
+O2b,O2b,,2,normal,False,"IMS-JST022454, L272.2, M176, Page63, , M302, P49, Page92",2011
+O2b*,O2b*,,3,normal,True,,2011
+O2b1,O2b1,,3,normal,False,M312,2011
+O2b1*,O2b1*,,4,normal,True,,2011
+O2b1a,O2b1a,,4,normal,False,47z,2011
+O2b1b,O2b1b,,4,new,False,L682,2011
+O3,O3,,1,normal,False,"M122, P198",2011
+O3*,O3*,,2,normal,True,,2011
+O3a,O3a,,2,normal,False,"M324, P93, Page79, P197, P199, P200",2011
+O3a*,O3a*,,3,normal,True,,2011
+O3a1,O3a1,,3,renamed,False,"L127.1, KL1, L465, KL2, L467",2011
+O3a1*,O3a1*,,4,new,True,,2011
+O3a1a,O3a1a,,4,new,False,"M121, DYS257_1",2011
+O3a1b,O3a1b,,4,new,False,M164,2011
+O3a1c,O3a1c,,4,new,False,IMS-JST002611,2011
+O3a1c*,O3a1c*,,5,new,True,,2011
+O3a1c1,O3a1c1,,5,new,False,P103,2011
+O3a2,O3a2,,3,renamed,False,IMS-JST021354,2011
+O3a2*,O3a2*,,4,renamed,True,,2011
+O3a2a,O3a2a,,4,new,False,"M159, Page96",2011
+O3a2b,O3a2b,,4,new,False,M7,2011
+O3a2b*,O3a2b*,,5,new,True,,2011
+O3a2b1,O3a2b1,,5,new,False,"M113, M188, M209",2011
+O3a2b1*,O3a2b1*,,6,new,True,,2011
+O3a2b1a,O3a2b1a,,6,new,False,N4,2011
+O3a2b1b,O3a2b1b,,6,new,False,N5,2011
+O3a2b2,O3a2b2,,5,new,False,P386,2011
+O3a2c,O3a2c,,4,new,False,P164 (See Notes **),2011
+O3a2c*,O3a2c*,,5,new,True,,2011
+O3a2c1,O3a2c1,,5,new,False,M134,2011
+O3a2c1*,O3a2c1*,,6,new,True,,2011
+O3a2c1a,O3a2c1a,,6,new,False,"M117, M133, Page23",2011
+O3a2c1a*,O3a2c1a*,,7,new,True,,2011
+O3a2c1a1,O3a2c1a1,,7,new,False,"M162_1, M162_2",2011
+O3a2c1b,O3a2c1b,,6,new,False,P101,2011
+O3a3,O3a3,,3,renamed,False,M300,2011
+O3a4,O3a4,,3,renamed,False,M333,2011
+Q,Q,,0,normal,False,M242,2011
+Q*,Q*,,1,normal,True,,2011
+Q1,Q1,,1,normal,False,"P36.2, L232, L273, L274",2011
+Q1*,Q1*,,2,normal,True,,2011
+Q1a,Q1a,,2,normal,False,"L472, L474, MEH2",2011
+Q1a*,Q1a*,,3,normal,True,,2011
+Q1a1,Q1a1,,3,normal,False,"M120, M265",2011
+Q1a2,Q1a2,,3,normal,False,"M25, M143",2011
+Q1a3,Q1a3,,3,normal,False,"L56, L57, L528, M346",2011
+Q1a3*,Q1a3*,,4,normal,True,,2011
+Q1a3a,Q1a3a,,4,normal,False,"L53, L54, L55, L213, L331, L475, L476",2011
+Q1a3a*,Q1a3a*,,5,normal,True,,2011
+Q1a3a1,Q1a3a1,,5,normal,False,M3,2011
+Q1a3a1*,Q1a3a1*,,6,normal,True,,2011
+Q1a3a1a,Q1a3a1a,,6,normal,False,M19,2011
+Q1a3a1b,Q1a3a1b,,6,normal,False,M194,2011
+Q1a3a1c,Q1a3a1c,,6,normal,False,"M199, P106, P292",2011
+Q1a3a2,Q1a3a2,,5,new,False,L191,2011
+Q1a3a3,Q1a3a3,,5,new,False,"L330, L334",2011
+Q1a3a3*,Q1a3a3*,,6,new,True,,2011
+Q1a3a3a,Q1a3a3a,,6,new,False,"L329, L332, L333",2011
+Q1a3a4,Q1a3a4,,5,new,False,"L569, L570, L571",2011
+Q1a3b,Q1a3b,,4,normal,False,M323,2011
+Q1a3c,Q1a3c,,4,new,False,"L527, L529",2011
+Q1a4,Q1a4,,3,new,False,P89.1,2011
+Q1b,Q1b,,2,normal,False,"L275, L314",2011
+Q1b*,Q1b*,,3,normal,True,--,2011
+Q1b1,Q1b1,,3,renamed,False,"M378, Page100, L214, L215, Page82",2011
+Q1b1*,Q1b1*,,4,renamed,True,--,2011
+Q1b1a,Q1b1a,,4,renamed,False,L245,2011
+Q1b1a*,Q1b1a*,,5,new,True,--,2011
+Q1b1a1,Q1b1a1,,5,new,False,"L272, .1",2011
+S,S,,0,normal,False,"M230, P202, P204",2011
+S*,S*,,1,normal,True,,2011
+S1,S1,,1,normal,False,M254,2011
+S1*,S1*,,2,normal,True,,2011
+S1a,S1a,,2,normal,False,P57,2011
+S1b,S1b,,2,normal,False,P61,2011
+S1c,S1c,,2,normal,False,P83,2011
+S1d,S1d,,2,normal,False,M226,2011

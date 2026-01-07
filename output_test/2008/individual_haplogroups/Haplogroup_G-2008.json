@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2008",
+    "type": "haplogroup",
+    "major_haplogroup": "G",
+    "root_haplogroup": "G",
+    "root_parent": "F",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 31
+  },
+  "tree": {
+    "G": {
+      "id": "G",
+      "name": "G",
+      "parent_id": "F",
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M201",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P257",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "U2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "U3",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "U6",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "U7",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "U12",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "U17",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "U20",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "U21",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "U27",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "U33",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "U23",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup G is primarily a Middle Eastern, Caucasus Region, and Mediterranean haplogroup that occurs in northwestern Europe in only about 2% of males. The frequency is higher in southern Europe, amounting to approximately 8-10% of the population in Spain, Italy, Greece, and Turkey. Haplogroup G occurs most frequently in the Caucasus region where half of North Ossetian males are in G, as are about 30% of Georgians and Azerbaijanis.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpG08.html",
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-23"
+    },
+    "G*": {
+      "id": "G*",
+      "name": "G*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G1": {
+      "id": "G1",
+      "name": "G1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M285",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M342",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G1*": {
+      "id": "G1*",
+      "name": "G1*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G1a": {
+      "id": "G1a",
+      "name": "G1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P20",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G1b": {
+      "id": "G1b",
+      "name": "G1b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P76",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2": {
+      "id": "G2",
+      "name": "G2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P287",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2*": {
+      "id": "G2*",
+      "name": "G2*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "renamed",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a": {
+      "id": "G2a",
+      "name": "G2a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P15",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "U5   (formerly G2)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a*": {
+      "id": "G2a*",
+      "name": "G2a*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a1": {
+      "id": "G2a1",
+      "name": "G2a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P16   (formerly G2a)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a1*": {
+      "id": "G2a1*",
+      "name": "G2a1*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a1a": {
+      "id": "G2a1a",
+      "name": "G2a1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P18   (formerly G2a1)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a2": {
+      "id": "G2a2",
+      "name": "G2a2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M286   (formerly G2b)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3": {
+      "id": "G2a3",
+      "name": "G2a3",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "U8",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S126",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            ""
+          ]
+        },
+        {
+          "name": "L30",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3*": {
+      "id": "G2a3*",
+      "name": "G2a3*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3a": {
+      "id": "G2a3a",
+      "name": "G2a3a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M406",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3a*": {
+      "id": "G2a3a*",
+      "name": "G2a3a*",
+      "parent_id": null,
+      "depth": 5,
+      "status": "renamed",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3a1": {
+      "id": "G2a3a1",
+      "name": "G2a3a1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "U16",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L14",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S130",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S133",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "G2a3b2",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "then G2a3b1)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3b": {
+      "id": "G2a3b",
+      "name": "G2a3b",
+      "parent_id": null,
+      "depth": 4,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P303",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3b*": {
+      "id": "G2a3b*",
+      "name": "G2a3b*",
+      "parent_id": null,
+      "depth": 5,
+      "status": "renamed",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3b1": {
+      "id": "G2a3b1",
+      "name": "G2a3b1",
+      "parent_id": null,
+      "depth": 5,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "U1",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "S135",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "then G2a3a)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3b1*": {
+      "id": "G2a3b1*",
+      "name": "G2a3b1*",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3b1a": {
+      "id": "G2a3b1a",
+      "name": "G2a3b1a",
+      "parent_id": null,
+      "depth": 6,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "U13",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L13",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S131",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "then G2a3a1)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a3b2": {
+      "id": "G2a3b2",
+      "name": "G2a3b2",
+      "parent_id": null,
+      "depth": 5,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "S146",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S147",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a4": {
+      "id": "G2a4",
+      "name": "G2a4",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L32",
+          "status": "confirmed",
+          "is_representative": false
+        },
+        {
+          "name": "S148",
+          "status": "confirmed",
+          "is_representative": false
+        },
+        {
+          "name": "but exact location unknown)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2a5": {
+      "id": "G2a5",
+      "name": "G2a5",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "L31",
+          "status": "confirmed",
+          "is_representative": false
+        },
+        {
+          "name": "S149",
+          "status": "confirmed",
+          "is_representative": false
+        },
+        {
+          "name": "but exact location unknown)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2b": {
+      "id": "G2b",
+      "name": "G2b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M287   (formerly G3)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2c": {
+      "id": "G2c",
+      "name": "G2c",
+      "parent_id": null,
+      "depth": 2,
+      "status": "renamed",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M377   (formerly G5)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2c*": {
+      "id": "G2c*",
+      "name": "G2c*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    },
+    "G2c1": {
+      "id": "G2c1",
+      "name": "G2c1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "new",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M283",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2008",
+      "revision_date": "2008-12-24"
+    }
+  }
+}

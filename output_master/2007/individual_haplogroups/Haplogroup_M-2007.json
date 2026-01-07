@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2007",
+    "type": "haplogroup",
+    "major_haplogroup": "M",
+    "root_haplogroup": "M",
+    "root_parent": "K",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 11
+  },
+  "tree": {
+    "M": {
+      "id": "M",
+      "name": "M",
+      "parent_id": "K",
+      "depth": 5,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M4",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "M296"
+          ]
+        },
+        {
+          "name": "M5",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M106",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M186",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M189",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P35",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup M reaches its known peak in Papua New Guinea, totaling one-third to two-thirds of population.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpM07.html",
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M*": {
+      "id": "M*",
+      "name": "M*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M1": {
+      "id": "M1",
+      "name": "M1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P34",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M1*": {
+      "id": "M1*",
+      "name": "M1*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M1a": {
+      "id": "M1a",
+      "name": "M1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P51",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M2": {
+      "id": "M2",
+      "name": "M2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P87",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M2*": {
+      "id": "M2*",
+      "name": "M2*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M2a": {
+      "id": "M2a",
+      "name": "M2a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M104",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "P22"
+          ]
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M2a*": {
+      "id": "M2a*",
+      "name": "M2a*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M2a1": {
+      "id": "M2a1",
+      "name": "M2a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M16",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    },
+    "M2a2": {
+      "id": "M2a2",
+      "name": "M2a2",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M83",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2007",
+      "revision_date": "2007-10-17"
+    }
+  }
+}

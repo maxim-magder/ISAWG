@@ -1,0 +1,8509 @@
+{
+  "nodes": {
+    "Y": {
+      "name": "Y",
+      "snps": [
+        "Root (Y-Adam)"
+      ],
+      "depth": 0,
+      "parent_id": null,
+      "children": [
+        "A8864",
+        "A8835"
+      ],
+      "order_index": 0,
+      "is_investigational": false
+    },
+    "A8864": {
+      "name": "A8864",
+      "snps": [],
+      "depth": 2,
+      "parent_id": "Y",
+      "children": [],
+      "order_index": 1,
+      "is_investigational": false
+    },
+    "A8835": {
+      "name": "A8835",
+      "snps": [],
+      "depth": 2,
+      "parent_id": "Y",
+      "children": [
+        "A10805",
+        "PR2921"
+      ],
+      "order_index": 2,
+      "is_investigational": false
+    },
+    "A10805": {
+      "name": "A10805",
+      "snps": [],
+      "depth": 3,
+      "parent_id": "A8835",
+      "children": [],
+      "order_index": 3,
+      "is_investigational": false
+    },
+    "PR2921": {
+      "name": "PR2921",
+      "snps": [],
+      "depth": 3,
+      "parent_id": "A8835",
+      "children": [
+        "L1085"
+      ],
+      "order_index": 4,
+      "is_investigational": false
+    },
+    "L1085": {
+      "name": "L1085",
+      "snps": [],
+      "depth": 4,
+      "parent_id": "PR2921",
+      "children": [
+        "P305"
+      ],
+      "order_index": 5,
+      "is_investigational": false
+    },
+    "P305": {
+      "name": "P305",
+      "snps": [],
+      "depth": 5,
+      "parent_id": "L1085",
+      "children": [
+        "P108"
+      ],
+      "order_index": 6,
+      "is_investigational": false
+    },
+    "P108": {
+      "name": "P108",
+      "snps": [],
+      "depth": 6,
+      "parent_id": "P305",
+      "children": [
+        "M91",
+        "CT"
+      ],
+      "order_index": 7,
+      "is_investigational": false
+    },
+    "M91": {
+      "name": "M91",
+      "snps": [],
+      "depth": 7,
+      "parent_id": "P108",
+      "children": [
+        "M60"
+      ],
+      "order_index": 8,
+      "is_investigational": false
+    },
+    "M60": {
+      "name": "M60",
+      "snps": [],
+      "depth": 8,
+      "parent_id": "M91",
+      "children": [],
+      "order_index": 9,
+      "is_investigational": false
+    },
+    "CT": {
+      "name": "CT",
+      "snps": [
+        "M168/PF1416",
+        "CTS109/M8948",
+        "CTS125/M5576",
+        "CTS423/M5583",
+        "CTS543/M5584",
+        "CTS1181/M5595",
+        "CTS1217/M5597",
+        "CTS1254/M5598",
+        "CTS1996/M5651",
+        "CTS2077/M5653",
+        "CTS2711",
+        "CTS3120/M5664",
+        "CTS3431/M5669",
+        "CTS3460/M5670",
+        "CTS3662/M5671",
+        "CTS4364/M5679",
+        "CTS4368/L1028/M5680",
+        "CTS4740/M5684",
+        "CTS5318/M5690",
+        "CTS5532/M5694",
+        "CTS5746/M5697",
+        "CTS6252/M5700",
+        "CTS6327/M5705",
+        "CTS6383/M5707",
+        "CTS6800/M5713",
+        "CTS6890/M5714",
+        "CTS6907/M5715",
+        "CTS7257/M5718",
+        "CTS7295/PF848",
+        "CTS7482/M5720",
+        "CTS7517/M5722",
+        "CTS7741/M5725",
+        "CTS7922/M5727",
+        "CTS7933/M5728",
+        "CTS7936/M5729",
+        "CTS8166/M5735",
+        "CTS8243/M5736",
+        "CTS8542/M5743",
+        "CTS8980/M5748",
+        "CTS9014/M5750",
+        "CTS9458/M5753",
+        "CTS9555/M5757",
+        "CTS9556/M5758",
+        "CTS9722/M5762",
+        "CTS9760/M5763",
+        "CTS9828/M5764",
+        "CTS9948",
+        "CTS10110/M5767",
+        "CTS10362/M5770",
+        "CTS10512/M5772",
+        "CTS10946/M5804",
+        "CTS11358/M5808",
+        "CTS11827/M5816",
+        "CTS11991/M5818",
+        "L957",
+        "L970/PF1065",
+        "L977",
+        "L1462/M5587",
+        "L1480/M5766",
+        "L1492/Y1569",
+        "M294",
+        "M5577/PF1413/V189",
+        "M5578",
+        "M5585/PF1414/V9",
+        "M5588/PF210",
+        "M5589/PF212",
+        "M5590",
+        "M5591/PF223",
+        "M5593",
+        "M5599/PF234",
+        "M5600",
+        "M5601",
+        "M5603/PF1415/V226",
+        "M5605",
+        "M5606",
+        "M5607",
+        "M5608/PF258",
+        "M5609",
+        "M5610",
+        "M5611/PF263",
+        "M5612",
+        "M5613",
+        "M5615",
+        "M5616/PF272",
+        "M5617",
+        "M5619/PF278",
+        "M5621",
+        "M5622",
+        "M5624",
+        "M5625",
+        "M5627",
+        "M5629",
+        "M5630",
+        "M5631/PF292",
+        "M5632",
+        "M5633",
+        "M5636",
+        "M5639",
+        "M5640",
+        "M5642",
+        "M5647",
+        "M5648",
+        "M5649",
+        "M5650",
+        "M5652",
+        "M5655",
+        "M5656",
+        "M5657",
+        "M5661",
+        "M5675/PF719",
+        "M5682",
+        "M5683",
+        "M5686",
+        "M5691/PF779",
+        "M5692",
+        "M5695/PF1417/V41",
+        "M5698/PF796",
+        "M5706/PF815",
+        "M5708",
+        "M5709",
+        "M5711/PF821",
+        "M5712",
+        "M5716/PF840",
+        "M5717/PF844",
+        "M5721/PF1418/V52",
+        "M5723",
+        "M5724",
+        "M5726",
+        "M5730",
+        "M5734/PF1419/V54",
+        "M5737/PF892",
+        "M5738",
+        "M5741",
+        "M5742",
+        "M5745",
+        "M5747",
+        "M5749",
+        "M5751/PF937",
+        "M5754",
+        "M5756/PF951",
+        "M5759",
+        "M5760",
+        "M5765",
+        "M5769",
+        "M5771",
+        "M5775",
+        "M5776/PF1029",
+        "M5777",
+        "M5778/PF1031",
+        "M5780",
+        "M5781/PF1040",
+        "M5782/PF1046",
+        "M5783",
+        "M5785",
+        "M5786/PF1061",
+        "M5788",
+        "M5790",
+        "M5794/PF1092",
+        "M5796/PF1097",
+        "M5798",
+        "M5800/PF1203",
+        "M5801",
+        "M5809/PF1237",
+        "M5811",
+        "M5812",
+        "M5813",
+        "M5814",
+        "M5819",
+        "M5821",
+        "M5822",
+        "M5823",
+        "M5825",
+        "M5826",
+        "PF328",
+        "PF342",
+        "PF629",
+        "PF970",
+        "PF1016",
+        "PF1205",
+        "PF1337",
+        "Y1525",
+        "Y1526",
+        "Y1528",
+        "Y1531",
+        "Y1537",
+        "Y1567",
+        "Y1571",
+        "Y1573",
+        "Y1574",
+        "Y1578",
+        "Y1580",
+        "Z17706",
+        "Z17707",
+        "Z17708",
+        "Z17710",
+        "Z17714",
+        "Z40571",
+        "Z40572"
+      ],
+      "depth": 7,
+      "parent_id": "P108",
+      "children": [
+        "DE",
+        "CF"
+      ],
+      "order_index": 10,
+      "is_investigational": false
+    },
+    "DE": {
+      "name": "DE",
+      "snps": [
+        "M145/P205/PF1444",
+        "CTS101/M5376/PF1447",
+        "CTS1300/M5400/PF1423",
+        "CTS3334/M5459/PF1432",
+        "CTS4285/M5464/PF1433",
+        "CTS9461/M5511/PF1770",
+        "CTS10234/M5518",
+        "CTS10714/M5551/PF1876",
+        "CTS12980/PF1936",
+        "F986/M5402",
+        "F1649",
+        "F1977/IMS-JST008425/M5465/PF1434",
+        "F3170.1/M5528.1/PF1797.1",
+        "F3617/M5568",
+        "FGC2047",
+        "L337/M5387/PF1509",
+        "M1/YAP",
+        "M145/P205/PF1444",
+        "M203/Page36/PF1435",
+        "M5408/PF1425",
+        "M5427/PF1427",
+        "M5526/PF1442",
+        "M5535/PF1810",
+        "M5542/PF1443",
+        "P144/PF1436",
+        "P153",
+        "P165/PF1439",
+        "P167/PF1430",
+        "P183/PF1424",
+        "PF1431",
+        "PF1833"
+      ],
+      "depth": 8,
+      "parent_id": "CT",
+      "children": [],
+      "order_index": 11,
+      "is_investigational": false
+    },
+    "CF": {
+      "name": "CF",
+      "snps": [
+        "P143/PF2587",
+        "CTS3818/M3690/PF2668",
+        "CTS6376/M3711/PF2697"
+      ],
+      "depth": 8,
+      "parent_id": "CT",
+      "children": [
+        "GHIJK",
+        "Name",
+        "M168",
+        "PF1416",
+        "CTS109",
+        "M8948",
+        "CTS125",
+        "M5576",
+        "CTS423",
+        "M5583",
+        "CTS543",
+        "M5584",
+        "CTS1181",
+        "M5595",
+        "CTS1217",
+        "M5597",
+        "CTS1254",
+        "M5598",
+        "CTS1996",
+        "M5651",
+        "CTS2077",
+        "M5653",
+        "CTS2711",
+        "M5661",
+        "CTS3120",
+        "M5664",
+        "CTS3431",
+        "M5669",
+        "CTS3460",
+        "M5670",
+        "CTS3662",
+        "M5671",
+        "CTS4364",
+        "M5679",
+        "CTS4368",
+        "L1028",
+        "M5680",
+        "CTS4740",
+        "M5684",
+        "CTS5318",
+        "M5690",
+        "CTS5532",
+        "M5694",
+        "CTS5746",
+        "M5697",
+        "CTS6252",
+        "M5700",
+        "CTS6327",
+        "M5705",
+        "CTS6383",
+        "M5707",
+        "CTS6800",
+        "M5713",
+        "CTS6890",
+        "M5714",
+        "CTS6907",
+        "M5715",
+        "CTS7257",
+        "M5718",
+        "CTS7295",
+        "PF848",
+        "CTS7482",
+        "M5720",
+        "CTS7517",
+        "M5722",
+        "CTS7741",
+        "M5725",
+        "CTS7922",
+        "M5727",
+        "CTS7933",
+        "M5728",
+        "CTS7936",
+        "M5729",
+        "CTS8166",
+        "M5735",
+        "CTS8243",
+        "M5736",
+        "CTS8542",
+        "M5743",
+        "CTS8980",
+        "M5748",
+        "CTS9014",
+        "M5750",
+        "CTS9458",
+        "M5753",
+        "CTS9555",
+        "M5757",
+        "CTS9556",
+        "M5758",
+        "CTS9722",
+        "M5762",
+        "CTS9760",
+        "M5763",
+        "CTS9828",
+        "M5764",
+        "CTS9948",
+        "CTS10110",
+        "M5767",
+        "CTS10362",
+        "M5770",
+        "CTS10512",
+        "M5772",
+        "CTS10946",
+        "M5804",
+        "CTS11358",
+        "M5808",
+        "CTS11827",
+        "M5816",
+        "CTS11991",
+        "M5818",
+        "L957",
+        "L970",
+        "PF1065",
+        "L977",
+        "L1462",
+        "M5587",
+        "L1480",
+        "M5766",
+        "L1492",
+        "Y1569",
+        "M294",
+        "M5577",
+        "PF1413",
+        "V189",
+        "M5578",
+        "M5585",
+        "PF1414",
+        "V9",
+        "M5588",
+        "PF210",
+        "M5589",
+        "PF212",
+        "M5590",
+        "M5591",
+        "PF223",
+        "M5593",
+        "M5599",
+        "PF234",
+        "M5600",
+        "M5601",
+        "M5603",
+        "PF1415",
+        "V226",
+        "M5605",
+        "M5606",
+        "M5607",
+        "M5608",
+        "PF258",
+        "M5609",
+        "M5610",
+        "M5611",
+        "PF263",
+        "M5612",
+        "M5613",
+        "M5615",
+        "M5616",
+        "PF272",
+        "M5617",
+        "M5619",
+        "PF278",
+        "M5621",
+        "M5622",
+        "M5624",
+        "M5625",
+        "M5627",
+        "M5629",
+        "M5630",
+        "M5631",
+        "PF292",
+        "M5632",
+        "M5633",
+        "M5636",
+        "M5639",
+        "M5640",
+        "M5642",
+        "M5647",
+        "M5648",
+        "M5649",
+        "M5650",
+        "M5652",
+        "M5655",
+        "M5656",
+        "M5657",
+        "M5661",
+        "M5675",
+        "PF719",
+        "M5682",
+        "M5683",
+        "M5686",
+        "M5691",
+        "PF779",
+        "M5692",
+        "M5695",
+        "PF1417",
+        "V41",
+        "M5698",
+        "PF796",
+        "M5706",
+        "PF815",
+        "M5708",
+        "M5709",
+        "M5711",
+        "PF821",
+        "M5712",
+        "M5716",
+        "PF840",
+        "M5717",
+        "PF844",
+        "M5721",
+        "PF1418",
+        "V52",
+        "M5723",
+        "M5724",
+        "M5726",
+        "M5730",
+        "M5734",
+        "PF1419",
+        "V54",
+        "M5737",
+        "PF892",
+        "M5738",
+        "M5741",
+        "M5742",
+        "M5745",
+        "M5747",
+        "M5749",
+        "M5751",
+        "PF937",
+        "M5754",
+        "M5756",
+        "PF951",
+        "M5759",
+        "M5760",
+        "M5765",
+        "M5769",
+        "M5771",
+        "M5775",
+        "M5776",
+        "PF1029",
+        "M5777",
+        "M5778",
+        "PF1031",
+        "M5780",
+        "M5781",
+        "PF1040",
+        "M5782",
+        "PF1046",
+        "M5783",
+        "M5785",
+        "M5786",
+        "PF1061",
+        "M5788",
+        "M5790",
+        "M5794",
+        "PF1092",
+        "M5796",
+        "PF1097",
+        "M5798",
+        "M5800",
+        "PF1203",
+        "M5801",
+        "M5809",
+        "PF1237",
+        "M5811",
+        "M5812",
+        "M5813",
+        "M5814",
+        "M5819",
+        "M5821",
+        "M5822",
+        "M5823",
+        "M5825",
+        "M5826",
+        "PF328",
+        "PF342",
+        "PF629",
+        "PF970",
+        "PF1016",
+        "PF1205",
+        "PF1337",
+        "Y1525",
+        "Y1526",
+        "Y1528",
+        "Y1531",
+        "Y1537",
+        "Y1567",
+        "Y1571",
+        "Y1573",
+        "Y1574",
+        "Y1578",
+        "Y1580",
+        "Z17706",
+        "Z17707",
+        "Z17708",
+        "Z17710",
+        "Z17714",
+        "Z40571",
+        "Z40572",
+        "M145",
+        "P205",
+        "PF1444",
+        "CTS101",
+        "M5376",
+        "PF1447",
+        "CTS1300",
+        "M5400",
+        "PF1423",
+        "CTS3334",
+        "M5459",
+        "PF1432",
+        "CTS4285",
+        "M5464",
+        "PF1433",
+        "CTS9461",
+        "M5511",
+        "PF1770",
+        "CTS10234",
+        "M5518",
+        "CTS10714",
+        "M5551",
+        "PF1876",
+        "CTS12980",
+        "PF1936",
+        "F986",
+        "M5402",
+        "F1649",
+        "F1977",
+        "IMS-JST008425",
+        "M5465",
+        "PF1434",
+        "F3617",
+        "M5568",
+        "FGC2047",
+        "L337",
+        "M5387",
+        "PF1509",
+        "M1",
+        "YAP",
+        "M145",
+        "P205",
+        "PF1444",
+        "M203",
+        "Page36",
+        "PF1435",
+        "M5408",
+        "PF1425",
+        "M5427",
+        "PF1427",
+        "M5526",
+        "PF1442",
+        "M5535",
+        "PF1810",
+        "M5542",
+        "PF1443",
+        "P144",
+        "PF1436",
+        "P153",
+        "P165",
+        "PF1439",
+        "P167",
+        "PF1430",
+        "P183",
+        "PF1424",
+        "PF1431",
+        "PF1833",
+        "P143",
+        "PF2587",
+        "CTS3818",
+        "M3690",
+        "PF2668",
+        "CTS6376",
+        "M3711",
+        "PF2697",
+        "F1329",
+        "M3658",
+        "PF2622",
+        "YSC0001299",
+        "CTS2254",
+        "M3680",
+        "PF2657",
+        "F929",
+        "M578",
+        "PF3494",
+        "S6378",
+        "L15",
+        "M523",
+        "PF3492",
+        "S137",
+        "F3689",
+        "M2682",
+        "PF3495",
+        "Y2571",
+        "L16",
+        "M522",
+        "PF3493",
+        "S138",
+        "M2683",
+        "PF3496",
+        "YSC0001318",
+        "M2684",
+        "PF3497",
+        "YSC0001319",
+        "M2696",
+        "PF3500",
+        "M429",
+        "P125",
+        "PF3535",
+        "CTS1292",
+        "CTS2197",
+        "PF3537",
+        "YSC0001258",
+        "CTS3597",
+        "FGC1581",
+        "Y1885",
+        "CTS5387",
+        "Y1887",
+        "CTS6101",
+        "Y1889",
+        "CTS6349",
+        "FGC1575",
+        "CTS6932",
+        "FGC1565",
+        "CTS7507",
+        "FGC1576",
+        "CTS9240",
+        "V3480",
+        "Y1894",
+        "CTS10200",
+        "CTS10223",
+        "CTS10998",
+        "FGC1562",
+        "F922",
+        "FGC1579",
+        "F1450",
+        "FGC1583",
+        "YSC0001300",
+        "F1460",
+        "F2345",
+        "FGC1577",
+        "F2366",
+        "FGC1584",
+        "F2794",
+        "V3346",
+        "YSC0001311",
+        "F3102",
+        "F3368",
+        "PF3566",
+        "YSC0001317",
+        "F3402",
+        "S2",
+        "F3629",
+        "PF3568",
+        "F4188",
+        "PF3539",
+        "V3028",
+        "F4281",
+        "P123",
+        "PF3554",
+        "FGC1560",
+        "Y1830",
+        "FGC1564",
+        "YSC0000070",
+        "FGC1566",
+        "P126",
+        "FGC1569",
+        "FGC1571",
+        "Y1905",
+        "FGC1573",
+        "L403",
+        "FGC1574",
+        "FGC1578",
+        "Y1943",
+        "FGC1582",
+        "Y1867",
+        "FGC3522",
+        "Y1866",
+        "L748",
+        "PF3546",
+        "YSC0000289",
+        "L775",
+        "PF3542",
+        "YSC0000265",
+        "P124",
+        "PF3553",
+        "P126",
+        "P127",
+        "PF3526",
+        "P129",
+        "PF3536",
+        "P130",
+        "PF3525",
+        "S22",
+        "PF3560",
+        "PF3562",
+        "Z40732",
+        "L298",
+        "P326",
+        "CTS2888",
+        "PF5543",
+        "CTS3648",
+        "CTS4783",
+        "PF5548",
+        "CTS5175",
+        "M2521",
+        "PF5549",
+        "CTS6888",
+        "CTS753",
+        "PF5525",
+        "M2410",
+        "PF5530",
+        "PF5526",
+        "PF5531",
+        "PF5535",
+        "PF5536",
+        "PF5566",
+        "PF5586",
+        "L811",
+        "CTS1381",
+        "CTS1701",
+        "M2450",
+        "PF5541",
+        "CTS7931",
+        "M2573",
+        "PF5555",
+        "CTS8458",
+        "M2577",
+        "PF5558",
+        "CTS9026",
+        "CTS9177",
+        "M2585",
+        "PF5561",
+        "CTS10552",
+        "M2603",
+        "CTS11163",
+        "M2654",
+        "PF5580",
+        "CTS11401",
+        "M2658",
+        "PF5581",
+        "FGC1170",
+        "Y9256",
+        "FGC30186",
+        "Z18597",
+        "F549",
+        "M2335",
+        "S22380",
+        "V4208",
+        "CTS11667",
+        "E295",
+        "M2313",
+        "S11799",
+        "Z4858",
+        "E482",
+        "M2339",
+        "Z4952",
+        "F650",
+        "M2346",
+        "M2308",
+        "V1371",
+        "Z4842",
+        "Z12176",
+        "CTS1320",
+        "M2307",
+        "CTS5127",
+        "M2323",
+        "M214",
+        "Page39",
+        "CTS1636",
+        "M2316",
+        "CTS3544",
+        "M2319",
+        "CTS3873",
+        "CTS4135",
+        "M2321",
+        "CTS5858",
+        "F346",
+        "M2325",
+        "CTS7029",
+        "M2326",
+        "CTS7747",
+        "M2328",
+        "CTS7748",
+        "M2329",
+        "CTS7905",
+        "M2330",
+        "CTS8274",
+        "F447",
+        "M2331",
+        "CTS8891",
+        "CTS9775",
+        "M2334",
+        "CTS11012",
+        "F630",
+        "M2342",
+        "CTS11160",
+        "M2343",
+        "CTS11536",
+        "L838",
+        "M2344",
+        "CTS11572",
+        "CTS11623",
+        "E275",
+        "M2309",
+        "V1408",
+        "Z4843",
+        "E289",
+        "M2311",
+        "E302",
+        "M2315",
+        "Z4866",
+        "E330",
+        "M2318",
+        "S16324",
+        "Z4901",
+        "E475",
+        "M2336",
+        "Z4940",
+        "E477",
+        "F588",
+        "M2338",
+        "Z4944",
+        "E492",
+        "M2341",
+        "Z4965",
+        "E537",
+        "M2345",
+        "S25729",
+        "Z5035",
+        "F7",
+        "M2304",
+        "S8255",
+        "F53",
+        "M2305",
+        "S9681",
+        "F107",
+        "M2310",
+        "S10947",
+        "V1570",
+        "F156",
+        "M2312",
+        "F287",
+        "M2320",
+        "V2864",
+        "F306",
+        "M2322",
+        "S17726",
+        "V3232",
+        "F339",
+        "M2324",
+        "F415",
+        "M2327",
+        "S19886",
+        "F468",
+        "M2332",
+        "S20648",
+        "F658",
+        "M2347",
+        "S25824",
+        "F8170",
+        "FGC13363",
+        "M2340",
+        "Z4953",
+        "P192",
+        "P193",
+        "P194",
+        "Z4896",
+        "Z5020",
+        "Z18603",
+        "CTS707",
+        "M2306"
+      ],
+      "order_index": 12,
+      "is_investigational": false
+    },
+    "GHIJK": {
+      "name": "GHIJK",
+      "snps": [
+        "F1329/M3658/PF2622/YSC0001299",
+        "CTS2254/M3680/PF2657"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [
+        "HIJK"
+      ],
+      "order_index": 13,
+      "is_investigational": false
+    },
+    "HIJK": {
+      "name": "HIJK",
+      "snps": [
+        "F929/M578/PF3494/S6378"
+      ],
+      "depth": 11,
+      "parent_id": "GHIJK",
+      "children": [
+        "IJK"
+      ],
+      "order_index": 14,
+      "is_investigational": false
+    },
+    "IJK": {
+      "name": "IJK",
+      "snps": [
+        "L15/M523/PF3492/S137",
+        "F3689/M2682/PF3495/Y2571",
+        "L16/M522/PF3493/S138",
+        "M2683/PF3496/YSC0001318",
+        "M2684/PF3497/YSC0001319",
+        "M2696/PF3500"
+      ],
+      "depth": 12,
+      "parent_id": "HIJK",
+      "children": [
+        "IJ"
+      ],
+      "order_index": 15,
+      "is_investigational": false
+    },
+    "IJ": {
+      "name": "IJ",
+      "snps": [
+        "M429/P125/PF3535",
+        "CTS1292",
+        "CTS2197/PF3537/YSC0001258",
+        "CTS3597/FGC1581/Y1885",
+        "CTS5387/Y1887",
+        "CTS6101/Y1889",
+        "CTS6349/FGC1575",
+        "CTS6932/FGC1565",
+        "CTS7507/FGC1576",
+        "CTS9240/V3480/Y1894",
+        "CTS10200",
+        "CTS10223",
+        "CTS10998/FGC1562",
+        "F922/FGC1579",
+        "F1450/FGC1583/YSC0001300",
+        "F1460",
+        "F2345/FGC1577",
+        "F2366/FGC1584",
+        "F2794/V3346/YSC0001311",
+        "F3102",
+        "F3368/PF3566/YSC0001317",
+        "F3402/S2",
+        "F3629/PF3568",
+        "F4188/PF3539/V3028",
+        "F4281/P123/PF3554",
+        "FGC1560/Y1830",
+        "FGC1564/YSC0000070",
+        "FGC1566/P126",
+        "FGC1569",
+        "FGC1571/Y1905",
+        "FGC1573/L403",
+        "FGC1574",
+        "FGC1578/Y1943",
+        "FGC1582/Y1867",
+        "FGC3522/Y1866",
+        "L748/PF3546/YSC0000289",
+        "L775/PF3542/YSC0000265",
+        "P124/PF3553",
+        "P126",
+        "P127/PF3526",
+        "P129/PF3536",
+        "P130/PF3525/S22",
+        "PF3560",
+        "PF3562",
+        "Z40732"
+      ],
+      "depth": 13,
+      "parent_id": "IJK",
+      "children": [
+        "M9"
+      ],
+      "order_index": 16,
+      "is_investigational": false
+    },
+    "M9": {
+      "name": "M9",
+      "snps": [],
+      "depth": 14,
+      "parent_id": "IJ",
+      "children": [
+        "M175",
+        "B254",
+        "P256"
+      ],
+      "order_index": 17,
+      "is_investigational": false
+    },
+    "M175": {
+      "name": "M175",
+      "snps": [],
+      "depth": 18,
+      "parent_id": "M9",
+      "children": [],
+      "order_index": 18,
+      "is_investigational": false
+    },
+    "B254": {
+      "name": "B254",
+      "snps": [],
+      "depth": 18,
+      "parent_id": "M9",
+      "children": [],
+      "order_index": 19,
+      "is_investigational": false
+    },
+    "P256": {
+      "name": "P256",
+      "snps": [],
+      "depth": 18,
+      "parent_id": "M9",
+      "children": [
+        "M242"
+      ],
+      "order_index": 20,
+      "is_investigational": false
+    },
+    "M242": {
+      "name": "M242",
+      "snps": [],
+      "depth": 19,
+      "parent_id": "P256",
+      "children": [],
+      "order_index": 21,
+      "is_investigational": false
+    },
+    "Name": {
+      "name": "Name",
+      "snps": [
+        "Haplogroup"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 22,
+      "is_investigational": false
+    },
+    "M168": {
+      "name": "M168",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 23,
+      "is_investigational": false
+    },
+    "PF1416": {
+      "name": "PF1416",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 24,
+      "is_investigational": false
+    },
+    "CTS109": {
+      "name": "CTS109",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 25,
+      "is_investigational": false
+    },
+    "M8948": {
+      "name": "M8948",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 26,
+      "is_investigational": false
+    },
+    "CTS125": {
+      "name": "CTS125",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 27,
+      "is_investigational": false
+    },
+    "M5576": {
+      "name": "M5576",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 28,
+      "is_investigational": false
+    },
+    "CTS423": {
+      "name": "CTS423",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 29,
+      "is_investigational": false
+    },
+    "M5583": {
+      "name": "M5583",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 30,
+      "is_investigational": false
+    },
+    "CTS543": {
+      "name": "CTS543",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 31,
+      "is_investigational": false
+    },
+    "M5584": {
+      "name": "M5584",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 32,
+      "is_investigational": false
+    },
+    "CTS1181": {
+      "name": "CTS1181",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 33,
+      "is_investigational": false
+    },
+    "M5595": {
+      "name": "M5595",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 34,
+      "is_investigational": false
+    },
+    "CTS1217": {
+      "name": "CTS1217",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 35,
+      "is_investigational": false
+    },
+    "M5597": {
+      "name": "M5597",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 36,
+      "is_investigational": false
+    },
+    "CTS1254": {
+      "name": "CTS1254",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 37,
+      "is_investigational": false
+    },
+    "M5598": {
+      "name": "M5598",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 38,
+      "is_investigational": false
+    },
+    "CTS1996": {
+      "name": "CTS1996",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 39,
+      "is_investigational": false
+    },
+    "M5651": {
+      "name": "M5651",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 40,
+      "is_investigational": false
+    },
+    "CTS2077": {
+      "name": "CTS2077",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 41,
+      "is_investigational": false
+    },
+    "M5653": {
+      "name": "M5653",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 42,
+      "is_investigational": false
+    },
+    "CTS2711": {
+      "name": "CTS2711",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 43,
+      "is_investigational": false
+    },
+    "M5661": {
+      "name": "M5661",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 204,
+      "is_investigational": false
+    },
+    "CTS3120": {
+      "name": "CTS3120",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 45,
+      "is_investigational": false
+    },
+    "M5664": {
+      "name": "M5664",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 46,
+      "is_investigational": false
+    },
+    "CTS3431": {
+      "name": "CTS3431",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 47,
+      "is_investigational": false
+    },
+    "M5669": {
+      "name": "M5669",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 48,
+      "is_investigational": false
+    },
+    "CTS3460": {
+      "name": "CTS3460",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 49,
+      "is_investigational": false
+    },
+    "M5670": {
+      "name": "M5670",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 50,
+      "is_investigational": false
+    },
+    "CTS3662": {
+      "name": "CTS3662",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 51,
+      "is_investigational": false
+    },
+    "M5671": {
+      "name": "M5671",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 52,
+      "is_investigational": false
+    },
+    "CTS4364": {
+      "name": "CTS4364",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 53,
+      "is_investigational": false
+    },
+    "M5679": {
+      "name": "M5679",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 54,
+      "is_investigational": false
+    },
+    "CTS4368": {
+      "name": "CTS4368",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 55,
+      "is_investigational": false
+    },
+    "L1028": {
+      "name": "L1028",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 56,
+      "is_investigational": false
+    },
+    "M5680": {
+      "name": "M5680",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 57,
+      "is_investigational": false
+    },
+    "CTS4740": {
+      "name": "CTS4740",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 58,
+      "is_investigational": false
+    },
+    "M5684": {
+      "name": "M5684",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 59,
+      "is_investigational": false
+    },
+    "CTS5318": {
+      "name": "CTS5318",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 60,
+      "is_investigational": false
+    },
+    "M5690": {
+      "name": "M5690",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 61,
+      "is_investigational": false
+    },
+    "CTS5532": {
+      "name": "CTS5532",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 62,
+      "is_investigational": false
+    },
+    "M5694": {
+      "name": "M5694",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 63,
+      "is_investigational": false
+    },
+    "CTS5746": {
+      "name": "CTS5746",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 64,
+      "is_investigational": false
+    },
+    "M5697": {
+      "name": "M5697",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 65,
+      "is_investigational": false
+    },
+    "CTS6252": {
+      "name": "CTS6252",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 66,
+      "is_investigational": false
+    },
+    "M5700": {
+      "name": "M5700",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 67,
+      "is_investigational": false
+    },
+    "CTS6327": {
+      "name": "CTS6327",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 68,
+      "is_investigational": false
+    },
+    "M5705": {
+      "name": "M5705",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 69,
+      "is_investigational": false
+    },
+    "CTS6383": {
+      "name": "CTS6383",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 70,
+      "is_investigational": false
+    },
+    "M5707": {
+      "name": "M5707",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 71,
+      "is_investigational": false
+    },
+    "CTS6800": {
+      "name": "CTS6800",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 72,
+      "is_investigational": false
+    },
+    "M5713": {
+      "name": "M5713",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 73,
+      "is_investigational": false
+    },
+    "CTS6890": {
+      "name": "CTS6890",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 74,
+      "is_investigational": false
+    },
+    "M5714": {
+      "name": "M5714",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 75,
+      "is_investigational": false
+    },
+    "CTS6907": {
+      "name": "CTS6907",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 76,
+      "is_investigational": false
+    },
+    "M5715": {
+      "name": "M5715",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 77,
+      "is_investigational": false
+    },
+    "CTS7257": {
+      "name": "CTS7257",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 78,
+      "is_investigational": false
+    },
+    "M5718": {
+      "name": "M5718",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 79,
+      "is_investigational": false
+    },
+    "CTS7295": {
+      "name": "CTS7295",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 80,
+      "is_investigational": false
+    },
+    "PF848": {
+      "name": "PF848",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 81,
+      "is_investigational": false
+    },
+    "CTS7482": {
+      "name": "CTS7482",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 82,
+      "is_investigational": false
+    },
+    "M5720": {
+      "name": "M5720",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 83,
+      "is_investigational": false
+    },
+    "CTS7517": {
+      "name": "CTS7517",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 84,
+      "is_investigational": false
+    },
+    "M5722": {
+      "name": "M5722",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 85,
+      "is_investigational": false
+    },
+    "CTS7741": {
+      "name": "CTS7741",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 86,
+      "is_investigational": false
+    },
+    "M5725": {
+      "name": "M5725",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 87,
+      "is_investigational": false
+    },
+    "CTS7922": {
+      "name": "CTS7922",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 88,
+      "is_investigational": false
+    },
+    "M5727": {
+      "name": "M5727",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 89,
+      "is_investigational": false
+    },
+    "CTS7933": {
+      "name": "CTS7933",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 90,
+      "is_investigational": false
+    },
+    "M5728": {
+      "name": "M5728",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 91,
+      "is_investigational": false
+    },
+    "CTS7936": {
+      "name": "CTS7936",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 92,
+      "is_investigational": false
+    },
+    "M5729": {
+      "name": "M5729",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 93,
+      "is_investigational": false
+    },
+    "CTS8166": {
+      "name": "CTS8166",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 94,
+      "is_investigational": false
+    },
+    "M5735": {
+      "name": "M5735",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 95,
+      "is_investigational": false
+    },
+    "CTS8243": {
+      "name": "CTS8243",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 96,
+      "is_investigational": false
+    },
+    "M5736": {
+      "name": "M5736",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 97,
+      "is_investigational": false
+    },
+    "CTS8542": {
+      "name": "CTS8542",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 98,
+      "is_investigational": false
+    },
+    "M5743": {
+      "name": "M5743",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 99,
+      "is_investigational": false
+    },
+    "CTS8980": {
+      "name": "CTS8980",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 100,
+      "is_investigational": false
+    },
+    "M5748": {
+      "name": "M5748",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 101,
+      "is_investigational": false
+    },
+    "CTS9014": {
+      "name": "CTS9014",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 102,
+      "is_investigational": false
+    },
+    "M5750": {
+      "name": "M5750",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 103,
+      "is_investigational": false
+    },
+    "CTS9458": {
+      "name": "CTS9458",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 104,
+      "is_investigational": false
+    },
+    "M5753": {
+      "name": "M5753",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 105,
+      "is_investigational": false
+    },
+    "CTS9555": {
+      "name": "CTS9555",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 106,
+      "is_investigational": false
+    },
+    "M5757": {
+      "name": "M5757",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 107,
+      "is_investigational": false
+    },
+    "CTS9556": {
+      "name": "CTS9556",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 108,
+      "is_investigational": false
+    },
+    "M5758": {
+      "name": "M5758",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 109,
+      "is_investigational": false
+    },
+    "CTS9722": {
+      "name": "CTS9722",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 110,
+      "is_investigational": false
+    },
+    "M5762": {
+      "name": "M5762",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 111,
+      "is_investigational": false
+    },
+    "CTS9760": {
+      "name": "CTS9760",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 112,
+      "is_investigational": false
+    },
+    "M5763": {
+      "name": "M5763",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 113,
+      "is_investigational": false
+    },
+    "CTS9828": {
+      "name": "CTS9828",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 114,
+      "is_investigational": false
+    },
+    "M5764": {
+      "name": "M5764",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 115,
+      "is_investigational": false
+    },
+    "CTS9948": {
+      "name": "CTS9948",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 116,
+      "is_investigational": false
+    },
+    "CTS10110": {
+      "name": "CTS10110",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 117,
+      "is_investigational": false
+    },
+    "M5767": {
+      "name": "M5767",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 118,
+      "is_investigational": false
+    },
+    "CTS10362": {
+      "name": "CTS10362",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 119,
+      "is_investigational": false
+    },
+    "M5770": {
+      "name": "M5770",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 120,
+      "is_investigational": false
+    },
+    "CTS10512": {
+      "name": "CTS10512",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 121,
+      "is_investigational": false
+    },
+    "M5772": {
+      "name": "M5772",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 122,
+      "is_investigational": false
+    },
+    "CTS10946": {
+      "name": "CTS10946",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 123,
+      "is_investigational": false
+    },
+    "M5804": {
+      "name": "M5804",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 124,
+      "is_investigational": false
+    },
+    "CTS11358": {
+      "name": "CTS11358",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 125,
+      "is_investigational": false
+    },
+    "M5808": {
+      "name": "M5808",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 126,
+      "is_investigational": false
+    },
+    "CTS11827": {
+      "name": "CTS11827",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 127,
+      "is_investigational": false
+    },
+    "M5816": {
+      "name": "M5816",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 128,
+      "is_investigational": false
+    },
+    "CTS11991": {
+      "name": "CTS11991",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 129,
+      "is_investigational": false
+    },
+    "M5818": {
+      "name": "M5818",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 130,
+      "is_investigational": false
+    },
+    "L957": {
+      "name": "L957",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 131,
+      "is_investigational": false
+    },
+    "L970": {
+      "name": "L970",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 132,
+      "is_investigational": false
+    },
+    "PF1065": {
+      "name": "PF1065",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 133,
+      "is_investigational": false
+    },
+    "L977": {
+      "name": "L977",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 134,
+      "is_investigational": false
+    },
+    "L1462": {
+      "name": "L1462",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 135,
+      "is_investigational": false
+    },
+    "M5587": {
+      "name": "M5587",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 136,
+      "is_investigational": false
+    },
+    "L1480": {
+      "name": "L1480",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 137,
+      "is_investigational": false
+    },
+    "M5766": {
+      "name": "M5766",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 138,
+      "is_investigational": false
+    },
+    "L1492": {
+      "name": "L1492",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 139,
+      "is_investigational": false
+    },
+    "Y1569": {
+      "name": "Y1569",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 140,
+      "is_investigational": false
+    },
+    "M294": {
+      "name": "M294",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 141,
+      "is_investigational": false
+    },
+    "M5577": {
+      "name": "M5577",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 142,
+      "is_investigational": false
+    },
+    "PF1413": {
+      "name": "PF1413",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 143,
+      "is_investigational": false
+    },
+    "V189": {
+      "name": "V189",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 144,
+      "is_investigational": false
+    },
+    "M5578": {
+      "name": "M5578",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 145,
+      "is_investigational": false
+    },
+    "M5585": {
+      "name": "M5585",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 146,
+      "is_investigational": false
+    },
+    "PF1414": {
+      "name": "PF1414",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 147,
+      "is_investigational": false
+    },
+    "V9": {
+      "name": "V9",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 148,
+      "is_investigational": false
+    },
+    "M5588": {
+      "name": "M5588",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 149,
+      "is_investigational": false
+    },
+    "PF210": {
+      "name": "PF210",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 150,
+      "is_investigational": false
+    },
+    "M5589": {
+      "name": "M5589",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 151,
+      "is_investigational": false
+    },
+    "PF212": {
+      "name": "PF212",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 152,
+      "is_investigational": false
+    },
+    "M5590": {
+      "name": "M5590",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 153,
+      "is_investigational": false
+    },
+    "M5591": {
+      "name": "M5591",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 154,
+      "is_investigational": false
+    },
+    "PF223": {
+      "name": "PF223",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 155,
+      "is_investigational": false
+    },
+    "M5593": {
+      "name": "M5593",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 156,
+      "is_investigational": false
+    },
+    "M5599": {
+      "name": "M5599",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 157,
+      "is_investigational": false
+    },
+    "PF234": {
+      "name": "PF234",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 158,
+      "is_investigational": false
+    },
+    "M5600": {
+      "name": "M5600",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 159,
+      "is_investigational": false
+    },
+    "M5601": {
+      "name": "M5601",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 160,
+      "is_investigational": false
+    },
+    "M5603": {
+      "name": "M5603",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 161,
+      "is_investigational": false
+    },
+    "PF1415": {
+      "name": "PF1415",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 162,
+      "is_investigational": false
+    },
+    "V226": {
+      "name": "V226",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 163,
+      "is_investigational": false
+    },
+    "M5605": {
+      "name": "M5605",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 164,
+      "is_investigational": false
+    },
+    "M5606": {
+      "name": "M5606",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 165,
+      "is_investigational": false
+    },
+    "M5607": {
+      "name": "M5607",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 166,
+      "is_investigational": false
+    },
+    "M5608": {
+      "name": "M5608",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 167,
+      "is_investigational": false
+    },
+    "PF258": {
+      "name": "PF258",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 168,
+      "is_investigational": false
+    },
+    "M5609": {
+      "name": "M5609",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 169,
+      "is_investigational": false
+    },
+    "M5610": {
+      "name": "M5610",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 170,
+      "is_investigational": false
+    },
+    "M5611": {
+      "name": "M5611",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 171,
+      "is_investigational": false
+    },
+    "PF263": {
+      "name": "PF263",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 172,
+      "is_investigational": false
+    },
+    "M5612": {
+      "name": "M5612",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 173,
+      "is_investigational": false
+    },
+    "M5613": {
+      "name": "M5613",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 174,
+      "is_investigational": false
+    },
+    "M5615": {
+      "name": "M5615",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 175,
+      "is_investigational": false
+    },
+    "M5616": {
+      "name": "M5616",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 176,
+      "is_investigational": false
+    },
+    "PF272": {
+      "name": "PF272",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 177,
+      "is_investigational": false
+    },
+    "M5617": {
+      "name": "M5617",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 178,
+      "is_investigational": false
+    },
+    "M5619": {
+      "name": "M5619",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 179,
+      "is_investigational": false
+    },
+    "PF278": {
+      "name": "PF278",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 180,
+      "is_investigational": false
+    },
+    "M5621": {
+      "name": "M5621",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 181,
+      "is_investigational": false
+    },
+    "M5622": {
+      "name": "M5622",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 182,
+      "is_investigational": false
+    },
+    "M5624": {
+      "name": "M5624",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 183,
+      "is_investigational": false
+    },
+    "M5625": {
+      "name": "M5625",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 184,
+      "is_investigational": false
+    },
+    "M5627": {
+      "name": "M5627",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 185,
+      "is_investigational": false
+    },
+    "M5629": {
+      "name": "M5629",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 186,
+      "is_investigational": false
+    },
+    "M5630": {
+      "name": "M5630",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 187,
+      "is_investigational": false
+    },
+    "M5631": {
+      "name": "M5631",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 188,
+      "is_investigational": false
+    },
+    "PF292": {
+      "name": "PF292",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 189,
+      "is_investigational": false
+    },
+    "M5632": {
+      "name": "M5632",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 190,
+      "is_investigational": false
+    },
+    "M5633": {
+      "name": "M5633",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 191,
+      "is_investigational": false
+    },
+    "M5636": {
+      "name": "M5636",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 192,
+      "is_investigational": false
+    },
+    "M5639": {
+      "name": "M5639",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 193,
+      "is_investigational": false
+    },
+    "M5640": {
+      "name": "M5640",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 194,
+      "is_investigational": false
+    },
+    "M5642": {
+      "name": "M5642",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 195,
+      "is_investigational": false
+    },
+    "M5647": {
+      "name": "M5647",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 196,
+      "is_investigational": false
+    },
+    "M5648": {
+      "name": "M5648",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 197,
+      "is_investigational": false
+    },
+    "M5649": {
+      "name": "M5649",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 198,
+      "is_investigational": false
+    },
+    "M5650": {
+      "name": "M5650",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 199,
+      "is_investigational": false
+    },
+    "M5652": {
+      "name": "M5652",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 200,
+      "is_investigational": false
+    },
+    "M5655": {
+      "name": "M5655",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 201,
+      "is_investigational": false
+    },
+    "M5656": {
+      "name": "M5656",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 202,
+      "is_investigational": false
+    },
+    "M5657": {
+      "name": "M5657",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 203,
+      "is_investigational": false
+    },
+    "M5675": {
+      "name": "M5675",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 205,
+      "is_investigational": false
+    },
+    "PF719": {
+      "name": "PF719",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 206,
+      "is_investigational": false
+    },
+    "M5682": {
+      "name": "M5682",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 207,
+      "is_investigational": false
+    },
+    "M5683": {
+      "name": "M5683",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 208,
+      "is_investigational": false
+    },
+    "M5686": {
+      "name": "M5686",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 209,
+      "is_investigational": false
+    },
+    "M5691": {
+      "name": "M5691",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 210,
+      "is_investigational": false
+    },
+    "PF779": {
+      "name": "PF779",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 211,
+      "is_investigational": false
+    },
+    "M5692": {
+      "name": "M5692",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 212,
+      "is_investigational": false
+    },
+    "M5695": {
+      "name": "M5695",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 213,
+      "is_investigational": false
+    },
+    "PF1417": {
+      "name": "PF1417",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 214,
+      "is_investigational": false
+    },
+    "V41": {
+      "name": "V41",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 215,
+      "is_investigational": false
+    },
+    "M5698": {
+      "name": "M5698",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 216,
+      "is_investigational": false
+    },
+    "PF796": {
+      "name": "PF796",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 217,
+      "is_investigational": false
+    },
+    "M5706": {
+      "name": "M5706",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 218,
+      "is_investigational": false
+    },
+    "PF815": {
+      "name": "PF815",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 219,
+      "is_investigational": false
+    },
+    "M5708": {
+      "name": "M5708",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 220,
+      "is_investigational": false
+    },
+    "M5709": {
+      "name": "M5709",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 221,
+      "is_investigational": false
+    },
+    "M5711": {
+      "name": "M5711",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 222,
+      "is_investigational": false
+    },
+    "PF821": {
+      "name": "PF821",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 223,
+      "is_investigational": false
+    },
+    "M5712": {
+      "name": "M5712",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 224,
+      "is_investigational": false
+    },
+    "M5716": {
+      "name": "M5716",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 225,
+      "is_investigational": false
+    },
+    "PF840": {
+      "name": "PF840",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 226,
+      "is_investigational": false
+    },
+    "M5717": {
+      "name": "M5717",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 227,
+      "is_investigational": false
+    },
+    "PF844": {
+      "name": "PF844",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 228,
+      "is_investigational": false
+    },
+    "M5721": {
+      "name": "M5721",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 229,
+      "is_investigational": false
+    },
+    "PF1418": {
+      "name": "PF1418",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 230,
+      "is_investigational": false
+    },
+    "V52": {
+      "name": "V52",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 231,
+      "is_investigational": false
+    },
+    "M5723": {
+      "name": "M5723",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 232,
+      "is_investigational": false
+    },
+    "M5724": {
+      "name": "M5724",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 233,
+      "is_investigational": false
+    },
+    "M5726": {
+      "name": "M5726",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 234,
+      "is_investigational": false
+    },
+    "M5730": {
+      "name": "M5730",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 235,
+      "is_investigational": false
+    },
+    "M5734": {
+      "name": "M5734",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 236,
+      "is_investigational": false
+    },
+    "PF1419": {
+      "name": "PF1419",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 237,
+      "is_investigational": false
+    },
+    "V54": {
+      "name": "V54",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 238,
+      "is_investigational": false
+    },
+    "M5737": {
+      "name": "M5737",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 239,
+      "is_investigational": false
+    },
+    "PF892": {
+      "name": "PF892",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 240,
+      "is_investigational": false
+    },
+    "M5738": {
+      "name": "M5738",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 241,
+      "is_investigational": false
+    },
+    "M5741": {
+      "name": "M5741",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 242,
+      "is_investigational": false
+    },
+    "M5742": {
+      "name": "M5742",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 243,
+      "is_investigational": false
+    },
+    "M5745": {
+      "name": "M5745",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 244,
+      "is_investigational": false
+    },
+    "M5747": {
+      "name": "M5747",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 245,
+      "is_investigational": false
+    },
+    "M5749": {
+      "name": "M5749",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 246,
+      "is_investigational": false
+    },
+    "M5751": {
+      "name": "M5751",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 247,
+      "is_investigational": false
+    },
+    "PF937": {
+      "name": "PF937",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 248,
+      "is_investigational": false
+    },
+    "M5754": {
+      "name": "M5754",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 249,
+      "is_investigational": false
+    },
+    "M5756": {
+      "name": "M5756",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 250,
+      "is_investigational": false
+    },
+    "PF951": {
+      "name": "PF951",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 251,
+      "is_investigational": false
+    },
+    "M5759": {
+      "name": "M5759",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 252,
+      "is_investigational": false
+    },
+    "M5760": {
+      "name": "M5760",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 253,
+      "is_investigational": false
+    },
+    "M5765": {
+      "name": "M5765",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 254,
+      "is_investigational": false
+    },
+    "M5769": {
+      "name": "M5769",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 255,
+      "is_investigational": false
+    },
+    "M5771": {
+      "name": "M5771",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 256,
+      "is_investigational": false
+    },
+    "M5775": {
+      "name": "M5775",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 257,
+      "is_investigational": false
+    },
+    "M5776": {
+      "name": "M5776",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 258,
+      "is_investigational": false
+    },
+    "PF1029": {
+      "name": "PF1029",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 259,
+      "is_investigational": false
+    },
+    "M5777": {
+      "name": "M5777",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 260,
+      "is_investigational": false
+    },
+    "M5778": {
+      "name": "M5778",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 261,
+      "is_investigational": false
+    },
+    "PF1031": {
+      "name": "PF1031",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 262,
+      "is_investigational": false
+    },
+    "M5780": {
+      "name": "M5780",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 263,
+      "is_investigational": false
+    },
+    "M5781": {
+      "name": "M5781",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 264,
+      "is_investigational": false
+    },
+    "PF1040": {
+      "name": "PF1040",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 265,
+      "is_investigational": false
+    },
+    "M5782": {
+      "name": "M5782",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 266,
+      "is_investigational": false
+    },
+    "PF1046": {
+      "name": "PF1046",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 267,
+      "is_investigational": false
+    },
+    "M5783": {
+      "name": "M5783",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 268,
+      "is_investigational": false
+    },
+    "M5785": {
+      "name": "M5785",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 269,
+      "is_investigational": false
+    },
+    "M5786": {
+      "name": "M5786",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 270,
+      "is_investigational": false
+    },
+    "PF1061": {
+      "name": "PF1061",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 271,
+      "is_investigational": false
+    },
+    "M5788": {
+      "name": "M5788",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 272,
+      "is_investigational": false
+    },
+    "M5790": {
+      "name": "M5790",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 273,
+      "is_investigational": false
+    },
+    "M5794": {
+      "name": "M5794",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 274,
+      "is_investigational": false
+    },
+    "PF1092": {
+      "name": "PF1092",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 275,
+      "is_investigational": false
+    },
+    "M5796": {
+      "name": "M5796",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 276,
+      "is_investigational": false
+    },
+    "PF1097": {
+      "name": "PF1097",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 277,
+      "is_investigational": false
+    },
+    "M5798": {
+      "name": "M5798",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 278,
+      "is_investigational": false
+    },
+    "M5800": {
+      "name": "M5800",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 279,
+      "is_investigational": false
+    },
+    "PF1203": {
+      "name": "PF1203",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 280,
+      "is_investigational": false
+    },
+    "M5801": {
+      "name": "M5801",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 281,
+      "is_investigational": false
+    },
+    "M5809": {
+      "name": "M5809",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 282,
+      "is_investigational": false
+    },
+    "PF1237": {
+      "name": "PF1237",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 283,
+      "is_investigational": false
+    },
+    "M5811": {
+      "name": "M5811",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 284,
+      "is_investigational": false
+    },
+    "M5812": {
+      "name": "M5812",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 285,
+      "is_investigational": false
+    },
+    "M5813": {
+      "name": "M5813",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 286,
+      "is_investigational": false
+    },
+    "M5814": {
+      "name": "M5814",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 287,
+      "is_investigational": false
+    },
+    "M5819": {
+      "name": "M5819",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 288,
+      "is_investigational": false
+    },
+    "M5821": {
+      "name": "M5821",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 289,
+      "is_investigational": false
+    },
+    "M5822": {
+      "name": "M5822",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 290,
+      "is_investigational": false
+    },
+    "M5823": {
+      "name": "M5823",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 291,
+      "is_investigational": false
+    },
+    "M5825": {
+      "name": "M5825",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 292,
+      "is_investigational": false
+    },
+    "M5826": {
+      "name": "M5826",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 293,
+      "is_investigational": false
+    },
+    "PF328": {
+      "name": "PF328",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 294,
+      "is_investigational": false
+    },
+    "PF342": {
+      "name": "PF342",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 295,
+      "is_investigational": false
+    },
+    "PF629": {
+      "name": "PF629",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 296,
+      "is_investigational": false
+    },
+    "PF970": {
+      "name": "PF970",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 297,
+      "is_investigational": false
+    },
+    "PF1016": {
+      "name": "PF1016",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 298,
+      "is_investigational": false
+    },
+    "PF1205": {
+      "name": "PF1205",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 299,
+      "is_investigational": false
+    },
+    "PF1337": {
+      "name": "PF1337",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 300,
+      "is_investigational": false
+    },
+    "Y1525": {
+      "name": "Y1525",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 301,
+      "is_investigational": false
+    },
+    "Y1526": {
+      "name": "Y1526",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 302,
+      "is_investigational": false
+    },
+    "Y1528": {
+      "name": "Y1528",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 303,
+      "is_investigational": false
+    },
+    "Y1531": {
+      "name": "Y1531",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 304,
+      "is_investigational": false
+    },
+    "Y1537": {
+      "name": "Y1537",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 305,
+      "is_investigational": false
+    },
+    "Y1567": {
+      "name": "Y1567",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 306,
+      "is_investigational": false
+    },
+    "Y1571": {
+      "name": "Y1571",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 307,
+      "is_investigational": false
+    },
+    "Y1573": {
+      "name": "Y1573",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 308,
+      "is_investigational": false
+    },
+    "Y1574": {
+      "name": "Y1574",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 309,
+      "is_investigational": false
+    },
+    "Y1578": {
+      "name": "Y1578",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 310,
+      "is_investigational": false
+    },
+    "Y1580": {
+      "name": "Y1580",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 311,
+      "is_investigational": false
+    },
+    "Z17706": {
+      "name": "Z17706",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 312,
+      "is_investigational": false
+    },
+    "Z17707": {
+      "name": "Z17707",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 313,
+      "is_investigational": false
+    },
+    "Z17708": {
+      "name": "Z17708",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 314,
+      "is_investigational": false
+    },
+    "Z17710": {
+      "name": "Z17710",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 315,
+      "is_investigational": false
+    },
+    "Z17714": {
+      "name": "Z17714",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 316,
+      "is_investigational": false
+    },
+    "Z40571": {
+      "name": "Z40571",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 317,
+      "is_investigational": false
+    },
+    "Z40572": {
+      "name": "Z40572",
+      "snps": [
+        "=H43"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 318,
+      "is_investigational": false
+    },
+    "M145": {
+      "name": "M145",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 359,
+      "is_investigational": false
+    },
+    "P205": {
+      "name": "P205",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 360,
+      "is_investigational": false
+    },
+    "PF1444": {
+      "name": "PF1444",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 361,
+      "is_investigational": false
+    },
+    "CTS101": {
+      "name": "CTS101",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 322,
+      "is_investigational": false
+    },
+    "M5376": {
+      "name": "M5376",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 323,
+      "is_investigational": false
+    },
+    "PF1447": {
+      "name": "PF1447",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 324,
+      "is_investigational": false
+    },
+    "CTS1300": {
+      "name": "CTS1300",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 325,
+      "is_investigational": false
+    },
+    "M5400": {
+      "name": "M5400",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 326,
+      "is_investigational": false
+    },
+    "PF1423": {
+      "name": "PF1423",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 327,
+      "is_investigational": false
+    },
+    "CTS3334": {
+      "name": "CTS3334",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 328,
+      "is_investigational": false
+    },
+    "M5459": {
+      "name": "M5459",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 329,
+      "is_investigational": false
+    },
+    "PF1432": {
+      "name": "PF1432",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 330,
+      "is_investigational": false
+    },
+    "CTS4285": {
+      "name": "CTS4285",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 331,
+      "is_investigational": false
+    },
+    "M5464": {
+      "name": "M5464",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 332,
+      "is_investigational": false
+    },
+    "PF1433": {
+      "name": "PF1433",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 333,
+      "is_investigational": false
+    },
+    "CTS9461": {
+      "name": "CTS9461",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 334,
+      "is_investigational": false
+    },
+    "M5511": {
+      "name": "M5511",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 335,
+      "is_investigational": false
+    },
+    "PF1770": {
+      "name": "PF1770",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 336,
+      "is_investigational": false
+    },
+    "CTS10234": {
+      "name": "CTS10234",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 337,
+      "is_investigational": false
+    },
+    "M5518": {
+      "name": "M5518",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 338,
+      "is_investigational": false
+    },
+    "CTS10714": {
+      "name": "CTS10714",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 339,
+      "is_investigational": false
+    },
+    "M5551": {
+      "name": "M5551",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 340,
+      "is_investigational": false
+    },
+    "PF1876": {
+      "name": "PF1876",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 341,
+      "is_investigational": false
+    },
+    "CTS12980": {
+      "name": "CTS12980",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 342,
+      "is_investigational": false
+    },
+    "PF1936": {
+      "name": "PF1936",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 343,
+      "is_investigational": false
+    },
+    "F986": {
+      "name": "F986",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 344,
+      "is_investigational": false
+    },
+    "M5402": {
+      "name": "M5402",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 345,
+      "is_investigational": false
+    },
+    "F1649": {
+      "name": "F1649",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 346,
+      "is_investigational": false
+    },
+    "F1977": {
+      "name": "F1977",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 347,
+      "is_investigational": false
+    },
+    "IMS-JST008425": {
+      "name": "IMS-JST008425",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 348,
+      "is_investigational": false
+    },
+    "M5465": {
+      "name": "M5465",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 349,
+      "is_investigational": false
+    },
+    "PF1434": {
+      "name": "PF1434",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 350,
+      "is_investigational": false
+    },
+    "F3617": {
+      "name": "F3617",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 351,
+      "is_investigational": false
+    },
+    "M5568": {
+      "name": "M5568",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 352,
+      "is_investigational": false
+    },
+    "FGC2047": {
+      "name": "FGC2047",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 353,
+      "is_investigational": false
+    },
+    "L337": {
+      "name": "L337",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 354,
+      "is_investigational": false
+    },
+    "M5387": {
+      "name": "M5387",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 355,
+      "is_investigational": false
+    },
+    "PF1509": {
+      "name": "PF1509",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 356,
+      "is_investigational": false
+    },
+    "M1": {
+      "name": "M1",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 357,
+      "is_investigational": false
+    },
+    "YAP": {
+      "name": "YAP",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 358,
+      "is_investigational": false
+    },
+    "M203": {
+      "name": "M203",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 362,
+      "is_investigational": false
+    },
+    "Page36": {
+      "name": "Page36",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 363,
+      "is_investigational": false
+    },
+    "PF1435": {
+      "name": "PF1435",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 364,
+      "is_investigational": false
+    },
+    "M5408": {
+      "name": "M5408",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 365,
+      "is_investigational": false
+    },
+    "PF1425": {
+      "name": "PF1425",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 366,
+      "is_investigational": false
+    },
+    "M5427": {
+      "name": "M5427",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 367,
+      "is_investigational": false
+    },
+    "PF1427": {
+      "name": "PF1427",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 368,
+      "is_investigational": false
+    },
+    "M5526": {
+      "name": "M5526",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 369,
+      "is_investigational": false
+    },
+    "PF1442": {
+      "name": "PF1442",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 370,
+      "is_investigational": false
+    },
+    "M5535": {
+      "name": "M5535",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 371,
+      "is_investigational": false
+    },
+    "PF1810": {
+      "name": "PF1810",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 372,
+      "is_investigational": false
+    },
+    "M5542": {
+      "name": "M5542",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 373,
+      "is_investigational": false
+    },
+    "PF1443": {
+      "name": "PF1443",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 374,
+      "is_investigational": false
+    },
+    "P144": {
+      "name": "P144",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 375,
+      "is_investigational": false
+    },
+    "PF1436": {
+      "name": "PF1436",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 376,
+      "is_investigational": false
+    },
+    "P153": {
+      "name": "P153",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 377,
+      "is_investigational": false
+    },
+    "P165": {
+      "name": "P165",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 378,
+      "is_investigational": false
+    },
+    "PF1439": {
+      "name": "PF1439",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 379,
+      "is_investigational": false
+    },
+    "P167": {
+      "name": "P167",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 380,
+      "is_investigational": false
+    },
+    "PF1430": {
+      "name": "PF1430",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 381,
+      "is_investigational": false
+    },
+    "P183": {
+      "name": "P183",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 382,
+      "is_investigational": false
+    },
+    "PF1424": {
+      "name": "PF1424",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 383,
+      "is_investigational": false
+    },
+    "PF1431": {
+      "name": "PF1431",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 384,
+      "is_investigational": false
+    },
+    "PF1833": {
+      "name": "PF1833",
+      "snps": [
+        "=I44"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 385,
+      "is_investigational": false
+    },
+    "P143": {
+      "name": "P143",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 386,
+      "is_investigational": false
+    },
+    "PF2587": {
+      "name": "PF2587",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 387,
+      "is_investigational": false
+    },
+    "CTS3818": {
+      "name": "CTS3818",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 388,
+      "is_investigational": false
+    },
+    "M3690": {
+      "name": "M3690",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 389,
+      "is_investigational": false
+    },
+    "PF2668": {
+      "name": "PF2668",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 390,
+      "is_investigational": false
+    },
+    "CTS6376": {
+      "name": "CTS6376",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 391,
+      "is_investigational": false
+    },
+    "M3711": {
+      "name": "M3711",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 392,
+      "is_investigational": false
+    },
+    "PF2697": {
+      "name": "PF2697",
+      "snps": [
+        "=I47"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 393,
+      "is_investigational": false
+    },
+    "F1329": {
+      "name": "F1329",
+      "snps": [
+        "=K50"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 394,
+      "is_investigational": false
+    },
+    "M3658": {
+      "name": "M3658",
+      "snps": [
+        "=K50"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 395,
+      "is_investigational": false
+    },
+    "PF2622": {
+      "name": "PF2622",
+      "snps": [
+        "=K50"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 396,
+      "is_investigational": false
+    },
+    "YSC0001299": {
+      "name": "YSC0001299",
+      "snps": [
+        "=K50"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 397,
+      "is_investigational": false
+    },
+    "CTS2254": {
+      "name": "CTS2254",
+      "snps": [
+        "=K50"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 398,
+      "is_investigational": false
+    },
+    "M3680": {
+      "name": "M3680",
+      "snps": [
+        "=K50"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 399,
+      "is_investigational": false
+    },
+    "PF2657": {
+      "name": "PF2657",
+      "snps": [
+        "=K50"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 400,
+      "is_investigational": false
+    },
+    "F929": {
+      "name": "F929",
+      "snps": [
+        "=L52"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 401,
+      "is_investigational": false
+    },
+    "M578": {
+      "name": "M578",
+      "snps": [
+        "=L52"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 402,
+      "is_investigational": false
+    },
+    "PF3494": {
+      "name": "PF3494",
+      "snps": [
+        "=L52"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 403,
+      "is_investigational": false
+    },
+    "S6378": {
+      "name": "S6378",
+      "snps": [
+        "=L52"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 404,
+      "is_investigational": false
+    },
+    "L15": {
+      "name": "L15",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 405,
+      "is_investigational": false
+    },
+    "M523": {
+      "name": "M523",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 406,
+      "is_investigational": false
+    },
+    "PF3492": {
+      "name": "PF3492",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 407,
+      "is_investigational": false
+    },
+    "S137": {
+      "name": "S137",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 408,
+      "is_investigational": false
+    },
+    "F3689": {
+      "name": "F3689",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 409,
+      "is_investigational": false
+    },
+    "M2682": {
+      "name": "M2682",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 410,
+      "is_investigational": false
+    },
+    "PF3495": {
+      "name": "PF3495",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 411,
+      "is_investigational": false
+    },
+    "Y2571": {
+      "name": "Y2571",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 412,
+      "is_investigational": false
+    },
+    "L16": {
+      "name": "L16",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 413,
+      "is_investigational": false
+    },
+    "M522": {
+      "name": "M522",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 414,
+      "is_investigational": false
+    },
+    "PF3493": {
+      "name": "PF3493",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 415,
+      "is_investigational": false
+    },
+    "S138": {
+      "name": "S138",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 416,
+      "is_investigational": false
+    },
+    "M2683": {
+      "name": "M2683",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 417,
+      "is_investigational": false
+    },
+    "PF3496": {
+      "name": "PF3496",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 418,
+      "is_investigational": false
+    },
+    "YSC0001318": {
+      "name": "YSC0001318",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 419,
+      "is_investigational": false
+    },
+    "M2684": {
+      "name": "M2684",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 420,
+      "is_investigational": false
+    },
+    "PF3497": {
+      "name": "PF3497",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 421,
+      "is_investigational": false
+    },
+    "YSC0001319": {
+      "name": "YSC0001319",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 422,
+      "is_investigational": false
+    },
+    "M2696": {
+      "name": "M2696",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 423,
+      "is_investigational": false
+    },
+    "PF3500": {
+      "name": "PF3500",
+      "snps": [
+        "=M54"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 424,
+      "is_investigational": false
+    },
+    "M429": {
+      "name": "M429",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 425,
+      "is_investigational": false
+    },
+    "P125": {
+      "name": "P125",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 426,
+      "is_investigational": false
+    },
+    "PF3535": {
+      "name": "PF3535",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 427,
+      "is_investigational": false
+    },
+    "CTS1292": {
+      "name": "CTS1292",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 428,
+      "is_investigational": false
+    },
+    "CTS2197": {
+      "name": "CTS2197",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 429,
+      "is_investigational": false
+    },
+    "PF3537": {
+      "name": "PF3537",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 430,
+      "is_investigational": false
+    },
+    "YSC0001258": {
+      "name": "YSC0001258",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 431,
+      "is_investigational": false
+    },
+    "CTS3597": {
+      "name": "CTS3597",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 432,
+      "is_investigational": false
+    },
+    "FGC1581": {
+      "name": "FGC1581",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 433,
+      "is_investigational": false
+    },
+    "Y1885": {
+      "name": "Y1885",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 434,
+      "is_investigational": false
+    },
+    "CTS5387": {
+      "name": "CTS5387",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 435,
+      "is_investigational": false
+    },
+    "Y1887": {
+      "name": "Y1887",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 436,
+      "is_investigational": false
+    },
+    "CTS6101": {
+      "name": "CTS6101",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 437,
+      "is_investigational": false
+    },
+    "Y1889": {
+      "name": "Y1889",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 438,
+      "is_investigational": false
+    },
+    "CTS6349": {
+      "name": "CTS6349",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 439,
+      "is_investigational": false
+    },
+    "FGC1575": {
+      "name": "FGC1575",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 440,
+      "is_investigational": false
+    },
+    "CTS6932": {
+      "name": "CTS6932",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 441,
+      "is_investigational": false
+    },
+    "FGC1565": {
+      "name": "FGC1565",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 442,
+      "is_investigational": false
+    },
+    "CTS7507": {
+      "name": "CTS7507",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 443,
+      "is_investigational": false
+    },
+    "FGC1576": {
+      "name": "FGC1576",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 444,
+      "is_investigational": false
+    },
+    "CTS9240": {
+      "name": "CTS9240",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 445,
+      "is_investigational": false
+    },
+    "V3480": {
+      "name": "V3480",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 446,
+      "is_investigational": false
+    },
+    "Y1894": {
+      "name": "Y1894",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 447,
+      "is_investigational": false
+    },
+    "CTS10200": {
+      "name": "CTS10200",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 448,
+      "is_investigational": false
+    },
+    "CTS10223": {
+      "name": "CTS10223",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 449,
+      "is_investigational": false
+    },
+    "CTS10998": {
+      "name": "CTS10998",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 450,
+      "is_investigational": false
+    },
+    "FGC1562": {
+      "name": "FGC1562",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 451,
+      "is_investigational": false
+    },
+    "F922": {
+      "name": "F922",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 452,
+      "is_investigational": false
+    },
+    "FGC1579": {
+      "name": "FGC1579",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 453,
+      "is_investigational": false
+    },
+    "F1450": {
+      "name": "F1450",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 454,
+      "is_investigational": false
+    },
+    "FGC1583": {
+      "name": "FGC1583",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 455,
+      "is_investigational": false
+    },
+    "YSC0001300": {
+      "name": "YSC0001300",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 456,
+      "is_investigational": false
+    },
+    "F1460": {
+      "name": "F1460",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 457,
+      "is_investigational": false
+    },
+    "F2345": {
+      "name": "F2345",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 458,
+      "is_investigational": false
+    },
+    "FGC1577": {
+      "name": "FGC1577",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 459,
+      "is_investigational": false
+    },
+    "F2366": {
+      "name": "F2366",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 460,
+      "is_investigational": false
+    },
+    "FGC1584": {
+      "name": "FGC1584",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 461,
+      "is_investigational": false
+    },
+    "F2794": {
+      "name": "F2794",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 462,
+      "is_investigational": false
+    },
+    "V3346": {
+      "name": "V3346",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 463,
+      "is_investigational": false
+    },
+    "YSC0001311": {
+      "name": "YSC0001311",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 464,
+      "is_investigational": false
+    },
+    "F3102": {
+      "name": "F3102",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 465,
+      "is_investigational": false
+    },
+    "F3368": {
+      "name": "F3368",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 466,
+      "is_investigational": false
+    },
+    "PF3566": {
+      "name": "PF3566",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 467,
+      "is_investigational": false
+    },
+    "YSC0001317": {
+      "name": "YSC0001317",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 468,
+      "is_investigational": false
+    },
+    "F3402": {
+      "name": "F3402",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 469,
+      "is_investigational": false
+    },
+    "S2": {
+      "name": "S2",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 470,
+      "is_investigational": false
+    },
+    "F3629": {
+      "name": "F3629",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 471,
+      "is_investigational": false
+    },
+    "PF3568": {
+      "name": "PF3568",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 472,
+      "is_investigational": false
+    },
+    "F4188": {
+      "name": "F4188",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 473,
+      "is_investigational": false
+    },
+    "PF3539": {
+      "name": "PF3539",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 474,
+      "is_investigational": false
+    },
+    "V3028": {
+      "name": "V3028",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 475,
+      "is_investigational": false
+    },
+    "F4281": {
+      "name": "F4281",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 476,
+      "is_investigational": false
+    },
+    "P123": {
+      "name": "P123",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 477,
+      "is_investigational": false
+    },
+    "PF3554": {
+      "name": "PF3554",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 478,
+      "is_investigational": false
+    },
+    "FGC1560": {
+      "name": "FGC1560",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 479,
+      "is_investigational": false
+    },
+    "Y1830": {
+      "name": "Y1830",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 480,
+      "is_investigational": false
+    },
+    "FGC1564": {
+      "name": "FGC1564",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 481,
+      "is_investigational": false
+    },
+    "YSC0000070": {
+      "name": "YSC0000070",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 482,
+      "is_investigational": false
+    },
+    "FGC1566": {
+      "name": "FGC1566",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 483,
+      "is_investigational": false
+    },
+    "P126": {
+      "name": "P126",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 505,
+      "is_investigational": false
+    },
+    "FGC1569": {
+      "name": "FGC1569",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 485,
+      "is_investigational": false
+    },
+    "FGC1571": {
+      "name": "FGC1571",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 486,
+      "is_investigational": false
+    },
+    "Y1905": {
+      "name": "Y1905",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 487,
+      "is_investigational": false
+    },
+    "FGC1573": {
+      "name": "FGC1573",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 488,
+      "is_investigational": false
+    },
+    "L403": {
+      "name": "L403",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 489,
+      "is_investigational": false
+    },
+    "FGC1574": {
+      "name": "FGC1574",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 490,
+      "is_investigational": false
+    },
+    "FGC1578": {
+      "name": "FGC1578",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 491,
+      "is_investigational": false
+    },
+    "Y1943": {
+      "name": "Y1943",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 492,
+      "is_investigational": false
+    },
+    "FGC1582": {
+      "name": "FGC1582",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 493,
+      "is_investigational": false
+    },
+    "Y1867": {
+      "name": "Y1867",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 494,
+      "is_investigational": false
+    },
+    "FGC3522": {
+      "name": "FGC3522",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 495,
+      "is_investigational": false
+    },
+    "Y1866": {
+      "name": "Y1866",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 496,
+      "is_investigational": false
+    },
+    "L748": {
+      "name": "L748",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 497,
+      "is_investigational": false
+    },
+    "PF3546": {
+      "name": "PF3546",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 498,
+      "is_investigational": false
+    },
+    "YSC0000289": {
+      "name": "YSC0000289",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 499,
+      "is_investigational": false
+    },
+    "L775": {
+      "name": "L775",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 500,
+      "is_investigational": false
+    },
+    "PF3542": {
+      "name": "PF3542",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 501,
+      "is_investigational": false
+    },
+    "YSC0000265": {
+      "name": "YSC0000265",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 502,
+      "is_investigational": false
+    },
+    "P124": {
+      "name": "P124",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 503,
+      "is_investigational": false
+    },
+    "PF3553": {
+      "name": "PF3553",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 504,
+      "is_investigational": false
+    },
+    "P127": {
+      "name": "P127",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 506,
+      "is_investigational": false
+    },
+    "PF3526": {
+      "name": "PF3526",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 507,
+      "is_investigational": false
+    },
+    "P129": {
+      "name": "P129",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 508,
+      "is_investigational": false
+    },
+    "PF3536": {
+      "name": "PF3536",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 509,
+      "is_investigational": false
+    },
+    "P130": {
+      "name": "P130",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 510,
+      "is_investigational": false
+    },
+    "PF3525": {
+      "name": "PF3525",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 511,
+      "is_investigational": false
+    },
+    "S22": {
+      "name": "S22",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 512,
+      "is_investigational": false
+    },
+    "PF3560": {
+      "name": "PF3560",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 513,
+      "is_investigational": false
+    },
+    "PF3562": {
+      "name": "PF3562",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 514,
+      "is_investigational": false
+    },
+    "Z40732": {
+      "name": "Z40732",
+      "snps": [
+        "=N55"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 515,
+      "is_investigational": false
+    },
+    "L298": {
+      "name": "L298",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 516,
+      "is_investigational": false
+    },
+    "P326": {
+      "name": "P326",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 517,
+      "is_investigational": false
+    },
+    "CTS2888": {
+      "name": "CTS2888",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 518,
+      "is_investigational": false
+    },
+    "PF5543": {
+      "name": "PF5543",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 519,
+      "is_investigational": false
+    },
+    "CTS3648": {
+      "name": "CTS3648",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 520,
+      "is_investigational": false
+    },
+    "CTS4783": {
+      "name": "CTS4783",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 521,
+      "is_investigational": false
+    },
+    "PF5548": {
+      "name": "PF5548",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 522,
+      "is_investigational": false
+    },
+    "CTS5175": {
+      "name": "CTS5175",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 523,
+      "is_investigational": false
+    },
+    "M2521": {
+      "name": "M2521",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 524,
+      "is_investigational": false
+    },
+    "PF5549": {
+      "name": "PF5549",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 525,
+      "is_investigational": false
+    },
+    "CTS6888": {
+      "name": "CTS6888",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 526,
+      "is_investigational": false
+    },
+    "CTS753": {
+      "name": "CTS753",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 527,
+      "is_investigational": false
+    },
+    "PF5525": {
+      "name": "PF5525",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 528,
+      "is_investigational": false
+    },
+    "M2410": {
+      "name": "M2410",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 529,
+      "is_investigational": false
+    },
+    "PF5530": {
+      "name": "PF5530",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 530,
+      "is_investigational": false
+    },
+    "PF5526": {
+      "name": "PF5526",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 531,
+      "is_investigational": false
+    },
+    "PF5531": {
+      "name": "PF5531",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 532,
+      "is_investigational": false
+    },
+    "PF5535": {
+      "name": "PF5535",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 533,
+      "is_investigational": false
+    },
+    "PF5536": {
+      "name": "PF5536",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 534,
+      "is_investigational": false
+    },
+    "PF5566": {
+      "name": "PF5566",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 535,
+      "is_investigational": false
+    },
+    "PF5586": {
+      "name": "PF5586",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 536,
+      "is_investigational": false
+    },
+    "L811": {
+      "name": "L811",
+      "snps": [
+        "=O59"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 537,
+      "is_investigational": false
+    },
+    "CTS1381": {
+      "name": "CTS1381",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 538,
+      "is_investigational": false
+    },
+    "CTS1701": {
+      "name": "CTS1701",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 539,
+      "is_investigational": false
+    },
+    "M2450": {
+      "name": "M2450",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 540,
+      "is_investigational": false
+    },
+    "PF5541": {
+      "name": "PF5541",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 541,
+      "is_investigational": false
+    },
+    "CTS7931": {
+      "name": "CTS7931",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 542,
+      "is_investigational": false
+    },
+    "M2573": {
+      "name": "M2573",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 543,
+      "is_investigational": false
+    },
+    "PF5555": {
+      "name": "PF5555",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 544,
+      "is_investigational": false
+    },
+    "CTS8458": {
+      "name": "CTS8458",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 545,
+      "is_investigational": false
+    },
+    "M2577": {
+      "name": "M2577",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 546,
+      "is_investigational": false
+    },
+    "PF5558": {
+      "name": "PF5558",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 547,
+      "is_investigational": false
+    },
+    "CTS9026": {
+      "name": "CTS9026",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 548,
+      "is_investigational": false
+    },
+    "CTS9177": {
+      "name": "CTS9177",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 549,
+      "is_investigational": false
+    },
+    "M2585": {
+      "name": "M2585",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 550,
+      "is_investigational": false
+    },
+    "PF5561": {
+      "name": "PF5561",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 551,
+      "is_investigational": false
+    },
+    "CTS10552": {
+      "name": "CTS10552",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 552,
+      "is_investigational": false
+    },
+    "M2603": {
+      "name": "M2603",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 553,
+      "is_investigational": false
+    },
+    "CTS11163": {
+      "name": "CTS11163",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 554,
+      "is_investigational": false
+    },
+    "M2654": {
+      "name": "M2654",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 555,
+      "is_investigational": false
+    },
+    "PF5580": {
+      "name": "PF5580",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 556,
+      "is_investigational": false
+    },
+    "CTS11401": {
+      "name": "CTS11401",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 557,
+      "is_investigational": false
+    },
+    "M2658": {
+      "name": "M2658",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 558,
+      "is_investigational": false
+    },
+    "PF5581": {
+      "name": "PF5581",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 559,
+      "is_investigational": false
+    },
+    "FGC1170": {
+      "name": "FGC1170",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 560,
+      "is_investigational": false
+    },
+    "Y9256": {
+      "name": "Y9256",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 561,
+      "is_investigational": false
+    },
+    "FGC30186": {
+      "name": "FGC30186",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 562,
+      "is_investigational": false
+    },
+    "Z18597": {
+      "name": "Z18597",
+      "snps": [
+        "=O60"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 563,
+      "is_investigational": false
+    },
+    "F549": {
+      "name": "F549",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 564,
+      "is_investigational": false
+    },
+    "M2335": {
+      "name": "M2335",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 565,
+      "is_investigational": false
+    },
+    "S22380": {
+      "name": "S22380",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 566,
+      "is_investigational": false
+    },
+    "V4208": {
+      "name": "V4208",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 567,
+      "is_investigational": false
+    },
+    "CTS11667": {
+      "name": "CTS11667",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 568,
+      "is_investigational": false
+    },
+    "E295": {
+      "name": "E295",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 569,
+      "is_investigational": false
+    },
+    "M2313": {
+      "name": "M2313",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 570,
+      "is_investigational": false
+    },
+    "S11799": {
+      "name": "S11799",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 571,
+      "is_investigational": false
+    },
+    "Z4858": {
+      "name": "Z4858",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 572,
+      "is_investigational": false
+    },
+    "E482": {
+      "name": "E482",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 573,
+      "is_investigational": false
+    },
+    "M2339": {
+      "name": "M2339",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 574,
+      "is_investigational": false
+    },
+    "Z4952": {
+      "name": "Z4952",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 575,
+      "is_investigational": false
+    },
+    "F650": {
+      "name": "F650",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 576,
+      "is_investigational": false
+    },
+    "M2346": {
+      "name": "M2346",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 577,
+      "is_investigational": false
+    },
+    "M2308": {
+      "name": "M2308",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 578,
+      "is_investigational": false
+    },
+    "V1371": {
+      "name": "V1371",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 579,
+      "is_investigational": false
+    },
+    "Z4842": {
+      "name": "Z4842",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 580,
+      "is_investigational": false
+    },
+    "Z12176": {
+      "name": "Z12176",
+      "snps": [
+        "=P64"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 581,
+      "is_investigational": false
+    },
+    "CTS1320": {
+      "name": "CTS1320",
+      "snps": [
+        "=P65"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 582,
+      "is_investigational": false
+    },
+    "M2307": {
+      "name": "M2307",
+      "snps": [
+        "=P65"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 583,
+      "is_investigational": false
+    },
+    "CTS5127": {
+      "name": "CTS5127",
+      "snps": [
+        "=P65"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 584,
+      "is_investigational": false
+    },
+    "M2323": {
+      "name": "M2323",
+      "snps": [
+        "=P65"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 585,
+      "is_investigational": false
+    },
+    "M214": {
+      "name": "M214",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 586,
+      "is_investigational": false
+    },
+    "Page39": {
+      "name": "Page39",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 587,
+      "is_investigational": false
+    },
+    "CTS1636": {
+      "name": "CTS1636",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 588,
+      "is_investigational": false
+    },
+    "M2316": {
+      "name": "M2316",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 589,
+      "is_investigational": false
+    },
+    "CTS3544": {
+      "name": "CTS3544",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 590,
+      "is_investigational": false
+    },
+    "M2319": {
+      "name": "M2319",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 591,
+      "is_investigational": false
+    },
+    "CTS3873": {
+      "name": "CTS3873",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 592,
+      "is_investigational": false
+    },
+    "CTS4135": {
+      "name": "CTS4135",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 593,
+      "is_investigational": false
+    },
+    "M2321": {
+      "name": "M2321",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 594,
+      "is_investigational": false
+    },
+    "CTS5858": {
+      "name": "CTS5858",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 595,
+      "is_investigational": false
+    },
+    "F346": {
+      "name": "F346",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 596,
+      "is_investigational": false
+    },
+    "M2325": {
+      "name": "M2325",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 597,
+      "is_investigational": false
+    },
+    "CTS7029": {
+      "name": "CTS7029",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 598,
+      "is_investigational": false
+    },
+    "M2326": {
+      "name": "M2326",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 599,
+      "is_investigational": false
+    },
+    "CTS7747": {
+      "name": "CTS7747",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 600,
+      "is_investigational": false
+    },
+    "M2328": {
+      "name": "M2328",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 601,
+      "is_investigational": false
+    },
+    "CTS7748": {
+      "name": "CTS7748",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 602,
+      "is_investigational": false
+    },
+    "M2329": {
+      "name": "M2329",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 603,
+      "is_investigational": false
+    },
+    "CTS7905": {
+      "name": "CTS7905",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 604,
+      "is_investigational": false
+    },
+    "M2330": {
+      "name": "M2330",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 605,
+      "is_investigational": false
+    },
+    "CTS8274": {
+      "name": "CTS8274",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 606,
+      "is_investigational": false
+    },
+    "F447": {
+      "name": "F447",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 607,
+      "is_investigational": false
+    },
+    "M2331": {
+      "name": "M2331",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 608,
+      "is_investigational": false
+    },
+    "CTS8891": {
+      "name": "CTS8891",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 609,
+      "is_investigational": false
+    },
+    "CTS9775": {
+      "name": "CTS9775",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 610,
+      "is_investigational": false
+    },
+    "M2334": {
+      "name": "M2334",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 611,
+      "is_investigational": false
+    },
+    "CTS11012": {
+      "name": "CTS11012",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 612,
+      "is_investigational": false
+    },
+    "F630": {
+      "name": "F630",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 613,
+      "is_investigational": false
+    },
+    "M2342": {
+      "name": "M2342",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 614,
+      "is_investigational": false
+    },
+    "CTS11160": {
+      "name": "CTS11160",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 615,
+      "is_investigational": false
+    },
+    "M2343": {
+      "name": "M2343",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 616,
+      "is_investigational": false
+    },
+    "CTS11536": {
+      "name": "CTS11536",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 617,
+      "is_investigational": false
+    },
+    "L838": {
+      "name": "L838",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 618,
+      "is_investigational": false
+    },
+    "M2344": {
+      "name": "M2344",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 619,
+      "is_investigational": false
+    },
+    "CTS11572": {
+      "name": "CTS11572",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 620,
+      "is_investigational": false
+    },
+    "CTS11623": {
+      "name": "CTS11623",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 621,
+      "is_investigational": false
+    },
+    "E275": {
+      "name": "E275",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 622,
+      "is_investigational": false
+    },
+    "M2309": {
+      "name": "M2309",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 623,
+      "is_investigational": false
+    },
+    "V1408": {
+      "name": "V1408",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 624,
+      "is_investigational": false
+    },
+    "Z4843": {
+      "name": "Z4843",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 625,
+      "is_investigational": false
+    },
+    "E289": {
+      "name": "E289",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 626,
+      "is_investigational": false
+    },
+    "M2311": {
+      "name": "M2311",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 627,
+      "is_investigational": false
+    },
+    "E302": {
+      "name": "E302",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 628,
+      "is_investigational": false
+    },
+    "M2315": {
+      "name": "M2315",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 629,
+      "is_investigational": false
+    },
+    "Z4866": {
+      "name": "Z4866",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 630,
+      "is_investigational": false
+    },
+    "E330": {
+      "name": "E330",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 631,
+      "is_investigational": false
+    },
+    "M2318": {
+      "name": "M2318",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 632,
+      "is_investigational": false
+    },
+    "S16324": {
+      "name": "S16324",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 633,
+      "is_investigational": false
+    },
+    "Z4901": {
+      "name": "Z4901",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 634,
+      "is_investigational": false
+    },
+    "E475": {
+      "name": "E475",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 635,
+      "is_investigational": false
+    },
+    "M2336": {
+      "name": "M2336",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 636,
+      "is_investigational": false
+    },
+    "Z4940": {
+      "name": "Z4940",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 637,
+      "is_investigational": false
+    },
+    "E477": {
+      "name": "E477",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 638,
+      "is_investigational": false
+    },
+    "F588": {
+      "name": "F588",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 639,
+      "is_investigational": false
+    },
+    "M2338": {
+      "name": "M2338",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 640,
+      "is_investigational": false
+    },
+    "Z4944": {
+      "name": "Z4944",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 641,
+      "is_investigational": false
+    },
+    "E492": {
+      "name": "E492",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 642,
+      "is_investigational": false
+    },
+    "M2341": {
+      "name": "M2341",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 643,
+      "is_investigational": false
+    },
+    "Z4965": {
+      "name": "Z4965",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 644,
+      "is_investigational": false
+    },
+    "E537": {
+      "name": "E537",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 645,
+      "is_investigational": false
+    },
+    "M2345": {
+      "name": "M2345",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 646,
+      "is_investigational": false
+    },
+    "S25729": {
+      "name": "S25729",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 647,
+      "is_investigational": false
+    },
+    "Z5035": {
+      "name": "Z5035",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 648,
+      "is_investigational": false
+    },
+    "F7": {
+      "name": "F7",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 649,
+      "is_investigational": false
+    },
+    "M2304": {
+      "name": "M2304",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 650,
+      "is_investigational": false
+    },
+    "S8255": {
+      "name": "S8255",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 651,
+      "is_investigational": false
+    },
+    "F53": {
+      "name": "F53",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 652,
+      "is_investigational": false
+    },
+    "M2305": {
+      "name": "M2305",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 653,
+      "is_investigational": false
+    },
+    "S9681": {
+      "name": "S9681",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 654,
+      "is_investigational": false
+    },
+    "F107": {
+      "name": "F107",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 655,
+      "is_investigational": false
+    },
+    "M2310": {
+      "name": "M2310",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 656,
+      "is_investigational": false
+    },
+    "S10947": {
+      "name": "S10947",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 657,
+      "is_investigational": false
+    },
+    "V1570": {
+      "name": "V1570",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 658,
+      "is_investigational": false
+    },
+    "F156": {
+      "name": "F156",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 659,
+      "is_investigational": false
+    },
+    "M2312": {
+      "name": "M2312",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 660,
+      "is_investigational": false
+    },
+    "F287": {
+      "name": "F287",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 661,
+      "is_investigational": false
+    },
+    "M2320": {
+      "name": "M2320",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 662,
+      "is_investigational": false
+    },
+    "V2864": {
+      "name": "V2864",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 663,
+      "is_investigational": false
+    },
+    "F306": {
+      "name": "F306",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 664,
+      "is_investigational": false
+    },
+    "M2322": {
+      "name": "M2322",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 665,
+      "is_investigational": false
+    },
+    "S17726": {
+      "name": "S17726",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 666,
+      "is_investigational": false
+    },
+    "V3232": {
+      "name": "V3232",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 667,
+      "is_investigational": false
+    },
+    "F339": {
+      "name": "F339",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 668,
+      "is_investigational": false
+    },
+    "M2324": {
+      "name": "M2324",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 669,
+      "is_investigational": false
+    },
+    "F415": {
+      "name": "F415",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 670,
+      "is_investigational": false
+    },
+    "M2327": {
+      "name": "M2327",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 671,
+      "is_investigational": false
+    },
+    "S19886": {
+      "name": "S19886",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 672,
+      "is_investigational": false
+    },
+    "F468": {
+      "name": "F468",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 673,
+      "is_investigational": false
+    },
+    "M2332": {
+      "name": "M2332",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 674,
+      "is_investigational": false
+    },
+    "S20648": {
+      "name": "S20648",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 675,
+      "is_investigational": false
+    },
+    "F658": {
+      "name": "F658",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 676,
+      "is_investigational": false
+    },
+    "M2347": {
+      "name": "M2347",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 677,
+      "is_investigational": false
+    },
+    "S25824": {
+      "name": "S25824",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 678,
+      "is_investigational": false
+    },
+    "F8170": {
+      "name": "F8170",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 679,
+      "is_investigational": false
+    },
+    "FGC13363": {
+      "name": "FGC13363",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 680,
+      "is_investigational": false
+    },
+    "M2340": {
+      "name": "M2340",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 681,
+      "is_investigational": false
+    },
+    "Z4953": {
+      "name": "Z4953",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 682,
+      "is_investigational": false
+    },
+    "P192": {
+      "name": "P192",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 683,
+      "is_investigational": false
+    },
+    "P193": {
+      "name": "P193",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 684,
+      "is_investigational": false
+    },
+    "P194": {
+      "name": "P194",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 685,
+      "is_investigational": false
+    },
+    "Z4896": {
+      "name": "Z4896",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 686,
+      "is_investigational": false
+    },
+    "Z5020": {
+      "name": "Z5020",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 687,
+      "is_investigational": false
+    },
+    "Z18603": {
+      "name": "Z18603",
+      "snps": [
+        "=Q66"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 688,
+      "is_investigational": false
+    },
+    "CTS707": {
+      "name": "CTS707",
+      "snps": [
+        "=Q67"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 689,
+      "is_investigational": false
+    },
+    "M2306": {
+      "name": "M2306",
+      "snps": [
+        "=Q67"
+      ],
+      "depth": 10,
+      "parent_id": "CF",
+      "children": [],
+      "order_index": 690,
+      "is_investigational": false
+    }
+  },
+  "root_nodes": [
+    "Y"
+  ]
+}

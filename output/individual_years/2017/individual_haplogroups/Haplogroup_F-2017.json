@@ -1,0 +1,966 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2017",
+    "type": "haplogroup",
+    "major_haplogroup": "F",
+    "root_haplogroup": "F",
+    "root_parent": "CF",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 5
+  },
+  "tree": {
+    "F": {
+      "id": "F",
+      "name": "F",
+      "parent_id": "CF",
+      "depth": 7,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M89",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "PF2746",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "CTS3536",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3688",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2666",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3654",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3689",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2667",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "CTS3996",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3692",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2671",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "CTS4443",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3696",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2677",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "CTS6135",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3708",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2693",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "CTS12632",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3771",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2775",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F719",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "IMS-JST00305",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3636",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "S8235",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1046",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3646",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2610",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "YSC0001295",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1209",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3654",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "YSC0001297",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1320",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3657",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2621",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1329",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3658",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2622",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "YSC0001299",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1704",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3675",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2651",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1714",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3677",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2653",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1753",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3681",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2658",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F1767",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3683",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2660",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2048",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3701",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2683",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "V3268",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2075",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2685",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2142",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2688",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2155",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3704",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2690",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2402",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3714",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2700",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2587",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3719",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2709",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "YSC0001308",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2688",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3722",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2716",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2837",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3726",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2722",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2985",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3736",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2731",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F2993",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3737",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2732",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "V3940",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F3111",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3740",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2736",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F3136",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3741",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2737",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F3335",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3754",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2758",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "F3692",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3650",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L132.1",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "L468",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3703",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2689",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L470",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3735",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2730",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "L882",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3749",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2745",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M213",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P137",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Page38",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF2673",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M235",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Page80",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "PF2665",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M3637",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2589",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "V186",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3638",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2590",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "V205",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3639",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2591",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3647",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2611",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3652",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2615",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3750",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2747",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3751",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2748",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "M3752",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2749",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "P14",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2704"
+          ]
+        },
+        {
+          "name": "P134",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P135",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2741"
+          ]
+        },
+        {
+          "name": "P136",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2762"
+          ]
+        },
+        {
+          "name": "P138",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2655"
+          ]
+        },
+        {
+          "name": "P139",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P140",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P141",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2602"
+          ]
+        },
+        {
+          "name": "P145",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2617"
+          ]
+        },
+        {
+          "name": "P146",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2623"
+          ]
+        },
+        {
+          "name": "P148",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2734"
+          ]
+        },
+        {
+          "name": "P149",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P151",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2625"
+          ]
+        },
+        {
+          "name": "P157",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P158",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2706"
+          ]
+        },
+        {
+          "name": "P159",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2717"
+          ]
+        },
+        {
+          "name": "P160",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2618"
+          ]
+        },
+        {
+          "name": "P161",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P163",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P166",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2702"
+          ]
+        },
+        {
+          "name": "P187",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "PF2632"
+          ]
+        },
+        {
+          "name": "P316",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            ""
+          ]
+        },
+        {
+          "name": "PF2696",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2608",
+          "status": "new",
+          "is_representative": false
+        },
+        {
+          "name": "PF2669",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup F is the parent of all Y-DNA haplogroups G through T and contains more than 90 percent of the world's population. Haplogroup F was in the original migration out of Africa, or else it was founded soon afterward, because F and its sub-haplogroups are primarily found outside, with very few inside, sub-Saharan Africa. The founder of F could have lived between 60,000 and 80,000 years ago, depending on the time of the out-of-Africa migration.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "http://isogg.org/tree/ISOGG_HapgrpF.html",
+      "children": [
+        "GHIJK"
+      ],
+      "source_version": "2017",
+      "revision_date": "2017-05-22"
+    },
+    "F1": {
+      "id": "F1",
+      "name": "F1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "*",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P91",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "P104",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2017",
+      "revision_date": "2017-01-01"
+    },
+    "F2": {
+      "id": "F2",
+      "name": "F2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M427",
+          "status": "normal",
+          "is_representative": true
+        },
+        {
+          "name": "M428",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2017",
+      "revision_date": "2017-01-01"
+    },
+    "F3": {
+      "id": "F3",
+      "name": "F3",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "*",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M481",
+          "status": "normal",
+          "is_representative": true
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2017",
+      "revision_date": "2017-01-01"
+    },
+    "F4~": {
+      "id": "F4~",
+      "name": "F4~",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "Z40733",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z40734",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z40735",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z40736",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "Z40737",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2017",
+      "revision_date": "2017-01-01"
+    }
+  }
+}

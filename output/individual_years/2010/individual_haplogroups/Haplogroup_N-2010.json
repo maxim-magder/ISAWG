@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2010",
+    "type": "haplogroup",
+    "major_haplogroup": "N",
+    "root_haplogroup": "N",
+    "root_parent": "NO",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 15
+  },
+  "tree": {
+    "N": {
+      "id": "N",
+      "name": "N",
+      "parent_id": "NO",
+      "depth": 9,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M231",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup N is found throughout Northern Eurasia. Possible points of origin include Northern China and Mongolia, from which the population spread both toward the Baltic region and into Siberia. The dominant N1c branch is found widely distributed in Siberia and in northern Europe. At its western extent, the greatest concentration is found among Finns, Latvians and Lithuanians. The N1b branch, whose geography is largely contained within the larger N1c range, shows two clusters, one in the Ural-Volga area and the other further east. The less common N1a lineage shows a scattered distribution in Asia, with small concentrations in areas of Kazakhstan, Korea and China. The undifferentiated N1* population is widely distributed at low levels of occurrence with a weak concentration in Cambodia and southern China. Haplogroup N has also been found at very low concentration in eastern Europe and in Anatolia.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "https://isogg.org/tree/2010/ISOGG_HapgrpN10.html",
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-12-04"
+    },
+    "N*": {
+      "id": "N*",
+      "name": "N*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1": {
+      "id": "N1",
+      "name": "N1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "LLY22g",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1*": {
+      "id": "N1*",
+      "name": "N1*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1a": {
+      "id": "N1a",
+      "name": "N1a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M128",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1b": {
+      "id": "N1b",
+      "name": "N1b",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P43",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1b*": {
+      "id": "N1b*",
+      "name": "N1b*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1b1": {
+      "id": "N1b1",
+      "name": "N1b1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P63",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1c": {
+      "id": "N1c",
+      "name": "N1c",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M46",
+          "status": "normal",
+          "is_representative": false,
+          "aliases": [
+            "Tat"
+          ]
+        },
+        {
+          "name": "P105",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1c*": {
+      "id": "N1c*",
+      "name": "N1c*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1c1": {
+      "id": "N1c1",
+      "name": "N1c1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M178",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "P298",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1c1*": {
+      "id": "N1c1*",
+      "name": "N1c1*",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1c1a": {
+      "id": "N1c1a",
+      "name": "N1c1a",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P21",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1c1b": {
+      "id": "N1c1b",
+      "name": "N1c1b",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P67",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    },
+    "N1c1c": {
+      "id": "N1c1c",
+      "name": "N1c1c",
+      "parent_id": null,
+      "depth": 4,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P119",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2010",
+      "revision_date": "2010-01-01"
+    }
+  }
+}

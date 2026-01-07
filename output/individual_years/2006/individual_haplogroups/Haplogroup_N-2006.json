@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "source": "ISOGG Y-DNA Haplogroup Tree",
+    "version": "2006",
+    "type": "haplogroup",
+    "major_haplogroup": "N",
+    "root_haplogroup": "N",
+    "root_parent": "NO",
+    "extraction_date": "2026-01-07",
+    "total_subclades": 11
+  },
+  "tree": {
+    "N": {
+      "id": "N",
+      "name": "N",
+      "parent_id": "NO",
+      "depth": 6,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "LLY22g",
+          "status": "normal",
+          "is_representative": false
+        },
+        {
+          "name": "M231",
+          "status": "new",
+          "is_representative": false
+        }
+      ],
+      "description": "Y-DNA haplogroup N is predominantly found throughout Northern Eurasia. It is the most common lineage in Uralic speakers (Finns and Hungarians). The probable point of origin was Northern China or Mongolia, from which it spread both toward the Baltic and into Siberia. It is a common haplogroup in western Siberia.",
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": "ISOGG_HapgrpN06.html",
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-05-12"
+    },
+    "N*": {
+      "id": "N*",
+      "name": "N*",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N1": {
+      "id": "N1",
+      "name": "N1",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M128",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N2": {
+      "id": "N2",
+      "name": "N2",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P43",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N2*": {
+      "id": "N2*",
+      "name": "N2*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N2a": {
+      "id": "N2a",
+      "name": "N2a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P63",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N3": {
+      "id": "N3",
+      "name": "N3",
+      "parent_id": null,
+      "depth": 1,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "Tat (M46)",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N3*": {
+      "id": "N3*",
+      "name": "N3*",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N3a": {
+      "id": "N3a",
+      "name": "N3a",
+      "parent_id": null,
+      "depth": 2,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "M178",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N3a*": {
+      "id": "N3a*",
+      "name": "N3a*",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": true,
+      "defining_snps": [],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    },
+    "N3a1": {
+      "id": "N3a1",
+      "name": "N3a1",
+      "parent_id": null,
+      "depth": 3,
+      "status": "normal",
+      "is_paragroup": false,
+      "defining_snps": [
+        {
+          "name": "P21",
+          "status": "normal",
+          "is_representative": false
+        }
+      ],
+      "description": null,
+      "populations": null,
+      "frequency_notes": null,
+      "detail_page": null,
+      "children": [],
+      "source_version": "2006",
+      "revision_date": "2006-10-16"
+    }
+  }
+}
