@@ -3,7 +3,7 @@
 ## A Comprehensive Guide for Extracting, Parsing, and Merging ISOGG Y-DNA Data
 
 **Version:** 1.0.0  
-**Author:** Maxim Magder 
+**Author:** Maxim Magder  
 **Date:** January 2026  
 **Purpose:** Convert archived ISOGG HTML pages (2006-2017+) into clean, machine-parseable JSON
 
