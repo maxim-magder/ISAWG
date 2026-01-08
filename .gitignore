@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Intermediate/duplicate output folders
+output/
+output_combined/
+output_xlsx/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# liftOver temporary files
+*.bed
+*.unmapped
