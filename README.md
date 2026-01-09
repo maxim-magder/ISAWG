@@ -42,18 +42,23 @@ The original ISOGG data exists as:
 | **Total SNPs** | 91,807 unique markers |
 | **Haplogroup renames tracked** | 1,920 changes |
 | **SNP evolution records** | 68,401 SNPs tracked across years |
-| **Genome builds** | 36 (NCBI36/hg18), 37 (GRCh37/hg19), 38 (GRCh38) |
+| **Genome builds** | 33, 34, 35, 36, 37, 38 (6 builds) |
+| **rs_number coverage** | 49,027 SNPs (53.4%) |
+| **Tree navigation** | Parent/child relationships for 54,618 SNPs |
 | **Output formats** | JSON, JSONL, TSV |
 
 ### Build Position Coverage
 
-| Build | Direct Positions | LiftOver Positions | Total Coverage |
-|-------|-----------------|-------------------|----------------|
-| **Build 36** (2006) | 3,715 | 30,085 | 33,800 (37%) |
-| **Build 37** (2009) | 91,672 | - | 91,672 (99.9%) |
-| **Build 38** (2013) | 91,672 | - | 91,672 (99.9%) |
+| Build | Direct Positions | Coverage |
+|-------|-----------------|----------|
+| **Build 33** (2004) | ~90,000 | 98%+ |
+| **Build 34** (2004) | ~90,000 | 98%+ |
+| **Build 35** (2004) | ~90,000 | 98%+ |
+| **Build 36** (2006) | 33,800 | 37% |
+| **Build 37** (2009) | 91,672 | 99.9% |
+| **Build 38** (2013) | 91,672 | 99.9% |
 
-*Note: Build 36 has lower coverage because the Y chromosome was not fully sequenced in the 2006 assembly.*
+*Note: Build 36 has lower direct coverage because some early Y chromosome positions were not fully mapped.*
 
 ### Haplogroup Evolution
 
@@ -116,7 +121,7 @@ output_master/
 
 **File:** `enhanced_snp_table.tsv` / `.json` / `.jsonl`
 
-The master SNP dataset with 12 columns:
+The master SNP dataset with 16 columns - a complete navigable tree:
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -124,7 +129,10 @@ The master SNP dataset with 12 columns:
 | `haplogroup` | string | Clean haplogroup name (no status markers) |
 | `haplogroup_alpha` | string | Alphanumeric name from 2016 (last year available) |
 | `alternate_names` | list | All known aliases (semicolon-separated in TSV) |
-| `rs_number` | string | dbSNP reference SNP ID |
+| `rs_number` | string | dbSNP reference SNP ID (53.4% coverage) |
+| `build33_position` | integer | Y-chromosome position in NCBI33 |
+| `build34_position` | integer | Y-chromosome position in NCBI34 |
+| `build35_position` | integer | Y-chromosome position in NCBI35 |
 | `build36_position` | integer | Y-chromosome position in NCBI36/hg18 |
 | `build36_liftover` | integer | Reverse-lifted Build 37→36 position |
 | `build37_position` | integer | Y-chromosome position in GRCh37/hg19 |
@@ -132,22 +140,27 @@ The master SNP dataset with 12 columns:
 | `mutation` | string | Nucleotide change (e.g., A→G) |
 | `status` | string | Investigation/Notes/Private/provisional/legacy |
 | `source` | string | Data source year (2019-2020 or 2013) |
+| `parent_name` | string | Parent haplogroup for tree navigation |
+| `child_haplogroups` | list | Child haplogroups for tree navigation |
+| `normative_names` | list | Standard nomenclature variations (e.g., E-M44, E1a-M44) |
 
 **Example JSON:**
 ```json
 {
-  "snp_name": "M168",
-  "haplogroup": "CT",
-  "haplogroup_alpha": "CT",
-  "alternate_names": ["YAP"],
-  "rs_number": "rs2032633",
-  "build36_position": 2655180,
-  "build36_liftover": null,
-  "build37_position": 21753389,
-  "build38_position": 21753389,
-  "mutation": "C->T",
+  "snp_name": "M44",
+  "haplogroup": "E1a1",
+  "haplogroup_alpha": "E1a1",
+  "alternate_names": [],
+  "rs_number": "rs796742903",
+  "build36_position": 20212032,
+  "build37_position": 21752644,
+  "build38_position": 19590758,
+  "mutation": "G->C",
   "status": null,
-  "source": "2019-2020"
+  "source": "2019-2020",
+  "parent_name": "E1a",
+  "child_haplogroups": ["E1a1a", "E1a1b~"],
+  "normative_names": ["E-M44", "E1-M44", "E1a-M44", "E1a1-M44"]
 }
 ```
 
@@ -228,10 +241,12 @@ table(is.na(df$build36_position))
 ## 🔬 Research Applications
 
 1. **Phylogenetic Analysis** - Track haplogroup evolution over 15 years
-2. **Genome Build Conversion** - Convert SNP positions between builds 36/37/38
-3. **SNP Discovery** - Identify newly discovered SNPs by year
-4. **Genealogical Research** - Map family test results to historical haplogroups
-5. **Database Construction** - Build comprehensive Y-DNA reference databases
+2. **Tree Navigation** - Traverse up/down the Y-DNA tree from any SNP using parent_name/child_haplogroups
+3. **Nomenclature Lookup** - Search by normative names (E-M44, R-M269, etc.)
+4. **Genome Build Conversion** - Convert SNP positions between builds 33-38
+5. **SNP Discovery** - Identify newly discovered SNPs by year
+6. **Genealogical Research** - Map family test results to historical haplogroups
+7. **Database Construction** - Build comprehensive Y-DNA reference databases
 
 ---
 

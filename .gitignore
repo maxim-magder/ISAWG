@@ -33,3 +33,4 @@ output_xlsx/
 # liftOver temporary files
 *.bed
 *.unmapped
+.DS_Store

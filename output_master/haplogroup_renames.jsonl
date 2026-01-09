@@ -1285,7 +1285,7 @@
 {"from_year": "2016", "to_year": "2017", "old_name": "G2a2a1a1a2~", "new_name": "G2a2a1a1a3~", "defining_snps": ["Z43080", "Z43081", "Z43082", "Z43083", "Z43084"]}
 {"from_year": "2016", "to_year": "2017", "old_name": "G2a2a1a1b2~", "new_name": "G2a2a1a1b1~", "defining_snps": ["FGC6629", "FGC6631", "FGC6633", "FGC6634"]}
 {"from_year": "2016", "to_year": "2017", "old_name": "G2a2a1a1b3~", "new_name": "G2a2a1a1b2~", "defining_snps": ["FGC34750", "FGC34755", "FGC34757"]}
-{"from_year": "2016", "to_year": "2017", "old_name": "G2a2a1a1b4~", "new_name": "G2a2a1a1b3~", "defining_snps": ["FGC42426", "FGC42431", "FGC42432", "FGC42440", "FGC42441", "G2a2a1a2", "L91", "PF3233", "PF3246", "S19852", "S22038", "S285", "Z6101", "Z6177", "Z6291", "�", "� �", "� � � �"]}
+{"from_year": "2016", "to_year": "2017", "old_name": "G2a2a1a1b4~", "new_name": "G2a2a1a1b3~", "defining_snps": ["FGC42426", "FGC42431", "FGC42432", "FGC42440", "FGC42441", "G2a2a1a2", "L91", "PF3233", "PF3246", "S19852", "S22038", "S285", "Z6101", "Z6177", "Z6291", "", "", ""]}
 {"from_year": "2016", "to_year": "2017", "old_name": "G2a2b1a1a1", "new_name": "G2a2b1a1a1a", "defining_snps": ["Z17083", "Z17085", "Z17086", "Z17088", "Z17090", "Z17091"]}
 {"from_year": "2016", "to_year": "2017", "old_name": "G2a2b1a1a1a~", "new_name": "G2a2b1a1a1a1~", "defining_snps": ["Z31399", "Z31400", "Z31401", "Z31402", "Z31403"]}
 {"from_year": "2016", "to_year": "2017", "old_name": "G2a2b1a1a1b~", "new_name": "G2a2b1a1a1a2~", "defining_snps": ["S27195", "Z31404", "Z31405", "Z31406", "Z31407"]}
